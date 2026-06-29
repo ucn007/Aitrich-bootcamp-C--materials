@@ -1,0 +1,14 @@
+F:\workshop\workshop\bin\Debug\net8.0\workshop.exe
+F:\workshop\workshop\bin\Debug\net8.0\workshop.deps.json
+F:\workshop\workshop\bin\Debug\net8.0\workshop.runtimeconfig.json
+F:\workshop\workshop\bin\Debug\net8.0\workshop.dll
+F:\workshop\workshop\bin\Debug\net8.0\workshop.pdb
+F:\workshop\workshop\obj\Debug\net8.0\workshop.GeneratedMSBuildEditorConfig.editorconfig
+F:\workshop\workshop\obj\Debug\net8.0\workshop.AssemblyInfoInputs.cache
+F:\workshop\workshop\obj\Debug\net8.0\workshop.AssemblyInfo.cs
+F:\workshop\workshop\obj\Debug\net8.0\workshop.csproj.CoreCompileInputs.cache
+F:\workshop\workshop\obj\Debug\net8.0\workshop.dll
+F:\workshop\workshop\obj\Debug\net8.0\refint\workshop.dll
+F:\workshop\workshop\obj\Debug\net8.0\workshop.pdb
+F:\workshop\workshop\obj\Debug\net8.0\workshop.genruntimeconfig.cache
+F:\workshop\workshop\obj\Debug\net8.0\ref\workshop.dll

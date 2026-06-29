@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\machine Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCD18E2-2B5D-4194-AEDE-4D6A80F1C82A}|machine Test\\machine Test.csproj|f:\\machine test\\machine test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCD18E2-2B5D-4194-AEDE-4D6A80F1C82A}|machine Test\\machine Test.csproj|solutionrelative:machine test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\machine Test\\machine Test\\Program.cs",
+              "RelativeDocumentMoniker": "machine Test\\Program.cs",
+              "ToolTip": "F:\\machine Test\\machine Test\\Program.cs*",
+              "RelativeToolTip": "machine Test\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:49:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

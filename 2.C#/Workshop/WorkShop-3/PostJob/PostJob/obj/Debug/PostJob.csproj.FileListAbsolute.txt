@@ -1,0 +1,15 @@
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.exe.config
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.exe.config
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.exe
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\bin\Debug\PostJob.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.exe.config
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.exe
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\2.C#\Workshop\WorkShop-3\PostJob\PostJob\obj\Debug\PostJob.pdb
