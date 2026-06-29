@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\workshop3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD7F2D5-15EB-4A83-A074-2767953A97B2}|workshop3\\workshop3.csproj|d:\\c#\\workshop3\\workshop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD7F2D5-15EB-4A83-A074-2767953A97B2}|workshop3\\workshop3.csproj|solutionrelative:workshop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\workshop3\\workshop3\\Program.cs",
+              "RelativeDocumentMoniker": "workshop3\\Program.cs",
+              "ToolTip": "D:\\C#\\workshop3\\workshop3\\Program.cs",
+              "RelativeToolTip": "workshop3\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:05:22.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
