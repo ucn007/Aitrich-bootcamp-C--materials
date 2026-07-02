@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/studentresult/studentresult/bin/Debug/net10.0/studentresult
+/Users/ucnmac/RiderProjects/studentresult/studentresult/bin/Debug/net10.0/studentresult.deps.json
+/Users/ucnmac/RiderProjects/studentresult/studentresult/bin/Debug/net10.0/studentresult.runtimeconfig.json
+/Users/ucnmac/RiderProjects/studentresult/studentresult/bin/Debug/net10.0/studentresult.dll
+/Users/ucnmac/RiderProjects/studentresult/studentresult/bin/Debug/net10.0/studentresult.pdb
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.dll
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/refint/studentresult.dll
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.pdb
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/studentresult.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/studentresult/studentresult/obj/Debug/net10.0/ref/studentresult.dll

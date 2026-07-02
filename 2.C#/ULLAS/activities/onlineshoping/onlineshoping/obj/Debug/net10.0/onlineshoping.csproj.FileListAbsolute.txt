@@ -1,0 +1,15 @@
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/bin/Debug/net10.0/onlineshoping
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/bin/Debug/net10.0/onlineshoping.deps.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/bin/Debug/net10.0/onlineshoping.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/bin/Debug/net10.0/onlineshoping.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/bin/Debug/net10.0/onlineshoping.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.sourcelink.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/refint/onlineshoping.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/onlineshoping.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/onlineshoping/onlineshoping/obj/Debug/net10.0/ref/onlineshoping.dll

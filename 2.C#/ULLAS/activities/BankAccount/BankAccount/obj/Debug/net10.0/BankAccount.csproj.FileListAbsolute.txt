@@ -1,0 +1,15 @@
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.sourcelink.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.deps.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/refint/BankAccount.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/BankAccount/BankAccount/obj/Debug/net10.0/ref/BankAccount.dll

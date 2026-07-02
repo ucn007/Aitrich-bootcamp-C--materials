@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/bin/Debug/net10.0/AtmWidrawal
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/bin/Debug/net10.0/AtmWidrawal.deps.json
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/bin/Debug/net10.0/AtmWidrawal.runtimeconfig.json
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/bin/Debug/net10.0/AtmWidrawal.dll
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/bin/Debug/net10.0/AtmWidrawal.pdb
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.dll
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/refint/AtmWidrawal.dll
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.pdb
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/AtmWidrawal.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/AtmWidrawal/AtmWidrawal/obj/Debug/net10.0/ref/AtmWidrawal.dll

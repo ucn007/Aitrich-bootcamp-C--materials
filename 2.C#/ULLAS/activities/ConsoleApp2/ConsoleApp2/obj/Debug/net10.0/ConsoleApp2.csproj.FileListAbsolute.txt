@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll

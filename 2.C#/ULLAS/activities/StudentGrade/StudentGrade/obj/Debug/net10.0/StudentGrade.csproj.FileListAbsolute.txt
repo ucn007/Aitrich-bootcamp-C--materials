@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/bin/Debug/net10.0/StudentGrade
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/bin/Debug/net10.0/StudentGrade.deps.json
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/bin/Debug/net10.0/StudentGrade.runtimeconfig.json
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/bin/Debug/net10.0/StudentGrade.dll
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/bin/Debug/net10.0/StudentGrade.pdb
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.dll
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/refint/StudentGrade.dll
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.pdb
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/StudentGrade.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/StudentGrade/StudentGrade/obj/Debug/net10.0/ref/StudentGrade.dll

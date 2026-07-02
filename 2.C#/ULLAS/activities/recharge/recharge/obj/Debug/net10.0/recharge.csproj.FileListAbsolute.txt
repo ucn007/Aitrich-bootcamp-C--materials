@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/recharge/recharge/bin/Debug/net10.0/recharge
+/Users/ucnmac/RiderProjects/recharge/recharge/bin/Debug/net10.0/recharge.deps.json
+/Users/ucnmac/RiderProjects/recharge/recharge/bin/Debug/net10.0/recharge.runtimeconfig.json
+/Users/ucnmac/RiderProjects/recharge/recharge/bin/Debug/net10.0/recharge.dll
+/Users/ucnmac/RiderProjects/recharge/recharge/bin/Debug/net10.0/recharge.pdb
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.dll
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/refint/recharge.dll
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.pdb
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/recharge.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/recharge/recharge/obj/Debug/net10.0/ref/recharge.dll

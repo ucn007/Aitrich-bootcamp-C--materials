@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/bin/Debug/net10.0/loginsystem
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/bin/Debug/net10.0/loginsystem.deps.json
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/bin/Debug/net10.0/loginsystem.runtimeconfig.json
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/bin/Debug/net10.0/loginsystem.dll
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/bin/Debug/net10.0/loginsystem.pdb
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.dll
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/refint/loginsystem.dll
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.pdb
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/loginsystem.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/loginsystem/loginsystem/obj/Debug/net10.0/ref/loginsystem.dll
