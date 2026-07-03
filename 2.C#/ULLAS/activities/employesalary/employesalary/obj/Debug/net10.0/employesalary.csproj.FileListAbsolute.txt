@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/employesalary/employesalary/bin/Debug/net10.0/employesalary
+/Users/ucnmac/RiderProjects/employesalary/employesalary/bin/Debug/net10.0/employesalary.deps.json
+/Users/ucnmac/RiderProjects/employesalary/employesalary/bin/Debug/net10.0/employesalary.runtimeconfig.json
+/Users/ucnmac/RiderProjects/employesalary/employesalary/bin/Debug/net10.0/employesalary.dll
+/Users/ucnmac/RiderProjects/employesalary/employesalary/bin/Debug/net10.0/employesalary.pdb
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.dll
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/refint/employesalary.dll
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.pdb
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/employesalary.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/employesalary/employesalary/obj/Debug/net10.0/ref/employesalary.dll

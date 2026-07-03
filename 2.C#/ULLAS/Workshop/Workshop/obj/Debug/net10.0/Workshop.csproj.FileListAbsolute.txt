@@ -1,0 +1,15 @@
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.sourcelink.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/bin/Debug/net10.0/Workshop
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/bin/Debug/net10.0/Workshop.deps.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/bin/Debug/net10.0/Workshop.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/bin/Debug/net10.0/Workshop.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/bin/Debug/net10.0/Workshop.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/refint/Workshop.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/Workshop.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/Workshop/Workshop/obj/Debug/net10.0/ref/Workshop.dll
