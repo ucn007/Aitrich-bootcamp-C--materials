@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnXnlA73cIA=",
+  "success": true,
+  "projectFilePath": "D:\\REESHMA\\Asp.NetCore_Material\\chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aitrich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aitrich\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aitrich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aitrich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
