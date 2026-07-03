@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/bin/Debug/net10.0/Restaurantmenu
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/bin/Debug/net10.0/Restaurantmenu.deps.json
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/bin/Debug/net10.0/Restaurantmenu.runtimeconfig.json
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/bin/Debug/net10.0/Restaurantmenu.dll
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/bin/Debug/net10.0/Restaurantmenu.pdb
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.dll
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/refint/Restaurantmenu.dll
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.pdb
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/Restaurantmenu.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/ Restaurantmenu/ Restaurantmenu/obj/Debug/net10.0/ref/Restaurantmenu.dll

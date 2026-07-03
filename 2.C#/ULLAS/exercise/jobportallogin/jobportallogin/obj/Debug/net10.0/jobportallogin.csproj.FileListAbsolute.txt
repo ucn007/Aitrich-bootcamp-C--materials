@@ -1,0 +1,15 @@
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/bin/Debug/net10.0/jobportallogin
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/bin/Debug/net10.0/jobportallogin.deps.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/bin/Debug/net10.0/jobportallogin.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/bin/Debug/net10.0/jobportallogin.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/bin/Debug/net10.0/jobportallogin.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.sourcelink.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/refint/jobportallogin.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/jobportallogin.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/exercise/jobportallogin/jobportallogin/obj/Debug/net10.0/ref/jobportallogin.dll

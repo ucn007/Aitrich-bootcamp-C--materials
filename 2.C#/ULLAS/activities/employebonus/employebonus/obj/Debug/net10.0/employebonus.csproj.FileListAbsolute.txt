@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/employebonus/employebonus/bin/Debug/net10.0/employebonus
+/Users/ucnmac/RiderProjects/employebonus/employebonus/bin/Debug/net10.0/employebonus.deps.json
+/Users/ucnmac/RiderProjects/employebonus/employebonus/bin/Debug/net10.0/employebonus.runtimeconfig.json
+/Users/ucnmac/RiderProjects/employebonus/employebonus/bin/Debug/net10.0/employebonus.dll
+/Users/ucnmac/RiderProjects/employebonus/employebonus/bin/Debug/net10.0/employebonus.pdb
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.dll
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/refint/employebonus.dll
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.pdb
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/employebonus.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/employebonus/employebonus/obj/Debug/net10.0/ref/employebonus.dll
