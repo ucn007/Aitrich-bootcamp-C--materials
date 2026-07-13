@@ -63,11 +63,11 @@ namespace Admin_Job.Manager
                                 Console.Write("exit");
                             }
                         }
-                            return true;
-                        }
+                    return true;
                 }
+            }
 
-                Console.WriteLine("Invalid username or password.");
+            Console.WriteLine("Invalid username or password.");
                 return false;
             }
 

@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/bin/Debug/net10.0/RentalSystem
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/bin/Debug/net10.0/RentalSystem.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/bin/Debug/net10.0/RentalSystem.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/bin/Debug/net10.0/RentalSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/bin/Debug/net10.0/RentalSystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/refint/RentalSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/RentalSystem.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/RentalSystem/RentalSystem/obj/Debug/net10.0/ref/RentalSystem.dll
