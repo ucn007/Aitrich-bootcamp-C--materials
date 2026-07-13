@@ -13,3 +13,18 @@
 /Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/machine test/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.pdb
 /Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/machine test/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.genruntimeconfig.cache
 /Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/machine test/Machinetest/Machinetest/obj/Debug/net10.0/ref/Machinetest.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/bin/Debug/net10.0/Machinetest
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/bin/Debug/net10.0/Machinetest.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/bin/Debug/net10.0/Machinetest.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/bin/Debug/net10.0/Machinetest.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/bin/Debug/net10.0/Machinetest.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/refint/Machinetest.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/Machinetest.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/2.C#/Machinetest/Machinetest/obj/Debug/net10.0/ref/Machinetest.dll

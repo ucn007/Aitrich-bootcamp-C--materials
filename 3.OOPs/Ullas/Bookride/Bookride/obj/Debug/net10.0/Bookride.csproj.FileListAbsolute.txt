@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/bin/Debug/net10.0/Bookride
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/bin/Debug/net10.0/Bookride.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/bin/Debug/net10.0/Bookride.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/bin/Debug/net10.0/Bookride.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/bin/Debug/net10.0/Bookride.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/refint/Bookride.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/Bookride.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Bookride/Bookride/obj/Debug/net10.0/ref/Bookride.dll
