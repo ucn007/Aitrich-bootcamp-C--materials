@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/bin/Debug/net10.0/BanckScheme
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/bin/Debug/net10.0/BanckScheme.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/bin/Debug/net10.0/BanckScheme.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/bin/Debug/net10.0/BanckScheme.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/bin/Debug/net10.0/BanckScheme.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/refint/BanckScheme.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/BanckScheme.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BanckScheme/BanckScheme/obj/Debug/net10.0/ref/BanckScheme.dll

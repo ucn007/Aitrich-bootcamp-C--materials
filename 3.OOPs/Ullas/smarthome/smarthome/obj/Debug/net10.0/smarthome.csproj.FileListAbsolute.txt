@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/bin/Debug/net10.0/smarthome
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/bin/Debug/net10.0/smarthome.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/bin/Debug/net10.0/smarthome.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/bin/Debug/net10.0/smarthome.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/bin/Debug/net10.0/smarthome.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/refint/smarthome.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/smarthome.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/smarthome/smarthome/obj/Debug/net10.0/ref/smarthome.dll

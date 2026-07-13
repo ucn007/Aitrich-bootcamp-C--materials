@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "onlinepayment/1.0.0": {
+        "runtime": {
+          "onlinepayment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "onlinepayment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

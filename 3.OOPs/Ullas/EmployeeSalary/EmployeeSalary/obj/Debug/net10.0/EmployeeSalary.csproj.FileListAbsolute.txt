@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/bin/Debug/net10.0/EmployeeSalary
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/bin/Debug/net10.0/EmployeeSalary.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/bin/Debug/net10.0/EmployeeSalary.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/bin/Debug/net10.0/EmployeeSalary.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/bin/Debug/net10.0/EmployeeSalary.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/refint/EmployeeSalary.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/EmployeeSalary.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/EmployeeSalary/EmployeeSalary/obj/Debug/net10.0/ref/EmployeeSalary.dll

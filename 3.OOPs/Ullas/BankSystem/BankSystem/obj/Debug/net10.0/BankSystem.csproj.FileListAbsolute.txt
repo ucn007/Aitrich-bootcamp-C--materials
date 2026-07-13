@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/bin/Debug/net10.0/BankSystem
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/bin/Debug/net10.0/BankSystem.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/bin/Debug/net10.0/BankSystem.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/bin/Debug/net10.0/BankSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/bin/Debug/net10.0/BankSystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/refint/BankSystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/BankSystem.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/BankSystem/BankSystem/obj/Debug/net10.0/ref/BankSystem.dll
