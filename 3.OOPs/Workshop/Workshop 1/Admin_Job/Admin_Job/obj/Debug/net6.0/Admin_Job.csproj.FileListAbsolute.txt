@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/bin/Debug/net6.0/Admin_Job
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/bin/Debug/net6.0/Admin_Job.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/bin/Debug/net6.0/Admin_Job.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/bin/Debug/net6.0/Admin_Job.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/bin/Debug/net6.0/Admin_Job.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/refint/Admin_Job.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/ref/Admin_Job.dll

@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/bin/Debug/net10.0/Electricitybill
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/bin/Debug/net10.0/Electricitybill.deps.json
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/bin/Debug/net10.0/Electricitybill.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/bin/Debug/net10.0/Electricitybill.dll
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/bin/Debug/net10.0/Electricitybill.pdb
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.dll
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/refint/Electricitybill.dll
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.pdb
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/Electricitybill.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Electricitybill/Electricitybill/obj/Debug/net10.0/ref/Electricitybill.dll

@@ -1,0 +1,15 @@
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/bin/Debug/net10.0/ClassSubjects
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/bin/Debug/net10.0/ClassSubjects.deps.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/bin/Debug/net10.0/ClassSubjects.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/bin/Debug/net10.0/ClassSubjects.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/bin/Debug/net10.0/ClassSubjects.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.sourcelink.json
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/refint/ClassSubjects.dll
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.pdb
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ClassSubjects.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Aitrich-bootcamp-C--materials/2.C#/ULLAS/activities/ClassSubjects/ClassSubjects/obj/Debug/net10.0/ref/ClassSubjects.dll
