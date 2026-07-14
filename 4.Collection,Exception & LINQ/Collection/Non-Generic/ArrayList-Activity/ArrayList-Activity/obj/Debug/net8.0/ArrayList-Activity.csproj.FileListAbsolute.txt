@@ -1,0 +1,15 @@
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.exe
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.deps.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.runtimeconfig.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfoInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfo.cs
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.csproj.CoreCompileInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.sourcelink.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\refint\ArrayList-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.genruntimeconfig.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ref\ArrayList-Activity.dll

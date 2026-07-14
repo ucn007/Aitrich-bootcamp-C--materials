@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "vOeBXWguado=",
+  "success": true,
+  "projectFilePath": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception & LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+=======
+  "dgSpecHash": "/2phpqMhzZY=",
+  "success": true,
+  "projectFilePath": "D:\\AiTrich Technologies\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception & LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+>>>>>>> 2a77f8fadcf82f5ca7c8654585762e66d1c138ac
+  "expectedPackageFiles": [],
+  "logs": []
+}
