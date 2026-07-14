@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/bin/Debug/net10.0/JobAdmin
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/bin/Debug/net10.0/JobAdmin.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/bin/Debug/net10.0/JobAdmin.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/bin/Debug/net10.0/JobAdmin.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/bin/Debug/net10.0/JobAdmin.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/refint/JobAdmin.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/JobAdmin.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/Workshop/JobAdmin/JobAdmin/obj/Debug/net10.0/ref/JobAdmin.dll

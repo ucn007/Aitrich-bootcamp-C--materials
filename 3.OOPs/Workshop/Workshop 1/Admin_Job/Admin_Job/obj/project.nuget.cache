@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYjji/aqxxU=",
+  "success": true,
+  "projectFilePath": "/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/Admin_Job.csproj",
+  "expectedPackageFiles": [
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

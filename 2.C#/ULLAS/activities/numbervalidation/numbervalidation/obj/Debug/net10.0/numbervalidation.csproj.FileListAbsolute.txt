@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/bin/Debug/net10.0/numbervalidation
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/bin/Debug/net10.0/numbervalidation.deps.json
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/bin/Debug/net10.0/numbervalidation.runtimeconfig.json
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/bin/Debug/net10.0/numbervalidation.dll
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/bin/Debug/net10.0/numbervalidation.pdb
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.dll
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/refint/numbervalidation.dll
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.pdb
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/numbervalidation.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/numbervalidation/numbervalidation/obj/Debug/net10.0/ref/numbervalidation.dll

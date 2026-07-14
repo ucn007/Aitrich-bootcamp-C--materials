@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/bin/Debug/net10.0/onlinepayment
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/bin/Debug/net10.0/onlinepayment.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/bin/Debug/net10.0/onlinepayment.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/bin/Debug/net10.0/onlinepayment.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/bin/Debug/net10.0/onlinepayment.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/refint/onlinepayment.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/onlinepayment.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/onlinepayment/onlinepayment/obj/Debug/net10.0/ref/onlinepayment.dll

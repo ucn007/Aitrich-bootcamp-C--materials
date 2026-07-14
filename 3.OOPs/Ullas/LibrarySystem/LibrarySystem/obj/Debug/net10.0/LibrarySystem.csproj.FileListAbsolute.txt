@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/bin/Debug/net10.0/LibrarySystem
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/bin/Debug/net10.0/LibrarySystem.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/bin/Debug/net10.0/LibrarySystem.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/bin/Debug/net10.0/LibrarySystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/bin/Debug/net10.0/LibrarySystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/refint/LibrarySystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/LibrarySystem.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/LibrarySystem/LibrarySystem/obj/Debug/net10.0/ref/LibrarySystem.dll

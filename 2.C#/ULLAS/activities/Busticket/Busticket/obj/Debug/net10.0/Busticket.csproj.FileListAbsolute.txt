@@ -1,0 +1,14 @@
+/Users/ucnmac/RiderProjects/Busticket/Busticket/bin/Debug/net10.0/Busticket
+/Users/ucnmac/RiderProjects/Busticket/Busticket/bin/Debug/net10.0/Busticket.deps.json
+/Users/ucnmac/RiderProjects/Busticket/Busticket/bin/Debug/net10.0/Busticket.runtimeconfig.json
+/Users/ucnmac/RiderProjects/Busticket/Busticket/bin/Debug/net10.0/Busticket.dll
+/Users/ucnmac/RiderProjects/Busticket/Busticket/bin/Debug/net10.0/Busticket.pdb
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.AssemblyInfoInputs.cache
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.AssemblyInfo.cs
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.csproj.CoreCompileInputs.cache
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.dll
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/refint/Busticket.dll
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.pdb
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/Busticket.genruntimeconfig.cache
+/Users/ucnmac/RiderProjects/Busticket/Busticket/obj/Debug/net10.0/ref/Busticket.dll
