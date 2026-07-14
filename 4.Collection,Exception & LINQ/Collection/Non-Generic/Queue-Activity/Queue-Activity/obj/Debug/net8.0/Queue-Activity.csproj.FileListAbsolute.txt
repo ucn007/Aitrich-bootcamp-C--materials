@@ -1,0 +1,15 @@
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\bin\Debug\net8.0\Queue-Activity.exe
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\bin\Debug\net8.0\Queue-Activity.deps.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\bin\Debug\net8.0\Queue-Activity.runtimeconfig.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\bin\Debug\net8.0\Queue-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\bin\Debug\net8.0\Queue-Activity.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.AssemblyInfoInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.AssemblyInfo.cs
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.csproj.CoreCompileInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.sourcelink.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\refint\Queue-Activity.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\Queue-Activity.genruntimeconfig.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\Queue-Activity\Queue-Activity\obj\Debug\net8.0\ref\Queue-Activity.dll

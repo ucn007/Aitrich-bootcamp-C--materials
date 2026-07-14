@@ -1,0 +1,15 @@
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.exe
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.deps.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.runtimeconfig.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.AssemblyInfoInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.AssemblyInfo.cs
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.csproj.CoreCompileInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.sourcelink.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\refint\ShipmentTracking.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.genruntimeconfig.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ref\ShipmentTracking.dll

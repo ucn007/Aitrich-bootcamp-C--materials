@@ -1,0 +1,15 @@
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\bin\Debug\net7.0\JobSeeker.exe
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\bin\Debug\net7.0\JobSeeker.deps.json
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\bin\Debug\net7.0\JobSeeker.runtimeconfig.json
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\bin\Debug\net7.0\JobSeeker.dll
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\bin\Debug\net7.0\JobSeeker.pdb
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.AssemblyInfoInputs.cache
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.AssemblyInfo.cs
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.sourcelink.json
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.dll
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\refint\JobSeeker.dll
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.pdb
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\JobSeeker.genruntimeconfig.cache
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 4\Workshops\Workshop-4\JobSeeker\JobSeeker\obj\Debug\net7.0\ref\JobSeeker.dll

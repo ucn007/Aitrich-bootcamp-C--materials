@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\workshops\\workshop-3\\jobprovider\\jobprovider\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF8C17-5C3B-453A-982B-0C8E656EEA82}|JobProvider\\JobProvider.csproj|solutionrelative:jobprovider\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "JobProvider\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:09:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Interface\\IJobProvider.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IJobProvider.cs",
+              "RelativeToolTip": "JobProvider\\Interface\\IJobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:09:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "JobProvider\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:09:05.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Interface\\IMenu.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Interface\\IMenu.cs",
+              "RelativeToolTip": "JobProvider\\Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:08:59.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Enums\\Roles.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Enums\\Roles.cs",
+              "RelativeToolTip": "JobProvider\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:08:39.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "JobProvider\\Enums\\ExperienceLevel.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Workshops\\Workshop-3\\JobProvider\\JobProvider\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "JobProvider\\Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:08:26.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
