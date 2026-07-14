@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|c:\\aitrich\\asp.net-core-batch-40\\asp .net core\\4.collection,exception \u0026 linq\\collection\\non-generic\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|solutionrelative:arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList-Activity\\Program.cs",
+              "ToolTip": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "RelativeToolTip": "ArrayList-Activity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:55:51.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

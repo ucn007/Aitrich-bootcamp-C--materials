@@ -1,0 +1,15 @@
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll

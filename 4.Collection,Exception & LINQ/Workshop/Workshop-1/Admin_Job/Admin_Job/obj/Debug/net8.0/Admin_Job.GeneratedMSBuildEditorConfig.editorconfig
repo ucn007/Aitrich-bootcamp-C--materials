@@ -1,0 +1,21 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Admin_Job
+<<<<<<< HEAD
+build_property.ProjectDir = C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\
+=======
+build_property.ProjectDir = D:\AiTrich Technologies\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\
+>>>>>>> 2a77f8fadcf82f5ca7c8654585762e66d1c138ac
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

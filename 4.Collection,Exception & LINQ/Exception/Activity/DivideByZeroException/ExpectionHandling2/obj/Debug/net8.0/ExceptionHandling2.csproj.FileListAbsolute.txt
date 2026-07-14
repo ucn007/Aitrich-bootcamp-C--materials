@@ -1,0 +1,15 @@
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\bin\Debug\net8.0\ExceptionHandling2.exe
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\bin\Debug\net8.0\ExceptionHandling2.deps.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\bin\Debug\net8.0\ExceptionHandling2.runtimeconfig.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\bin\Debug\net8.0\ExceptionHandling2.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\bin\Debug\net8.0\ExceptionHandling2.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.AssemblyInfoInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.AssemblyInfo.cs
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.sourcelink.json
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\refint\ExceptionHandling2.dll
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.pdb
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ExceptionHandling2.genruntimeconfig.cache
+C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Exception\Activity\DivideByZeroException\ExpectionHandling2\obj\Debug\net8.0\ref\ExceptionHandling2.dll
