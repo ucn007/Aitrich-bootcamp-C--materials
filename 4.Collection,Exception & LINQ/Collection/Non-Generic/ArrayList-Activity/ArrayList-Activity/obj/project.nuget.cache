@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Yx5mu6WhaQo=",
+  "dgSpecHash": "BRgfm6JdJcQ=",
   "success": true,
-  "projectFilePath": "C:\\aitrich\\Asp.net-core-Batch-40\\Asp .Net Core\\4.Collection,Exception & LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\ArrayList-Activity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/ArrayList-Activity.csproj",
+  "expectedPackageFiles": [
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

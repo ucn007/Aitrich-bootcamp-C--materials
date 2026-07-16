@@ -22,6 +22,7 @@ class Library
         books.Add("The Great Gatsby");
         books.Add("To Kill a Mockingbird");
         books.Add("1984");
+        books.Add("10");
         books.Add("Moby Dick");
         books.Add("Pride and Prejudice");
 

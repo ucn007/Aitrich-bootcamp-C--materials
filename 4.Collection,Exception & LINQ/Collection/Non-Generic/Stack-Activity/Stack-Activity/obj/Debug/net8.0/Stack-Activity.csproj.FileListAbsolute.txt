@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/bin/Debug/net8.0/Stack-Activity
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/bin/Debug/net8.0/Stack-Activity.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/bin/Debug/net8.0/Stack-Activity.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/bin/Debug/net8.0/Stack-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/bin/Debug/net8.0/Stack-Activity.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/refint/Stack-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/Stack-Activity.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/Stack-Activity/Stack-Activity/obj/Debug/net8.0/ref/Stack-Activity.dll

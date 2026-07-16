@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "56e6ev7vLBc=",
+  "success": true,
+  "projectFilePath": "/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-Queue/Generic-Queue/Generic-Queue.csproj",
+  "expectedPackageFiles": [
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

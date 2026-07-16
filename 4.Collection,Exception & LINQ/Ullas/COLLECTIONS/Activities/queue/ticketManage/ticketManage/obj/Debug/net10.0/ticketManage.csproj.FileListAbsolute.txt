@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/bin/Debug/net10.0/ticketManage
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/bin/Debug/net10.0/ticketManage.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/bin/Debug/net10.0/ticketManage.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/bin/Debug/net10.0/ticketManage.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/bin/Debug/net10.0/ticketManage.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/refint/ticketManage.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ticketManage.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/queue/ticketManage/ticketManage/obj/Debug/net10.0/ref/ticketManage.dll

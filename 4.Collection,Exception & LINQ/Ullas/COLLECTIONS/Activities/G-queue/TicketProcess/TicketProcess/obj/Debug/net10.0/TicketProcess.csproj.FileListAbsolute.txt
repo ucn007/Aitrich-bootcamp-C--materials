@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/bin/Debug/net10.0/TicketProcess
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/bin/Debug/net10.0/TicketProcess.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/bin/Debug/net10.0/TicketProcess.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/bin/Debug/net10.0/TicketProcess.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/bin/Debug/net10.0/TicketProcess.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/refint/TicketProcess.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/TicketProcess.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-queue/TicketProcess/TicketProcess/obj/Debug/net10.0/ref/TicketProcess.dll

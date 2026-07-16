@@ -1,15 +1,30 @@
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.exe
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.deps.json
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.runtimeconfig.json
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.dll
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.pdb
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfoInputs.cache
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfo.cs
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.csproj.CoreCompileInputs.cache
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.sourcelink.json
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.dll
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\refint\ArrayList-Activity.dll
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.genruntimeconfig.cache
-C:\aitrich\Asp.net-core-Batch-40\Asp .Net Core\4.Collection,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ref\ArrayList-Activity.dll
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.exe
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.deps.json
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.runtimeconfig.json
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.dll
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.pdb
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.AssemblyInfoInputs.cache
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.AssemblyInfo.cs
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.csproj.CoreCompileInputs.cache
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.sourcelink.json
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.dll
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/refint/ArrayList-Activity.dll
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.pdb
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.genruntimeconfig.cache
+C:/aitrich/Asp.net-core-Batch-40/Asp .Net Core/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ref/ArrayList-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/bin/Debug/net8.0/ArrayList-Activity.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/refint/ArrayList-Activity.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ArrayList-Activity.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Non-Generic/ArrayList-Activity/ArrayList-Activity/obj/Debug/net8.0/ref/ArrayList-Activity.dll

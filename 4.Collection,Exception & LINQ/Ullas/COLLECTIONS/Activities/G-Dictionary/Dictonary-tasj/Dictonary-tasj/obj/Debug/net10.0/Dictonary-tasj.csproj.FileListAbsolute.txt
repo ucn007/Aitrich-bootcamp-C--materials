@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/bin/Debug/net10.0/Dictonary-tasj
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/bin/Debug/net10.0/Dictonary-tasj.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/bin/Debug/net10.0/Dictonary-tasj.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/bin/Debug/net10.0/Dictonary-tasj.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/bin/Debug/net10.0/Dictonary-tasj.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/refint/Dictonary-tasj.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/Dictonary-tasj.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/G-Dictionary/Dictonary-tasj/Dictonary-tasj/obj/Debug/net10.0/ref/Dictonary-tasj.dll

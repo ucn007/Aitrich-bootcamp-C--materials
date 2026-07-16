@@ -1,15 +1,30 @@
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\bin\Debug\net8.0\Generic-ArrayList.exe
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\bin\Debug\net8.0\Generic-ArrayList.deps.json
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\bin\Debug\net8.0\Generic-ArrayList.runtimeconfig.json
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\bin\Debug\net8.0\Generic-ArrayList.dll
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\bin\Debug\net8.0\Generic-ArrayList.pdb
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.AssemblyInfoInputs.cache
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.AssemblyInfo.cs
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.csproj.CoreCompileInputs.cache
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.sourcelink.json
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.dll
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\refint\Generic-ArrayList.dll
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.pdb
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\Generic-ArrayList.genruntimeconfig.cache
-C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\4.Collection,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\obj\Debug\net8.0\ref\Generic-ArrayList.dll
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.exe
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.deps.json
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.runtimeconfig.json
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.dll
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.pdb
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.AssemblyInfoInputs.cache
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.AssemblyInfo.cs
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.csproj.CoreCompileInputs.cache
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.sourcelink.json
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.dll
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/refint/Generic-ArrayList.dll
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.pdb
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.genruntimeconfig.cache
+C:/Aitrich Bootcamp/Asp.net-Core-Full-Stack-Batch-27/Asp.NetCore/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/ref/Generic-ArrayList.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/bin/Debug/net8.0/Generic-ArrayList.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/refint/Generic-ArrayList.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/Generic-ArrayList.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Collection/Generic/Generic-ArrayList/Generic-ArrayList/obj/Debug/net8.0/ref/Generic-ArrayList.dll

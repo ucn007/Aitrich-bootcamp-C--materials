@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/bin/Debug/net10.0/Library
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/bin/Debug/net10.0/Library.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/bin/Debug/net10.0/Library.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/bin/Debug/net10.0/Library.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/bin/Debug/net10.0/Library.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/refint/Library.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/Library.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/hashtable/Library/Library/obj/Debug/net10.0/ref/Library.dll

@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/bin/Debug/net10.0/Librarybooks
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/bin/Debug/net10.0/Librarybooks.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/bin/Debug/net10.0/Librarybooks.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/bin/Debug/net10.0/Librarybooks.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/bin/Debug/net10.0/Librarybooks.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/refint/Librarybooks.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/Librarybooks.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/3.OOPs/Ullas/COLLECTIONS/Activities/Generic Arraylist/Librarybooks/Librarybooks/obj/Debug/net10.0/ref/Librarybooks.dll

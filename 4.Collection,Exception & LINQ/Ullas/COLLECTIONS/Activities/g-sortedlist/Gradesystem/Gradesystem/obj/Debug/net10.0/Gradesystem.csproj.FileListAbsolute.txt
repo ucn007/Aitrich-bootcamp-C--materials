@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/bin/Debug/net10.0/Gradesystem
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/bin/Debug/net10.0/Gradesystem.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/bin/Debug/net10.0/Gradesystem.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/bin/Debug/net10.0/Gradesystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/bin/Debug/net10.0/Gradesystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/refint/Gradesystem.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/Gradesystem.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/g-sortedlist/Gradesystem/Gradesystem/obj/Debug/net10.0/ref/Gradesystem.dll
