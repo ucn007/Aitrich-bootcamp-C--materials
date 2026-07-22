@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/bin/Debug/net10.0/indexout
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/bin/Debug/net10.0/indexout.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/bin/Debug/net10.0/indexout.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/bin/Debug/net10.0/indexout.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/bin/Debug/net10.0/indexout.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/refint/indexout.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/indexout.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/COLLECTIONS/Activities/exception/indexout/indexout/obj/Debug/net10.0/ref/indexout.dll

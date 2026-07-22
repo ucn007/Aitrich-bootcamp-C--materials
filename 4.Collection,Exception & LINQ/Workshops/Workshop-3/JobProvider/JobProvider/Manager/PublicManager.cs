@@ -12,6 +12,7 @@ namespace JobProvider.Manager
 {
     public class PublicManager:IMenu
     {
+        Valida
   UserRepository userRepository = new UserRepository();
         public User LoggedUser = new User();
         bool _isLogged = false;

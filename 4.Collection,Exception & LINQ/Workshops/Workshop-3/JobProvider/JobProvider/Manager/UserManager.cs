@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace JobProvider.Manager
 {
-    public class UserManager:IMenu
+    public class UserManager: IMenu
     {
         private User loggedUser;
         public UserManager(User loggedUser)

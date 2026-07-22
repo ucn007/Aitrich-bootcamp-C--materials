@@ -1,0 +1,15 @@
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.AssemblyInfoInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.AssemblyInfo.cs
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.csproj.CoreCompileInputs.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.sourcelink.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/bin/Debug/net10.0/WorkShop
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/bin/Debug/net10.0/WorkShop.deps.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/bin/Debug/net10.0/WorkShop.runtimeconfig.json
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/bin/Debug/net10.0/WorkShop.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/bin/Debug/net10.0/WorkShop.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/refint/WorkShop.dll
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.pdb
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/WorkShop.genruntimeconfig.cache
+/Users/ucnmac/Documents/GitHub/Aitrich-bootcamp-C--materials/4.Collection,Exception & LINQ/Ullas/Workshop/WorkShop/WorkShop/obj/Debug/net10.0/ref/WorkShop.dll
