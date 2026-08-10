@@ -1,0 +1,43 @@
+﻿@page
+@model TourDestination.Pages.Destination.IndexModel
+@{
+    ViewData["Title"] = "Destinations";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<div class="row ">
+    <div class="col-md-8"><h2 class="text-center mb-4">Destinations</h2></div>
+    <div class="col-md-4"><a asp-page="create" asp-route-id="" class="btn btn-warning">Create new</a></div>
+</div>
+<div class="row">
+    @foreach (var destination in Model.DestinationList)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                @if (!string.IsNullOrEmpty(destination.ImagePath))
+                {
+                    <img src="@destination.ImagePath" class="card-img-top" alt="@destination.Name" style="height:200px; object-fit:cover;" />
+                }
+                else
+                {
+                    <img src="/images/default.jpg" class="card-img-top" alt="No Image" style="height:200px; object-fit:cover;" />
+                }
+
+                <div class="card-body">
+                    <h5 class="card-title">@destination.Name</h5>
+                    <p class="card-text">@destination.City</p>
+                     <div class="d-flex justify-content-between">
+        <a asp-page="Update" asp-route-id="@destination.Id" class="btn btn-warning btn-sm">Update</a>
+        <a asp-page="Delete" asp-route-id="@destination.Id" class="btn btn-danger btn-sm">Delete</a>
+    </div>
+                </div>
+            </div>
+        </div>
+       
+    }

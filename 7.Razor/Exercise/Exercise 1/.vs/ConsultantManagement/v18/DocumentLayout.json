@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\model\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\model\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\consultantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\consultantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\consultantt\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|d:\\materials\\penguin\\training material\\razor\\exercise\\exercise 1\\consultantmanagement\\migrations\\20260213110812_addded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\migrations\\20260213110812_addded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:04:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultantDto.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Dto\\ConsultantDto.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Dto\\ConsultantDto.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Dto\\ConsultantDto.cs",
+              "RelativeToolTip": "ConsultantManagement\\Dto\\ConsultantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:35:39.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Dto\\RegisterDto.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "ConsultantManagement\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:36:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Enums\\Status.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Enums\\Status.cs",
+              "RelativeToolTip": "ConsultantManagement\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:44:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:13:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consultants.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\Consultants.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Model\\Consultants.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\Consultants.cs",
+              "RelativeToolTip": "ConsultantManagement\\Model\\Consultants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:40:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultantService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Service\\ConsultantService.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Service\\ConsultantService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Service\\ConsultantService.cs",
+              "RelativeToolTip": "ConsultantManagement\\Service\\ConsultantService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:30:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:44:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ConsultantManagement\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:36:20.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "ConsultantManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:35:31.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Program.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Program.cs",
+              "RelativeToolTip": "ConsultantManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:35:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Model\\Register.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\Register.cs",
+              "RelativeToolTip": "ConsultantManagement\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:09:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ConsultantManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ConsultantManagement\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-26T11:31:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Edit.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Edit.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:27:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "View.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\View.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\View.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\View.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\View.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:13:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ConsultantManagement\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:30:42.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultantManagement.csproj",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+              "RelativeDocumentMoniker": "ConsultantManagement\\ConsultantManagement.csproj",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+              "RelativeToolTip": "ConsultantManagement\\ConsultantManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T08:42:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:04:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:34:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Status.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Status.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Status.cs",
+              "RelativeToolTip": "ConsultantManagement\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:43:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Login.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:36:47.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\View.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\View.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\View.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:11:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260213110812_addded.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Migrations\\20260213110812_addded.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Migrations\\20260213110812_addded.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Migrations\\20260213110812_addded.cs",
+              "RelativeToolTip": "ConsultantManagement\\Migrations\\20260213110812_addded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:08:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:04:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:04:35.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:04:35.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsultantManagement\\appsettings.json",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\appsettings.json",
+              "RelativeToolTip": "ConsultantManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T11:05:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:04:35.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\consultantt\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\consultantt\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\consultantt\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\consultantt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\consultantt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|c:\\users\\asrithadevi\\source\\repos\\consultantmanagement\\consultantmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9002FBF7-B18F-4C29-A8BA-FE7183B52AEC}|ConsultantManagement\\ConsultantManagement.csproj|solutionrelative:consultantmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T04:39:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:44:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Delete.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:32:22.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:25:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:31:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\ConsultantManagement\\ConsultantManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T05:27:40.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿@page
+@model ConsultantManagement.Pages.RegisterModel
+@{
+}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card shadow">
+                <div class="card-header text-center bg-success text-white">
+                    <h4>Register</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label asp-for="RegisterInfo.Name" class="form-label"></label>
+                            <input asp-for="RegisterInfo.Name" class="form-control" />
+                            <span asp-validation-for="RegisterInfo.Name" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="RegisterInfo.Username" class="form-label"></label>
+                            <input asp-for="RegisterInfo.Username" class="form-control" />
+                            <span asp-validation-for="RegisterInfo.Username" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="RegisterInfo.Password" class="form-label"></label>
+                            <input asp-for="RegisterInfo.Password" type="password" class="form-control" />
+                            <span asp-validation-for="RegisterInfo.Password" class="text-danger"></span>
+                        </div>
+                     
+
+
+                        <button type="submit" class="btn btn-success w-100">Register</button>
+                    </form>
+                </div>
+                <div class="card-footer text-center">
+                    <a asp-page="/Login">Already have an account? Login</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

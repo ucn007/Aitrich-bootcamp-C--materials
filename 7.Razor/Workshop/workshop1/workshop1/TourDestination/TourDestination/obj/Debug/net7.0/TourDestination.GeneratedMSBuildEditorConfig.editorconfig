@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TourDestination
+build_property.RootNamespace = TourDestination
+build_property.ProjectDir = D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Destination/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Destination/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Destination/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGluYXRpb25cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-95z9f0s3hp

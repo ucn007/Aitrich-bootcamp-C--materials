@@ -1,0 +1,211 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    var username = Context.Session.GetString("UserName");
+    var currentPage = ViewContext.RouteData.Values["page"]?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TravelsDb</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <style>
+        body {
+            background-color: #f5f7fa;
+        }
+
+        .custom-navbar {
+            background: white;
+            border-radius: 10px;
+            padding: 10px 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        .brand-logo {
+            font-weight: 600;
+        }
+
+        .user-badge {
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            background: #0d6efd;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 500;
+        }
+
+        footer {
+            background: #0f172a;
+            color: white;
+            padding: 40px 0;
+            margin-top: 60px;
+        }
+
+            footer a {
+                color: #cbd5e1;
+                text-decoration: none;
+            }
+
+                footer a:hover {
+                    color: white;
+                }
+
+        .subscribe-input {
+            border-radius: 20px;
+        }
+
+        .join-btn {
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <div class="container mt-3">
+        <nav class="navbar navbar-expand-lg custom-navbar">
+            <div class="container-fluid">
+
+                <a class="navbar-brand d-flex align-items-center" asp-area="" asp-page="/Index">
+                    <img src="~/images/logo.png" alt="Logo" width="40" height="40" class="me-2" />
+                    TourAgency
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarContent">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+
+                    <ul class="navbar-nav gap-3">
+                        <li class="nav-item">
+                            <a class="nav-link @(currentPage == "/Index" ? "fw-bold text-primary" : "")"
+                               asp-page="/Index">
+                                Home
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link @(currentPage == "/Work/Index" ? "fw-bold text-primary" : "")"
+                               asp-page="/Work/Index">
+                                Destinations
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link @(currentPage == "/Work/Tours" ? "fw-bold text-primary" : "")"
+                               asp-page="/Work/Tours">
+                                Manage Tours
+                            </a>
+                        </li>
+
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link @(currentPage == "/Work/Consultants" ? "fw-bold text-primary" : "")"
+                               asp-page="/Work/Consultants">
+                                Manage Consultants
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav align-items-center gap-2">
+
+                        @if (username == null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Account/Register">Register</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Account/Login">Login</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item d-flex align-items-center gap-2">
+                                <div class="user-badge">
+                                    @username.Substring(0, 1).ToUpper()
+                                </div>
+                                <span class="text-dark">@username</span>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" asp-page="/Account/Logout">
+                                    Logout
+                                </a>
+                            </li>
+                        }
+
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- PAGE CONTENT -->
+    <div class="container mt-4">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-3">
+                    <h5>TravelsDb</h5>
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Quick Links</h6>
+                    <a asp-page="/Index">Home</a><br />
+                    <a asp-page="/Destinations/Index">Destinations</a><br />
+                    <a asp-page="/Tours/Index">Tours</a><br />
+                    <a asp-page="/Bookings/Index">Booking</a>
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Support</h6>
+                    <a asp-page="/Privacy">Privacy Policy</a><br />
+                    <a href="#">FAQs</a><br />
+                    <a href="#">Contact</a>
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Subscribe</h6>
+                    <div class="input-group">
+                        <input type="email" class="form-control subscribe-input"
+                               placeholder="Enter your email" />
+                        <button class="btn btn-primary join-btn">Join</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <hr class="mt-4" style="background-color:#334155;" />
+
+            <div class="text-center">
+                &copy; 2026 - TravelsDb. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

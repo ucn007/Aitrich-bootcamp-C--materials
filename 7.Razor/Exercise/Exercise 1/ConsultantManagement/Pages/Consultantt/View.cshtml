@@ -1,0 +1,36 @@
+﻿@page "{id:int}"
+@model ConsultantManagement.Pages.Consultantt.ViewModel
+
+<div class="container mt-4">
+
+    <h3 class="mb-4">Consultant Details</h3>
+
+    @if (Model.ConsultantInfo != null)
+    {
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h5>@Model.ConsultantInfo.Name</h5>
+                <p><strong>Email:</strong> @Model.ConsultantInfo.Email</p>
+                <p><strong>Phone:</strong> @Model.ConsultantInfo.Phone</p>
+                <p><strong>Gender:</strong> @Model.ConsultantInfo.Gender</p>
+                <p><strong>Username:</strong> @Model.ConsultantInfo.Username</p>
+                <p><strong>Status:</strong> @Model.ConsultantInfo.Status</p>
+                <p><strong>Assigned Tours:</strong> @Model.ConsultantInfo.AssignedTours</p>
+                <p><strong>Bookings:</strong> @Model.ConsultantInfo.Bookings</p>
+                <p>
+                    <strong>Joined Date:</strong>
+                    @Model.ConsultantInfo.JoinedDate.ToString("dd MMM yyyy")
+                </p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            Consultant not found.
+        </div>
+    }
+
+    <a asp-page="Index" class="btn btn-secondary">Back</a>
+
+</div>

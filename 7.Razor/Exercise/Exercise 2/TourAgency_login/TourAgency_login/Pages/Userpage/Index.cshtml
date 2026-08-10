@@ -1,0 +1,105 @@
+﻿@page
+@model TourConsultant_login.Pages.Userpage.IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+    <div class="container">
+       
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="btn btn-outline-success me-2" asp-page="/Userpage/Register">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-outline-success" asp-page="/Userpage/Login">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+    </div> 
+
+   
+    <div class="row g-4" mt-90>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img1.jpg" />
+                <div class="card-body">
+                    <h5>Paris</h5>
+                    <p>Experience the beauty of Paris.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img2.jpg" />
+                <div class="card-body">
+                    <h5>Dubai</h5>
+                    <p>Luxury and adventure in Dubai.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img3.jpg" />
+                <div class="card-body">
+                    <h5>Bali</h5>
+                    <p>Relax in tropical paradise Bali.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img4.jpg" />
+                <div class="card-body">
+                    <h5>London</h5>
+                    <p>Explore historic London city.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img5.jpg" />
+                <div class="card-body">
+                    <h5>Singapore</h5>
+                    <p>Modern beauty of Singapore.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="destination-card">
+                <img src="~/Images/img6.jpg" />
+                <div class="card-body">
+                    <h5>Maldives</h5>
+                    <p>Crystal clear beaches in Maldives.</p>
+                </div>
+            </div>
+        </div>
+</div>
+
+<style>
+    .banner-image {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .banner-text h1 {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+    .banner-text p {
+        font-size: 1.25rem;
+    }
+</style>

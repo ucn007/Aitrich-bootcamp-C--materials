@@ -1,0 +1,87 @@
+﻿@page
+@model TourConsultant_login.Pages.Userpage.HomeModel
+@{
+    ViewData["Title"] = "Home";
+    var userName = HttpContext.Session.GetString("UserName");
+}
+
+<h3 class="fw-bold mb-4 text-secondary">Popular Destinations</h3>
+
+<div class="row g-4">
+
+    <!-- Bali -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img10.jpg" class="card-img-top" alt="Bali">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Bali</h5>
+                <p class="card-text text-muted">Indonesia</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Goa -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img11.jpg" class="card-img-top" alt="Goa">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Goa</h5>
+                <p class="card-text text-muted">India</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Statue of Liberty -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img7.jpg" class="card-img-top" alt="Statue of Liberty">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Statue of Liberty</h5>
+                <p class="card-text text-muted">New York, USA</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Singapore -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img9.jpg" class="card-img-top" alt="Singapore">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Singapore</h5>
+                <p class="card-text text-muted">Singapore</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Malaysia -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img8.jpg" class="card-img-top" alt="Malaysia">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Malaysia</h5>
+                <p class="card-text text-muted">Kuala Lumpur</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Paris -->
+    <div class="col-md-4">
+        <div class="card shadow-sm border-0 rounded-3 overflow-hidden destination-card">
+            <img src="/images/img6.jpg" class="card-img-top" alt="Paris">
+            <div class="card-body text-center">
+                <h5 class="card-title fw-bold">Paris</h5>
+                <p class="card-text text-muted">France</p>
+                <a href="#" class="btn btn-outline-primary btn-sm">View Details</a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Bootstrap Icons -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">

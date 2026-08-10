@@ -1,0 +1,60 @@
+﻿@page "{id:guid}"
+@model TourConsultant_login.Pages.Tourpage.EditTourModel
+
+<h2>Edit Tour</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Tour.Id" />
+
+    <div class="mb-3">
+        <label asp-for="Tour.TourName"></label>
+        <input asp-for="Tour.TourName" class="form-control" />
+        <span asp-validation-for="Tour.TourName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tour.TourDescription"></label>
+        <textarea asp-for="Tour.TourDescription" class="form-control"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tour.NoOfNights"></label>
+        <input asp-for="Tour.NoOfNights" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tour.Price"></label>
+        <input asp-for="Tour.Price" class="form-control" />
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Tour.DepartureDate"></label>
+        <input asp-for="Tour.DepartureDate"
+               type="date"
+               class="form-control" />
+        <span asp-validation-for="Tour.DepartureDate"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tour.ArrivalDate"></label>
+        <input asp-for="Tour.ArrivalDate"
+               type="date"
+               class="form-control" />
+        <span asp-validation-for="Tour.ArrivalDate"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tour.DestinationId"></label>
+        <select asp-for="Tour.DestinationId"
+                asp-items="Model.DestinationList"
+                class="form-control">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Tour.DestinationId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
