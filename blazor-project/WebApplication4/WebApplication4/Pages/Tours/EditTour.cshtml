@@ -1,0 +1,97 @@
+@page "{id:int}"
+@model WebApplication4.Pages.Tours.EditTour
+
+@{
+    ViewData["Title"] = "Edit Tour";
+}
+
+<div class="container py-5">
+
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-7">
+
+            <div class="card shadow-sm">
+
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">Edit Tour</h3>
+                </div>
+
+                <div class="card-body p-4">
+
+                    <form method="post">
+
+                        <input type="hidden" asp-for="Tour.Id" />
+
+                        <!-- Tour Name -->
+                        <div class="mb-3">
+                            <label asp-for="Tour.Name" class="form-label">
+                                Tour Name
+                            </label>
+
+                            <input asp-for="Tour.Name"
+                                   class="form-control"
+                                   placeholder="Enter tour name" />
+
+                            <span asp-validation-for="Tour.Name"
+                                  class="text-danger"></span>
+                        </div>
+
+                        <!-- Description -->
+                        <div class="mb-3">
+                            <label asp-for="Tour.Description" class="form-label">
+                                Description
+                            </label>
+
+                            <textarea asp-for="Tour.Description"
+                                      class="form-control"
+                                      rows="5"
+                                      placeholder="Enter tour description"></textarea>
+
+                            <span asp-validation-for="Tour.Description"
+                                  class="text-danger"></span>
+                        </div>
+
+                        <!-- Seats -->
+                        <div class="mb-3">
+                            <label asp-for="Tour.Seats" class="form-label">
+                                Number of Seats
+                            </label>
+
+                            <input asp-for="Tour.Seats"
+                                   type="number"
+                                   min="1"
+                                   class="form-control"
+                                   placeholder="Enter number of seats" />
+
+                            <span asp-validation-for="Tour.Seats"
+                                  class="text-danger"></span>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="d-flex gap-2 mt-4">
+
+                            <button type="submit"
+                                    class="btn btn-primary">
+                                Save Changes
+                            </button>
+
+                            <a asp-page="/Tours/index"
+                               class="btn btn-secondary">
+                                Cancel
+                            </a>
+
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

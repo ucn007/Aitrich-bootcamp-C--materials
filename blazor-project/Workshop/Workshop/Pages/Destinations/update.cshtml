@@ -1,0 +1,141 @@
+@page "{id:int}"
+@model Workshop.Pages.Destinations.UpdateModel
+
+@{
+    ViewData["Title"] = "Update Destination";
+}
+
+<div class="container py-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-8 col-lg-6">
+
+            <div class="card shadow-sm border-0">
+
+                <div class="card-body p-4">
+
+                    <h2 class="mb-1">Update Destination</h2>
+
+                    <p class="text-muted mb-4">
+                        Update destination details
+                    </p>
+
+                    <form method="post" enctype="multipart/form-data">
+
+                        <div asp-validation-summary="ModelOnly"
+                             class="text-danger mb-3">
+                        </div>
+
+                        <input type="hidden"
+                               asp-for="Destination.Id" />
+
+                        <!-- Name -->
+                        <div class="mb-3">
+                            <label asp-for="Destination.Name"
+                                   class="form-label">
+                                Destination Name
+                            </label>
+
+                            <input asp-for="Destination.Name"
+                                   class="form-control"
+                                   placeholder="Enter destination name" />
+
+                            <span asp-validation-for="Destination.Name"
+                                  class="text-danger">
+                            </span>
+                        </div>
+
+                        <!-- City -->
+                        <div class="mb-3">
+                            <label asp-for="Destination.City"
+                                   class="form-label">
+                                City
+                            </label>
+
+                            <input asp-for="Destination.City"
+                                   class="form-control"
+                                   placeholder="Enter city" />
+
+                            <span asp-validation-for="Destination.City"
+                                  class="text-danger">
+                            </span>
+                        </div>
+
+                        <!-- Current Image -->
+                        @if (!string.IsNullOrEmpty(Model.CurrentImagePath))
+                        {
+                            <div class="mb-3">
+                                <label class="form-label">
+                                    Current Image
+                                </label>
+
+                                <div>
+                                    <img src="@Model.CurrentImagePath"
+                                         alt="@Model.Destination.Name"
+                                         class="current-image" />
+                                </div>
+                            </div>
+                        }
+
+                        <!-- New Image -->
+                        <div class="mb-4">
+                            <label asp-for="Destination.ImageFile"
+                                   class="form-label">
+                                New Image
+                            </label>
+
+                            <input asp-for="Destination.ImageFile"
+                                   type="file"
+                                   class="form-control"
+                                   accept="image/*" />
+
+                            <small class="text-muted">
+                                Leave empty to keep the current image.
+                            </small>
+
+                            <span asp-validation-for="Destination.ImageFile"
+                                  class="text-danger">
+                            </span>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="d-flex gap-2">
+
+                            <button type="submit"
+                                    class="btn btn-primary">
+                                Update Destination
+                            </button>
+
+                            <a asp-page="/Destinations/Index"
+                               class="btn btn-secondary">
+                                Cancel
+                            </a>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<style>
+    .current-image {
+        width: 180px;
+        height: 120px;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+    }
+</style>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercise
+build_property.RootNamespace = Exercise
+build_property.ProjectDir = /Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Admin/Destinations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRGVzdGluYXRpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Admin/Destinations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRGVzdGluYXRpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/Exercise/Exercise/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hourf9m11q

@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Exercise</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/Exercise.styles.css" asp-append-version="true"/>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
+        <div class="container">
+
+            
+            <!-- Brand -->
+            <a class="navbar-brand fw-bold"
+               asp-area=""
+               asp-page="/Index">
+                Trippin
+            </a>
+
+            <!-- Mobile Toggle -->
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#mainNavbar"
+                    aria-controls="mainNavbar"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navigation -->
+            <div class="collapse navbar-collapse" id="mainNavbar">
+
+                <!-- Left Menu -->
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           asp-area=""
+                           asp-page="/Index">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           asp-area=""
+                           asp-page="/Destinations/Index">
+                            Destination
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           asp-area=""
+                           asp-page="/Tours/Index">
+                            Manage Tour
+                        </a>
+                    </li>
+
+                </ul>
+
+                <!-- Right Side -->
+                <div class="d-flex">
+
+                    <a class="btn btn-primary px-4"
+                       asp-area=""
+                       asp-page="/Login">
+                        Login
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+    </nav>
+    
+
+</header>
+
+<div class="w-100">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="border-top bg-light mt-5">
+    <div class="container py-4">
+
+        
+        <div class="row">
+
+            <!-- Brand -->
+            <div class="col-md-6 mb-3 mb-md-0">
+                <h5 class="fw-bold mb-2">Trippin</h5>
+
+                <p class="text-muted mb-0">
+                    Manage your destinations and tours with ease.
+                </p>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h6 class="fw-bold">Quick Links</h6>
+
+                <ul class="list-unstyled mb-0">
+                    <li>
+                        <a asp-page="/Index"
+                           class="text-decoration-none text-muted">
+                            Home
+                        </a>
+                    </li>
+
+                    <li>
+                        <a asp-page="/Destinations/Index"
+                           class="text-decoration-none text-muted">
+                            Destinations
+                        </a>
+                    </li>
+
+                    <li>
+                        <a asp-page="/Tours/Index"
+                           class="text-decoration-none text-muted">
+                            Manage Tour
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Account -->
+            <div class="col-md-3">
+                <h6 class="fw-bold">Account</h6>
+
+                <ul class="list-unstyled mb-0">
+                    <li>
+                        <a asp-page="/Login"
+                           class="text-decoration-none text-muted">
+                            Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <hr class="my-4">
+
+        <div class="d-flex flex-column flex-md-row
+                justify-content-between align-items-center">
+
+            <p class="text-muted small mb-2 mb-md-0">
+                © @DateTime.Now.Year Exercise. All rights reserved.
+            </p>
+
+            <p class="text-muted small mb-0">
+                Built with ASP.NET Core
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

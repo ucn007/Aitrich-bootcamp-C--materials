@@ -1,0 +1,125 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="container py-5">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+
+        <div>
+            <h2 class="fw-bold mb-1">
+                📚 Books
+            </h2>
+
+            <p class="text-muted mb-0">
+                Browse all available books
+            </p>
+        </div>
+
+        
+
+    </div>
+
+
+    <!-- Books -->
+    @if (Model.Books.Any())
+    {
+        <div class="row g-4">
+
+            @foreach (var book in Model.Books)
+            {
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="card h-100 border-0 shadow-sm">
+
+                        <div class="card-body p-4">
+
+                            <!-- Book Icon -->
+                            <div class="mb-3">
+
+                                <div class="bg-primary bg-opacity-10
+                                            rounded-circle
+                                            d-flex align-items-center
+                                            justify-content-center"
+                                     style="width:60px;height:60px;">
+
+                                    <span class="fs-3">
+                                        📖
+                                    </span>
+
+                                </div>
+
+                            </div>
+
+
+                            <!-- Book Information -->
+                            <h5 class="card-title fw-bold">
+                                @book.title
+                            </h5>
+
+                            <p class="text-muted mb-3">
+                                By @book.author
+                            </p>
+
+
+                            <!-- Quantity -->
+                            <div class="d-flex justify-content-between
+                                        align-items-center">
+
+                                <span class="text-muted">
+                                    Available
+                                </span>
+
+                                @if (book.quantity > 0)
+                                {
+                                    <span class="badge bg-success">
+                                        @book.quantity copies
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">
+                                        Out of stock
+                                    </span>
+                                }
+
+                            </div>
+
+                        </div>
+
+
+                        <!-- Card Footer -->
+                       
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    }
+    else
+    {
+        <!-- Empty State -->
+        <div class="text-center py-5">
+
+            <div class="fs-1 mb-3">
+                📚
+            </div>
+
+            <h4 class="fw-bold">
+                No books available
+            </h4>
+
+            <p class="text-muted">
+                Add your first book to the library.
+            </p>
+
+           
+
+        </div>
+    }
+
+</div>

@@ -1,0 +1,89 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow p-4" style="width: 100%; max-width: 400px;">
+        <div class="card-body">
+            <h2 class="text-center mb-4">Login</h2>
+         
+            <form method="post">
+
+                <!-- Validation -->
+                <div asp-validation-summary="All"
+                     class="alert alert-danger"
+                     role="alert">
+                </div>
+
+                <!-- Username -->
+                <div class="mb-3">
+
+                    <label asp-for="Username"
+                           class="form-label fw-semibold">
+                        Username
+                    </label>
+
+                    <div class="input-group">
+                        <span class="input-group-text">
+                            <i class="bi bi-person"></i>
+                        </span>
+
+                        <input asp-for="Username"
+                               class="form-control"
+                               placeholder="Enter username"
+                               autocomplete="username" />
+                    </div>
+
+                    <span asp-validation-for="Username"
+                          class="text-danger small">
+                    </span>
+
+                </div>
+
+                <!-- Password -->
+                <div class="mb-4">
+
+                    <label asp-for="Password"
+                           class="form-label fw-semibold">
+                        Password
+                    </label>
+
+                    <div class="input-group">
+                        <span class="input-group-text">
+                            <i class="bi bi-lock"></i>
+                        </span>
+
+                        <input asp-for="Password"
+                               type="password"
+                               class="form-control"
+                               placeholder="Enter password"
+                               autocomplete="current-password" />
+                    </div>
+
+                    <span asp-validation-for="Password"
+                          class="text-danger small">
+                    </span>
+
+                </div>
+
+                <!-- Login Button -->
+                <div class="d-grid">
+
+                    <button type="submit"
+                            class="btn btn-primary btn-lg">
+                        <i class="bi bi-box-arrow-in-right me-2"></i>
+                        Login
+                    </button>
+
+                </div>
+
+            </form>
+
+            <div class="text-center mt-3">
+                <span>Don't have an account?</span>
+                <a  href="/Register">Register</a>
+            </div>
+        </div>
+    </div>
+</div>

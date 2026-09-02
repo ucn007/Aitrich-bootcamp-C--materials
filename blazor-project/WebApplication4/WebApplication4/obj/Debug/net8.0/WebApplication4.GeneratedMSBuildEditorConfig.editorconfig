@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication4
+build_property.RootNamespace = WebApplication4
+build_property.ProjectDir = /Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Destination/addDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVzdGluYXRpb24vYWRkRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Destination/editDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVzdGluYXRpb24vZWRpdERlc3RpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Destination/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVzdGluYXRpb24vaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Tours/createTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG91cnMvY3JlYXRlVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Tours/EditTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG91cnMvRWRpdFRvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Tours/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG91cnMvaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/WebApplication4/WebApplication4/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q9hbpjab80
