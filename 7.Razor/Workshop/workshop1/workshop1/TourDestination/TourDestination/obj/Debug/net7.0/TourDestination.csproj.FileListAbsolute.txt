@@ -1,159 +1,239 @@
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.csproj.AssemblyReference.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rpswa.dswa.cache.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.GeneratedMSBuildEditorConfig.editorconfig
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.AssemblyInfoInputs.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.AssemblyInfo.cs
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.csproj.CoreCompileInputs.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.MvcApplicationPartsAssemblyInfo.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.RazorAssemblyInfo.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.RazorAssemblyInfo.cs
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\appsettings.Development.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\appsettings.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.staticwebassets.runtime.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.staticwebassets.endpoints.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.exe
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.deps.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.runtimeconfig.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.pdb
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\AutoMapper.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Azure.Core.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Azure.Identity.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Humanizer.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.CodeDom.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Memory.Data.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjimswa.dswa.cache.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\bundle\TourDestination.styles.css
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\projectbundle\TourDestination.bundle.scp.css
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.json.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.development.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDest.5CAA91FC.Up2Date
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\refint\TourDestination.dll
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.pdb
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.genruntimeconfig.cache
-D:\Tour_materials\Razor\workshop\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\ref\TourDestination.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\appsettings.Development.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\appsettings.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.staticwebassets.runtime.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.staticwebassets.endpoints.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.exe
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.deps.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.runtimeconfig.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\TourDestination.pdb
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\AutoMapper.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Azure.Core.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Azure.Identity.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Humanizer.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.CodeDom.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Memory.Data.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.csproj.AssemblyReference.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rpswa.dswa.cache.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.GeneratedMSBuildEditorConfig.editorconfig
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.AssemblyInfoInputs.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.AssemblyInfo.cs
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.csproj.CoreCompileInputs.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.MvcApplicationPartsAssemblyInfo.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.RazorAssemblyInfo.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.RazorAssemblyInfo.cs
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjimswa.dswa.cache.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\bundle\TourDestination.styles.css
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\scopedcss\projectbundle\TourDestination.bundle.scp.css
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.json.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.development.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\swae.build.ex.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDest.5CAA91FC.Up2Date
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\refint\TourDestination.dll
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.pdb
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\TourDestination.genruntimeconfig.cache
-D:\Materials\penguin\training material\Razor\Workshop\workshop1\workshop1\TourDestination\TourDestination\obj\Debug\net7.0\ref\TourDestination.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.AssemblyReference.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rpswa.dswa.cache.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.GeneratedMSBuildEditorConfig.editorconfig
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfoInputs.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfo.cs
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.CoreCompileInputs.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.MvcApplicationPartsAssemblyInfo.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cs
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.Development.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.runtime.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.endpoints.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.exe
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.deps.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.runtimeconfig.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.pdb
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/AutoMapper.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Core.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Identity.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Humanizer.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.CodeDom.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Memory.Data.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjimswa.dswa.cache.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmrazor.dswa.cache.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmcshtml.dswa.cache.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/bundle/TourDestination.styles.css
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/projectbundle/TourDestination.bundle.scp.css
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.development.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.endpoints.json
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.upToDateCheck.txt
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDest.5CAA91FC.Up2Date
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/refint/TourDestination.dll
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.pdb
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.genruntimeconfig.cache
+D:/Tour_materials/Razor/workshop/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/ref/TourDestination.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.Development.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.runtime.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.endpoints.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.exe
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.deps.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.runtimeconfig.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.pdb
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/AutoMapper.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Core.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Identity.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Humanizer.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.CodeDom.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Memory.Data.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.AssemblyReference.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rpswa.dswa.cache.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.GeneratedMSBuildEditorConfig.editorconfig
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfoInputs.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfo.cs
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.CoreCompileInputs.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.MvcApplicationPartsAssemblyInfo.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cs
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjimswa.dswa.cache.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmrazor.dswa.cache.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmcshtml.dswa.cache.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/bundle/TourDestination.styles.css
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/projectbundle/TourDestination.bundle.scp.css
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.development.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.endpoints.json
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/swae.build.ex.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.upToDateCheck.txt
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDest.5CAA91FC.Up2Date
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/refint/TourDestination.dll
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.pdb
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.genruntimeconfig.cache
+D:/Materials/penguin/training material/Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/ref/TourDestination.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.Development.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/appsettings.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.runtime.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.staticwebassets.endpoints.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.deps.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.runtimeconfig.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/TourDestination.pdb
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/AutoMapper.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Core.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Humanizer.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.AssemblyReference.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rpswa.dswa.cache.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfoInputs.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.AssemblyInfo.cs
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.csproj.CoreCompileInputs.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.MvcApplicationPartsAssemblyInfo.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.RazorAssemblyInfo.cs
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.sourcelink.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjimswa.dswa.cache.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmrazor.dswa.cache.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/rjsmcshtml.dswa.cache.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/bundle/TourDestination.styles.css
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/scopedcss/projectbundle/TourDestination.bundle.scp.css
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.json.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/staticwebassets.build.endpoints.json
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/swae.build.ex.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDest.5CAA91FC.Up2Date
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/refint/TourDestination.dll
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.pdb
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/TourDestination.genruntimeconfig.cache
+/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/7.Razor/Workshop/workshop1/workshop1/TourDestination/TourDestination/obj/Debug/net7.0/ref/TourDestination.dll

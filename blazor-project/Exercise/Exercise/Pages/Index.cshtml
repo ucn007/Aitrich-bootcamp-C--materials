@@ -1,0 +1,844 @@
+﻿ 
+@page
+@model IndexModel
+
+@{
+ViewData["Title"] = "Home";
+}
+
+<!-- =========================
+     HERO SECTION
+========================= -->
+
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+
+```
+        <span class="hero-badge">
+            ✈ Discover the world
+        </span>
+
+        <h1>
+            Explore Beautiful
+            <span>Destinations</span>
+        </h1>
+
+        <p>
+            Discover amazing places, unforgettable experiences,
+            and carefully designed tour packages for your next adventure.
+        </p>
+
+        <div class="hero-actions">
+            <a asp-page="/Destinations/Index"
+               class="btn btn-primary btn-lg">
+                Explore Destinations
+            </a>
+
+            <a asp-page="/Tours/Index"
+               class="btn btn-outline-light btn-lg">
+                View Tour Packages
+            </a>
+        </div>
+
+    </div>
+</div>
+```
+
+</section>
+
+<!-- =========================
+     DESTINATIONS
+========================= -->
+
+<section class="section-padding">
+    <div class="container">
+
+```
+    <div class="section-heading">
+        <div>
+            <span class="section-label">Explore</span>
+            <h2>Popular Destinations</h2>
+            <p>
+                Discover some of the most beautiful places for your next trip.
+            </p>
+        </div>
+
+        <a asp-page="/Destinations/Index"
+           class="view-all">
+            View All →
+        </a>
+    </div>
+
+
+    <div class="row g-4">
+
+        <!-- Destination 1 -->
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="destination-card">
+
+                <div class="destination-image">
+                    <div class="destination-placeholder">
+                        🌴
+                    </div>
+
+                    <span class="destination-badge">
+                        Popular
+                    </span>
+                </div>
+
+                <div class="destination-content">
+                    <h3>Goa</h3>
+
+                    <p>
+                        📍 India
+                    </p>
+
+                    <a asp-page="/Destinations/Index"
+                       class="destination-link">
+                        Explore Destination →
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Destination 2 -->
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="destination-card">
+
+                <div class="destination-image">
+                    <div class="destination-placeholder">
+                        🏔️
+                    </div>
+
+                    <span class="destination-badge">
+                        Trending
+                    </span>
+                </div>
+
+                <div class="destination-content">
+                    <h3>Manali</h3>
+
+                    <p>
+                        📍 Himachal Pradesh
+                    </p>
+
+                    <a asp-page="/Destinations/Index"
+                       class="destination-link">
+                        Explore Destination →
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Destination 3 -->
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="destination-card">
+
+                <div class="destination-image">
+                    <div class="destination-placeholder">
+                        🏝️
+                    </div>
+
+                    <span class="destination-badge">
+                        Featured
+                    </span>
+                </div>
+
+                <div class="destination-content">
+                    <h3>Maldives</h3>
+
+                    <p>
+                        📍 Maldives
+                    </p>
+
+                    <a asp-page="/Destinations/Index"
+                       class="destination-link">
+                        Explore Destination →
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+```
+
+</section>
+
+<!-- =========================
+     PROMOTIONAL BANNER
+========================= -->
+
+<section class="promo-section">
+    <div class="container">
+
+```
+    <div class="promo-banner">
+
+        <div class="promo-content">
+
+            <span>
+                SPECIAL OFFER
+            </span>
+
+            <h2>
+                Make Your Next Trip
+                Unforgettable
+            </h2>
+
+            <p>
+                Get exclusive deals on selected tour packages.
+                Plan your dream vacation today.
+            </p>
+
+            <a asp-page="/Tours/Index"
+               class="btn btn-light">
+                Explore Packages
+            </a>
+
+        </div>
+
+        <div class="promo-decoration">
+            ✈️
+        </div>
+
+    </div>
+
+</div>
+```
+
+</section>
+
+<!-- =========================
+     TOUR PACKAGES
+========================= -->
+
+<section class="section-padding packages-section">
+    <div class="container">
+
+```
+    <div class="section-heading">
+        <div>
+            <span class="section-label">Travel With Us</span>
+
+            <h2>Popular Tour Packages</h2>
+
+            <p>
+                Choose from our handpicked travel packages.
+            </p>
+        </div>
+
+        <a asp-page="/Tours/Index"
+           class="view-all">
+            View All →
+        </a>
+    </div>
+
+
+    <div class="row g-4">
+
+        <!-- Package 1 -->
+        <div class="col-12 col-md-6 col-lg-4">
+
+            <div class="package-card">
+
+                <div class="package-image">
+                    <div class="package-placeholder">
+                        🌊
+                    </div>
+
+                    <span class="package-price">
+                        ₹15,999
+                    </span>
+                </div>
+
+                <div class="package-content">
+
+                    <div class="package-location">
+                        📍 Goa
+                    </div>
+
+                    <h3>
+                        Goa Beach Escape
+                    </h3>
+
+                    <p>
+                        Enjoy beautiful beaches, nightlife,
+                        local food and relaxing moments.
+                    </p>
+
+                    <div class="package-details">
+
+                        <span>
+                            🗓 4 Days
+                        </span>
+
+                        <span>
+                            👥 2 People
+                        </span>
+
+                    </div>
+
+                    <a asp-page="/Tours/Index"
+                       class="btn btn-primary w-100">
+                        View Package
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Package 2 -->
+        <div class="col-12 col-md-6 col-lg-4">
+
+            <div class="package-card">
+
+                <div class="package-image">
+                    <div class="package-placeholder">
+                        🏔️
+                    </div>
+
+                    <span class="package-price">
+                        ₹18,499
+                    </span>
+                </div>
+
+                <div class="package-content">
+
+                    <div class="package-location">
+                        📍 Manali
+                    </div>
+
+                    <h3>
+                        Himalayan Adventure
+                    </h3>
+
+                    <p>
+                        Experience mountains, valleys and
+                        unforgettable Himalayan adventures.
+                    </p>
+
+                    <div class="package-details">
+
+                        <span>
+                            🗓 5 Days
+                        </span>
+
+                        <span>
+                            👥 2 People
+                        </span>
+
+                    </div>
+
+                    <a asp-page="/Tours/Index"
+                       class="btn btn-primary w-100">
+                        View Package
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Package 3 -->
+        <div class="col-12 col-md-6 col-lg-4">
+
+            <div class="package-card">
+
+                <div class="package-image">
+                    <div class="package-placeholder">
+                        🏝️
+                    </div>
+
+                    <span class="package-price">
+                        ₹42,999
+                    </span>
+                </div>
+
+                <div class="package-content">
+
+                    <div class="package-location">
+                        📍 Maldives
+                    </div>
+
+                    <h3>
+                        Maldives Luxury Escape
+                    </h3>
+
+                    <p>
+                        Relax in crystal-clear waters and enjoy
+                        a premium island vacation.
+                    </p>
+
+                    <div class="package-details">
+
+                        <span>
+                            🗓 5 Days
+                        </span>
+
+                        <span>
+                            👥 2 People
+                        </span>
+
+                    </div>
+
+                    <a asp-page="/Tours/Index"
+                       class="btn btn-primary w-100">
+                        View Package
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+```
+
+</section>
+
+<!-- =========================
+     FINAL CTA BANNER
+========================= -->
+
+<section class="cta-section">
+    <div class="container">
+
+```
+    <div class="cta-banner">
+
+        <div>
+            <span class="section-label">
+                Start Your Journey
+            </span>
+
+            <h2>
+                Where will you go next?
+            </h2>
+
+            <p>
+                Find your perfect destination and start planning
+                your next unforgettable adventure.
+            </p>
+        </div>
+
+        <a asp-page="/Destinations/Index"
+           class="btn btn-primary btn-lg">
+            Start Exploring
+        </a>
+
+    </div>
+
+</div>
+```
+
+</section>
+
+<style>
+
+    /* =========================
+       GENERAL
+    ========================= */
+
+    .section-padding {
+        padding: 80px 0;
+    }
+
+    .section-heading {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        gap: 30px;
+        margin-bottom: 35px;
+    }
+
+    .section-label {
+        display: inline-block;
+        color: #0d6efd;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 8px;
+    }
+
+    .section-heading h2 {
+        font-size: 34px;
+        font-weight: 700;
+        margin-bottom: 8px;
+    }
+
+    .section-heading p {
+        color: #6c757d;
+        margin: 0;
+    }
+
+    .view-all {
+        color: #0d6efd;
+        font-weight: 600;
+        text-decoration: none;
+        white-space: nowrap;
+    }
+
+    .view-all:hover {
+        text-decoration: underline;
+    }
+
+
+    /* =========================
+       HERO
+    ========================= */
+
+    .hero-section {
+        min-height: 600px;
+        display: flex;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+
+        background:
+            linear-gradient(
+                90deg,
+                rgba(0, 0, 0, .72),
+                rgba(0, 0, 0, .35)
+            ),
+            linear-gradient(
+                135deg,
+                #0d6efd,
+                #6610f2
+            );
+    }
+
+    .hero-content {
+        max-width: 720px;
+        color: white;
+        padding: 100px 0;
+    }
+
+    .hero-badge {
+        display: inline-block;
+        padding: 8px 16px;
+        margin-bottom: 20px;
+
+        border-radius: 50px;
+        background: rgba(255, 255, 255, .15);
+        border: 1px solid rgba(255, 255, 255, .25);
+
+        font-size: 14px;
+    }
+
+    .hero-content h1 {
+        font-size: clamp(42px, 6vw, 72px);
+        line-height: 1.05;
+        font-weight: 800;
+        margin-bottom: 25px;
+    }
+
+    .hero-content h1 span {
+        color: #8ec5ff;
+    }
+
+    .hero-content p {
+        max-width: 620px;
+        font-size: 18px;
+        line-height: 1.7;
+        opacity: .9;
+        margin-bottom: 32px;
+    }
+
+    .hero-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+
+    /* =========================
+       DESTINATION CARD
+    ========================= */
+
+    .destination-card {
+        height: 100%;
+        overflow: hidden;
+
+        background: white;
+        border: 1px solid #e9ecef;
+        border-radius: 16px;
+
+        box-shadow: 0 5px 25px rgba(0, 0, 0, .06);
+
+        transition:
+            transform .25s ease,
+            box-shadow .25s ease;
+    }
+
+    .destination-card:hover {
+        transform: translateY(-7px);
+        box-shadow: 0 15px 35px rgba(0, 0, 0, .12);
+    }
+
+    .destination-image {
+        height: 230px;
+        position: relative;
+    }
+
+    .destination-placeholder {
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 70px;
+
+        background: #e9f2ff;
+    }
+
+    .destination-badge {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+
+        padding: 6px 12px;
+
+        border-radius: 20px;
+
+        background: white;
+
+        color: #0d6efd;
+        font-size: 12px;
+        font-weight: 700;
+    }
+
+    .destination-content {
+        padding: 22px;
+    }
+
+    .destination-content h3 {
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 6px;
+    }
+
+    .destination-content p {
+        color: #6c757d;
+        margin-bottom: 18px;
+    }
+
+    .destination-link {
+        color: #0d6efd;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+
+    /* =========================
+       PROMO BANNER
+    ========================= */
+
+    .promo-section {
+        padding: 0 0 80px;
+    }
+
+    .promo-banner {
+        position: relative;
+        overflow: hidden;
+
+        min-height: 280px;
+        padding: 50px;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        border-radius: 20px;
+
+        background:
+            linear-gradient(
+                120deg,
+                #0d6efd,
+                #6610f2
+            );
+
+        color: white;
+    }
+
+    .promo-content {
+        max-width: 650px;
+    }
+
+    .promo-content > span {
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+
+    .promo-content h2 {
+        font-size: 38px;
+        font-weight: 800;
+        margin: 12px 0;
+    }
+
+    .promo-content p {
+        opacity: .9;
+        margin-bottom: 25px;
+    }
+
+    .promo-decoration {
+        font-size: 130px;
+        opacity: .15;
+        margin-right: 50px;
+    }
+
+
+    /* =========================
+       PACKAGE CARD
+    ========================= */
+
+    .packages-section {
+        background: #f8f9fa;
+    }
+
+    .package-card {
+        height: 100%;
+        overflow: hidden;
+
+        background: white;
+        border-radius: 16px;
+
+        box-shadow: 0 5px 25px rgba(0, 0, 0, .06);
+
+        transition:
+            transform .25s ease,
+            box-shadow .25s ease;
+    }
+
+    .package-card:hover {
+        transform: translateY(-7px);
+        box-shadow: 0 15px 35px rgba(0, 0, 0, .12);
+    }
+
+    .package-image {
+        height: 210px;
+        position: relative;
+    }
+
+    .package-placeholder {
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 65px;
+
+        background: #eef4ff;
+    }
+
+    .package-price {
+        position: absolute;
+        right: 15px;
+        bottom: 15px;
+
+        padding: 8px 13px;
+
+        border-radius: 8px;
+
+        background: white;
+
+        font-weight: 700;
+        color: #0d6efd;
+    }
+
+    .package-content {
+        padding: 24px;
+    }
+
+    .package-location {
+        color: #0d6efd;
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .package-content h3 {
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .package-content p {
+        color: #6c757d;
+        line-height: 1.6;
+        margin: 12px 0 20px;
+    }
+
+    .package-details {
+        display: flex;
+        justify-content: space-between;
+
+        padding: 14px 0;
+        margin-bottom: 15px;
+
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+
+        color: #6c757d;
+        font-size: 13px;
+    }
+
+
+    /* =========================
+       FINAL CTA
+    ========================= */
+
+    .cta-section {
+        padding: 80px 0;
+    }
+
+    .cta-banner {
+        padding: 45px;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 30px;
+
+        border-radius: 18px;
+
+        background: #f1f5ff;
+    }
+
+    .cta-banner h2 {
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 8px;
+    }
+
+    .cta-banner p {
+        color: #6c757d;
+        margin: 0;
+    }
+
+
+    /* =========================
+       RESPONSIVE
+    ========================= */
+
+     
+
+</style>
