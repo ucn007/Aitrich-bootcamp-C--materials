@@ -1,0 +1,142 @@
+﻿@page "/edit/{Id:int}"
+
+@using TourManageDb.Model
+@using TourManageDb.Interface
+@using TourManageDb.Data
+@using TourManageDb.DTO
+
+@inject ITourService TourService
+@inject IDestinationService DestinationService
+@inject NavigationManager Nav
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage.ProtectedSessionStorage ProtectedSessionStore
+
+<div class="container mt-4">
+
+    <h4 class="fw-bold mb-4">Edit Tour</h4>
+
+    @if (Tour == null)
+    {
+        <p>Loading...</p>
+    }
+    else
+    {
+        <EditForm Model="Tour" OnValidSubmit="UpdateTour">
+
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <!-- Title -->
+            <div class="mb-3">
+                <label>Title</label>
+
+                <InputText class="form-control"
+                           @bind-Value="Tour.Title" />
+            </div>
+
+            <!-- Description -->
+            <div class="mb-3">
+                <label>Description</label>
+
+                <InputTextArea class="form-control"
+                               rows="4"
+                               @bind-Value="Tour.Description" />
+            </div>
+
+            <!-- Destination -->
+            <div class="mb-3">
+                <label>Destination</label>
+
+                <InputSelect class="form-control"
+                             @bind-Value="Tour.DestinationId">
+
+                    @foreach (var d in Destinations)
+                    {
+                        <option value="@d.Id">@d.Title</option>
+                    }
+
+                </InputSelect>
+            </div>
+
+            <!-- Price -->
+            <div class="mb-3">
+                <label>Price</label>
+
+                <InputNumber class="form-control"
+                             @bind-Value="Tour.Price" />
+            </div>
+
+            <button class="btn btn-primary">
+                Update
+            </button>
+
+            <button type="button"
+                    class="btn btn-secondary"
+                    @onclick="Cancel">
+                Cancel
+            </button>
+
+        </EditForm>
+    }
+
+</div>
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private Tour? Tour;
+    private List<Destination> Destinations = new();
+    private string role = string.Empty;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+            return;
+
+        try
+        {
+            var stored = await ProtectedSessionStore.GetAsync<string>("UserRole");
+            if (stored.Success && !string.IsNullOrEmpty(stored.Value))
+                role = stored.Value;
+            else
+                role = HttpContextAccessor.HttpContext?.Session.GetString("UserRole") ?? string.Empty;
+        }
+        catch (InvalidOperationException)
+        {
+            role = HttpContextAccessor.HttpContext?.Session.GetString("UserRole") ?? string.Empty;
+        }
+
+        if (role != "Admin")
+        {
+            Nav.NavigateTo("/", true);
+            return;
+        }
+
+        Destinations = await DestinationService.GetAllAsync();
+        Tour = await TourService.GetByIdAsync(Id);
+        StateHasChanged();
+    }
+
+    private async Task UpdateTour()
+    {
+        var dto = new TourDto
+        {
+            Id = Tour!.Id,
+            Title = Tour.Title,
+            Description = Tour.Description,
+            Price = Tour.Price,
+            DestinationId = Tour.DestinationId
+        };
+
+        await TourService.UpdateTourAsync(dto);
+
+        Nav.NavigateTo("/");
+    }
+
+    private void Cancel()
+    {
+        Nav.NavigateTo("/");
+    }
+}

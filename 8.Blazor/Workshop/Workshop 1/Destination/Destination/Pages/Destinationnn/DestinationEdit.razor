@@ -1,0 +1,59 @@
+﻿@page "/DestinationEdit/{Id:int}"
+@using Destination.Interface
+@using Destination.Model
+@inject IDestiRepository Repository
+@inject NavigationManager Navigation
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h3 class="text-center mb-4 text-warning">Edit Destination</h3>
+
+        @if (model == null)
+        {
+            <p>Loading...</p>
+        }
+        else
+        {
+            <EditForm Model="model" OnValidSubmit="Update">
+                <DataAnnotationsValidator />
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Destination Name</label>
+                    <InputText class="form-control"
+                               @bind-Value="model.DestinationName" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <InputTextArea class="form-control"
+                                   @bind-Value="model.Description" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Image URL</label>
+                    <InputText class="form-control"
+                               @bind-Value="model.Image" />
+                </div>
+
+                <button class="btn btn-warning w-100">Update Destination</button>
+            </EditForm>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+
+    private Destinationn? model;
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await Repository.GetByIdAsync(Id);
+    }
+
+    private async Task Update()
+    {
+        await Repository.UpdateAsync(model!);
+        Navigation.NavigateTo("/DestinationIndex");
+    }
+}

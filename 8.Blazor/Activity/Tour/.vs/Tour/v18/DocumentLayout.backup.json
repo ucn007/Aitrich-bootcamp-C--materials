@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\pages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\pages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\data\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\data\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\data\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\data\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\data\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\data\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\tour\\tour\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C9CEEA-6774-42BF-8E7A-ABEE84127EC8}|Tour\\Tour.csproj|solutionrelative:tour\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Tour\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Tour\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T08:13:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\TourService.cs",
+              "RelativeDocumentMoniker": "Tour\\Data\\TourService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\TourService.cs",
+              "RelativeToolTip": "Tour\\Data\\TourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:22:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Tour\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Index.razor*",
+              "RelativeToolTip": "Tour\\Pages\\Index.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T06:27:30.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Details.razor",
+              "RelativeDocumentMoniker": "Tour\\Pages\\Details.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Details.razor",
+              "RelativeToolTip": "Tour\\Pages\\Details.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T06:29:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "Tour\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Edit.razor",
+              "RelativeToolTip": "Tour\\Pages\\Edit.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T06:41:51.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\TourRepository.cs",
+              "RelativeDocumentMoniker": "Tour\\Data\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\TourRepository.cs",
+              "RelativeToolTip": "Tour\\Data\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:20:03.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Program.cs",
+              "RelativeDocumentMoniker": "Tour\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Program.cs",
+              "RelativeToolTip": "Tour\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:52:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\Tour.cs",
+              "RelativeDocumentMoniker": "Tour\\Data\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Data\\Tour.cs",
+              "RelativeToolTip": "Tour\\Data\\Tour.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:02:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "Tour\\Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Pages\\Delete.razor",
+              "RelativeToolTip": "Tour\\Pages\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T06:48:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

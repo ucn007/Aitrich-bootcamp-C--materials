@@ -1,0 +1,81 @@
+﻿
+@page "/DestinationIndex"
+@using Destination.Interface
+@using Destination.Model
+@using Microsoft.EntityFrameworkCore
+@inject IDestiRepository Repository
+@inject NavigationManager Navigation
+
+<div class="container mt-5">
+
+    <div class="d-flex justify-content-between mb-4">
+        <h3 class="text-primary">Destinations</h3>
+        <button class="btn btn-success" @onclick="GoToAdd">
+            + Add Destination
+        </button>
+    </div>
+
+    @if (destinations == null)
+    {
+        <p>Loading...</p>
+    }
+    else if (!destinations.Any())
+    {
+        <div class="alert alert-info">No destinations found.</div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var item in destinations)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow h-100">
+                        <img src="@item.Image"
+                             class="card-img-top"
+                             style="height:200px;object-fit:cover;" />
+
+                        <div class="card-body">
+                            <h5>@item.DestinationName</h5>
+                            <p>@item.Description</p>
+
+                            <button class="btn btn-danger btn-sm"
+                                    @onclick="() => Delete(item.Id)">
+                                Delete
+                            </button>
+
+                            <button class="btn btn-warning btn-sm float-end"
+                                    @onclick="() => Edit(item.Id)">
+                                Edit
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Destinationn>? destinations;
+
+    protected override async Task OnInitializedAsync()
+    {
+        destinations = await Repository.GetAllAsync();
+    }
+
+    private void GoToAdd()
+    {
+        Navigation.NavigateTo("/DestinationAdd");
+    }
+
+    private async Task Delete(int id)
+    {
+        await Repository.DeleteAsync(id);
+        destinations = await Repository.GetAllAsync();
+    }
+
+    private void Edit(int id)
+    {
+        Navigation.NavigateTo($"/DestinationEdit/{id}");
+    }
+}

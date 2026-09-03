@@ -1,0 +1,53 @@
+﻿@page "/"
+@using Tour.Data
+@inject TourService TourService
+
+<h3>Add Tour</h3>
+<form>
+    <div>
+        <label for="destination">Destination:</label>
+        <input id="destination" placeholder="Destination" @bind="newTour.Destination" />
+    </div>
+
+    <div>
+        <label for="price">Price:</label>
+        <input id="price" placeholder="Price" type="number" @bind="newTour.Price" />
+    </div>
+
+    <div>
+        <label for="slots">Available Slots:</label>
+        <input id="slots" placeholder="Slots" type="number" @bind="newTour.AvailableSlots" />
+    </div>
+
+    <button type="button" @onclick="AddTour">Add</button>
+</form>
+
+<h3>Tour List</h3>
+<ul>
+    @foreach (var tour in tours)
+    {
+        <li>
+            @tour.Destination - @tour.Price - Slots: @tour.AvailableSlots
+            <a href="details/@tour.Id">Details</a> |
+            <a href="edit/@tour.Id">Edit</a> |
+            <a href="delete/@tour.Id">Delete</a>
+        </li>
+    }
+</ul>
+
+@code {
+    List<Tour> tours = new();
+    Tour newTour = new();
+
+    protected override void OnInitialized()
+    {
+        tours = TourService.GetAllTours();
+    }
+
+    void AddTour()
+    {
+        TourService.AddTour(newTour);
+        newTour = new Tour();
+        tours = TourService.GetAllTours();
+    }
+}

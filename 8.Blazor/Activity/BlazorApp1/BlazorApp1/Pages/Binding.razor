@@ -1,0 +1,20 @@
+﻿
+@page "/Binding"
+
+<h3>Binding </h3>
+
+<!-- One-way binding -->
+<p><strong>One-way Binding:</strong></p>
+<p>Student Name: @studentName</p>
+
+<hr />
+
+<!-- Two-way binding -->
+<p><strong>Two-way Binding:</strong></p>
+<input @bind="studentName" placeholder="Type a name here..." />
+<p>You typed: @studentName</p>
+
+@code {
+    // This variable is used in both one-way and two-way binding
+    private string studentName = "Remya";
+}

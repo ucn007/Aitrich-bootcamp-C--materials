@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260227085436_addeddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TourManagement\\Migrations\\20260227085436_addeddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\Downloads\\feedback_project\\Pages\\Feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\migrations\\20260219195740_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\migrations\\20260219195740_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\service\\destinatinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\service\\destinatinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\tourmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\tourmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|d:\\materials\\penguin\\training material\\blazor\\tourmanagement\\tourmanagement\\migrations\\20260218071510_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C904B9AD-E57A-41B0-9B45-4A220837EFA3}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\migrations\\20260218071510_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\App.razor",
+              "RelativeDocumentMoniker": "TourManagement\\App.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\App.razor",
+              "RelativeToolTip": "TourManagement\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TourManagement\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "TourManagement\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TourManagement\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "TourManagement\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260227085436_addeddestination.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260227085436_addeddestination.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Migrations\\20260227085436_addeddestination.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260227085436_addeddestination.cs",
+              "RelativeToolTip": "TourManagement\\Migrations\\20260227085436_addeddestination.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:54:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "TourManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TourManagement\\Pages\\Index.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Index.razor",
+              "RelativeToolTip": "TourManagement\\Pages\\Index.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "TourManagement\\Pages\\Create.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Create.razor",
+              "RelativeToolTip": "TourManagement\\Pages\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Model\\AppDbContext.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "TourManagement\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Repository\\TourRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "TourManagement\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TourManagement\\appsettings.json",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\appsettings.json",
+              "RelativeToolTip": "TourManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T08:08:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Dto\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Dto\\DestinationDto.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Dto\\DestinationDto.cs",
+              "RelativeToolTip": "TourManagement\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Dto\\TourDto.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Dto\\TourDto.cs",
+              "RelativeToolTip": "TourManagement\\Dto\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feedback.razor",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\Downloads\\feedback_project\\Pages\\Feedback.razor",
+              "ToolTip": "C:\\Users\\Asrithadevi\\Downloads\\feedback_project\\Pages\\Feedback.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T21:58:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\Destination.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Model\\Destination.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\Destination.cs",
+              "RelativeToolTip": "TourManagement\\Model\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\Tour.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Model\\Tour.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Model\\Tour.cs",
+              "RelativeToolTip": "TourManagement\\Model\\Tour.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "TourManagement\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Interface\\IDestinationService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "TourManagement\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260219195740_k.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260219195740_k.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Migrations\\20260219195740_k.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260219195740_k.cs",
+              "RelativeToolTip": "TourManagement\\Migrations\\20260219195740_k.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Repository\\DestinationRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Repository\\DestinationRepository.cs",
+              "RelativeToolTip": "TourManagement\\Repository\\DestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Interface\\ITourService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\ITourService.cs",
+              "RelativeToolTip": "TourManagement\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Interface\\ITourRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "TourManagement\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Service\\TourService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Service\\TourService.cs",
+              "RelativeToolTip": "TourManagement\\Service\\TourService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "TourManagement\\Pages\\Edit.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Pages\\Edit.razor",
+              "RelativeToolTip": "TourManagement\\Pages\\Edit.razor",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwJgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DestinatinService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Service\\DestinatinService.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Service\\DestinatinService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Service\\DestinatinService.cs",
+              "RelativeToolTip": "TourManagement\\Service\\DestinatinService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\_Imports.razor",
+              "RelativeDocumentMoniker": "TourManagement\\_Imports.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\_Imports.razor",
+              "RelativeToolTip": "TourManagement\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:08:34.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TourManagement.csproj",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\TourManagement.csproj",
+              "RelativeDocumentMoniker": "TourManagement\\TourManagement.csproj",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\TourManagement.csproj",
+              "RelativeToolTip": "TourManagement\\TourManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T08:08:34.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TourManagement\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260218071510_first.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260218071510_first.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Migrations\\20260218071510_first.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Migrations\\20260218071510_first.cs",
+              "RelativeToolTip": "TourManagement\\Migrations\\20260218071510_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Program.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\TourManagement\\TourManagement\\Program.cs",
+              "RelativeToolTip": "TourManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:08:34.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

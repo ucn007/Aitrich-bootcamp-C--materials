@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\blazorone\\blazorone\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|solutionrelative:blazorone\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\blazorone\\blazorone\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|solutionrelative:blazorone\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\blazorone\\blazorone\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|solutionrelative:blazorone\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\blazorone\\blazorone\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|solutionrelative:blazorone\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\blazor\\blazorone\\blazorone\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{287029BB-912F-491B-A50A-6795486F332F}|BlazorOne\\BlazorOne.csproj|solutionrelative:blazorone\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\User.razor",
+              "RelativeDocumentMoniker": "BlazorOne\\Pages\\User.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\User.razor",
+              "RelativeToolTip": "BlazorOne\\Pages\\User.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T09:18:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorOne\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorOne\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T07:47:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "BlazorOne\\Pages\\Test.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Test.razor",
+              "RelativeToolTip": "BlazorOne\\Pages\\Test.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T07:33:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorOne\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorOne\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T07:29:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorOne\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorOne\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T07:27:03.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

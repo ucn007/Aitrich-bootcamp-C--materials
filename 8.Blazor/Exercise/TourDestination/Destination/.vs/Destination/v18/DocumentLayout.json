@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\destinationnn\\destinationedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\destinationnn\\destinationedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\destinationnn\\destinationadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\destinationnn\\destinationadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\destinationnn\\destinationindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\destinationnn\\destinationindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\repository\\destirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\repository\\destirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\service\\destiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\service\\destiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\interface\\idestiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\idestiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\interface\\idestirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\idestirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\model\\destinationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\destinationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\destinationnn\\destinationdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\destinationnn\\destinationdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\migrations\\20260227092930_addeddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260227092930_addeddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\migrations\\20260218071842_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260218071842_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\migrations\\20260219012031_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260219012031_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\migrations\\20260227092905_destiadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260227092905_destiadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|c:\\users\\aitrich\\downloads\\destination-20260328t094950z-3-001\\destination\\destination\\migrations\\20260227110932_ddadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260227110932_ddadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationAdd.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Destinationnn\\DestinationAdd.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationAdd.razor",
+              "RelativeToolTip": "Destination\\Pages\\Destinationnn\\DestinationAdd.razor",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:27:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Destination\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Destination\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T10:04:34.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Destination\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Destination\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:36:00.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationEdit.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationEdit.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Destinationnn\\DestinationEdit.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationEdit.razor",
+              "RelativeToolTip": "Destination\\Pages\\Destinationnn\\DestinationEdit.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:28:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Destination\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Destination\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeToolTip": "Destination\\Pages\\Index.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:36:12.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Program.cs",
+              "RelativeDocumentMoniker": "Destination\\Program.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Program.cs",
+              "RelativeToolTip": "Destination\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Destination\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Destination\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:08:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\App.razor",
+              "RelativeDocumentMoniker": "Destination\\App.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\App.razor",
+              "RelativeToolTip": "Destination\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:15:12.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestinationIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationIndex.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Destinationnn\\DestinationIndex.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationIndex.razor",
+              "RelativeToolTip": "Destination\\Pages\\Destinationnn\\DestinationIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:24:57.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DestiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Repository\\DestiRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Repository\\DestiRepository.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Repository\\DestiRepository.cs",
+              "RelativeToolTip": "Destination\\Repository\\DestiRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeToolTip": "Destination\\Pages\\Login.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDestiService.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IDestiService.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IDestiService.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IDestiService.cs",
+              "RelativeToolTip": "Destination\\Interface\\IDestiService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDestiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IDestiRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IDestiRepository.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IDestiRepository.cs",
+              "RelativeToolTip": "Destination\\Interface\\IDestiRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Destination\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DestiService.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Service\\DestiService.cs",
+              "RelativeDocumentMoniker": "Destination\\Service\\DestiService.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Service\\DestiService.cs",
+              "RelativeToolTip": "Destination\\Service\\DestiService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Destination\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260227110932_ddadded.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227110932_ddadded.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260227110932_ddadded.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227110932_ddadded.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260227110932_ddadded.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:09:32.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Destinationn.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\Destinationn.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\Destinationn.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\Destinationn.cs",
+              "RelativeToolTip": "Destination\\Model\\Destinationn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\Register.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeToolTip": "Destination\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeToolTip": "Destination\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\appsettings.json",
+              "RelativeDocumentMoniker": "Destination\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\appsettings.json",
+              "RelativeToolTip": "Destination\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T09:22:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DestinationDelete.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationDelete.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Destinationnn\\DestinationDelete.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Destinationnn\\DestinationDelete.razor",
+              "RelativeToolTip": "Destination\\Pages\\Destinationnn\\DestinationDelete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:29:40.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Pages\\Counter.razor",
+              "RelativeToolTip": "Destination\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:17:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260227092930_addeddd.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227092930_addeddd.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260227092930_addeddd.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227092930_addeddd.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260227092930_addeddd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:29:31.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260227092905_destiadded.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227092905_destiadded.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260227092905_destiadded.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260227092905_destiadded.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260227092905_destiadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:29:05.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260219012031_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260219012031_initial.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260219012031_initial.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260219012031_initial.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260219012031_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Dto\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "Destination\\Dto\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Dto\\DestinationDto.cs",
+              "RelativeToolTip": "Destination\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Destination\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Destination\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260218071842_added.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260218071842_added.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260218071842_added.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Migrations\\20260218071842_added.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260218071842_added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeToolTip": "Destination\\Service\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Destination\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Destination\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Destination.csproj",
+              "DocumentMoniker": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Destination.csproj",
+              "RelativeDocumentMoniker": "Destination\\Destination.csproj",
+              "ToolTip": "C:\\Users\\Aitrich\\Downloads\\Destination-20260328T094950Z-3-001\\Destination\\Destination\\Destination.csproj",
+              "RelativeToolTip": "Destination\\Destination.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T09:22:46.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

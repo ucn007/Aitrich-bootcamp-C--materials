@@ -1,0 +1,67 @@
+﻿@page "/register"
+@using Destination.Dto
+@using Destination.Interface
+@using global::Destination.Dto
+@using global::Destination.Interface
+
+@inject IAuthService AuthService
+@inject NavigationManager Navigation
+
+<div class="auth-bg">
+    <div class="auth-card">
+
+        <h2 class="text-center mb-4 text-success fw-bold">Create Account</h2>
+
+        <EditForm Model="register" OnValidSubmit="Registerr">
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger mb-3" />
+
+            <div class="form-floating mb-3">
+                <InputText class="form-control" @bind-Value="register.Name" placeholder="Name" />
+                <label>Full Name</label>
+            </div>
+
+            <div class="form-floating mb-3">
+                <InputText class="form-control" @bind-Value="register.Email" placeholder="Email" />
+                <label>Email address</label>
+            </div>
+
+            <div class="form-floating mb-3">
+                <InputText type="password" class="form-control" @bind-Value="password" placeholder="Password" />
+                <label>Password</label>
+            </div>
+
+            <button type="submit" class="btn btn-success w-100 rounded-pill py-2">
+                Register
+            </button>
+        </EditForm>
+
+        @if (!string.IsNullOrEmpty(message))
+        {
+            <div class="alert alert-danger mt-3 text-center">@message</div>
+        }
+
+        <div class="text-center mt-3">
+            <small>
+                Already have an account?
+                <a href="/login" class="fw-bold text-decoration-none">Login</a>
+            </small>
+        </div>
+
+    </div>
+</div>
+
+@code {
+    private RegisterDto register = new();
+    private string password = "";
+    private string message = "";
+
+    private async Task Registerr()
+    {
+        var success = await AuthService.Register(register, password);
+        if (success)
+            Navigation.NavigateTo("/login");
+        else
+            message = "Email already exists.";
+    }
+}

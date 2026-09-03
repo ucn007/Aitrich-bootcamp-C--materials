@@ -1,0 +1,26 @@
+﻿@page "/Test"
+
+<p>
+    Hello, @userName Welcome!!!
+   
+</p>
+<p>
+    Sum:@Sum()
+</p>
+<button @onclick="changeName"> changeName</button>
+
+@code {
+    private string userName="Archa";
+    private string  GetUserName()
+    {
+        return userName + "Hari";
+    }
+    private void changeName()
+    {
+        userName = "Soumya";
+    }
+    private int Sum()
+    {
+        return 2 + 2;
+    }
+}

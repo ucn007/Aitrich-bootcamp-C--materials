@@ -1,0 +1,153 @@
+﻿@page "/"
+
+@using TourManageDb.Helper
+@using TourManageDb.Interface
+@using TourManageDb.Model
+
+@inject ITourService Service
+@inject NavigationManager Nav
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage.ProtectedSessionStorage ProtectedSessionStore
+
+<div class="mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+        <div>
+            <h4 class="fw-bold">Tours & Packages</h4>
+
+            @if (Tours != null)
+            {
+                <span class="badge bg-info text-dark">
+                    @Tours.Count Tours Found
+                </span>
+            }
+        </div>
+
+        @if (role == "Admin")
+        {
+            <button class="btn btn-primary"
+                    @onclick="AddTour">
+                + Add Tour
+            </button>
+        }
+    </div>
+    <div class="card shadow-sm rounded-4">
+        <div class="table-responsive">
+            <table class="table table-bordered">
+
+                <thead class="table-primary text-center">
+                    <tr>
+                        <th>#</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Destination</th>
+                        <th>Price</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @if (Tours == null)
+                    {
+                        <tr>
+                            <td colspan="6">Loading...</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        int count = 1;
+
+                        @foreach (var tour in Tours)
+                        {
+                            <tr>
+                                <td>@count</td>
+                                <td>@tour.Title</td>
+                                <td>@tour.Description</td>
+                                <td>@tour.Destination?.Title</td>
+                                <td class="text-success fw-semibold">₹@tour.Price</td>
+
+                                <td>
+                                    @if (role == "Admin")
+                                    {
+                                        <button class="btn btn-warning btn-sm me-2"
+                                                @onclick="() => EditTour(tour.Id)">
+                                            Edit
+                                        </button>
+
+                                        <button class="btn btn-danger btn-sm"
+                                                @onclick="() => DeleteTour(tour.Id)">
+                                            Delete
+                                        </button>
+                                    }
+                                </td>
+
+                            </tr>
+
+                            count++;
+                        }
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>
+
+@code {
+
+    private List<Tour>? Tours;
+    private string role = string.Empty;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+            return;
+
+        // Try client-side storage first (requires JS runtime). If JS not available (prerender), fall back to server session.
+        try
+        {
+            var stored = await ProtectedSessionStore.GetAsync<string>("UserRole");
+            if (stored.Success && !string.IsNullOrEmpty(stored.Value))
+            {
+                role = stored.Value;
+            }
+            else
+            {
+                // fallback to server session (works during prerender)
+                role = HttpContextAccessor.HttpContext?.Session.GetString("UserRole") ?? string.Empty;
+            }
+        }
+        catch (InvalidOperationException)
+        {
+            // JS interop unavailable during prerender — read server session
+            role = HttpContextAccessor.HttpContext?.Session.GetString("UserRole") ?? string.Empty;
+        }
+
+        if (string.IsNullOrEmpty(role))
+        {
+            Nav.NavigateTo("/login", true);
+            return;
+        }
+
+        Tours = await Service.GetAllAsync();
+        StateHasChanged();
+    }
+
+    void AddTour()
+    {
+        Nav.NavigateTo("/create");
+    }
+
+    void EditTour(int id)
+    {
+        Nav.NavigateTo($"/edit/{id}");
+    }
+
+    void DeleteTour(int id)
+    {
+        Nav.NavigateTo($"/delete/{id}");
+    }
+}

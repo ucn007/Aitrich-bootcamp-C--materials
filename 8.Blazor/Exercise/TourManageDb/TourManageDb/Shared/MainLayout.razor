@@ -1,0 +1,222 @@
+﻿@inherits LayoutComponentBase
+@inject IHttpContextAccessor HttpContextAccessor
+@inject NavigationManager Nav
+@inject Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage.ProtectedSessionStorage ProtectedSessionStore
+
+<div class="container-fluid p-0">
+
+    <header>
+        <!-- NAVBAR -->
+        <div class="container mt-3">
+            <nav class="navbar navbar-expand-lg custom-navbar">
+                <div class="container-fluid">
+
+                    <NavLink class="navbar-brand brand-logo" href="/">
+                        <img src="images/logo.png" alt="TravelsDb logo" class="brand-img" />
+                    </NavLink>
+
+                    <button class="navbar-toggler" type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#navbarContent">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+
+                        <!-- LEFT MENU -->
+                        <ul class="navbar-nav gap-3">
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="/home" Match="NavLinkMatch.All">
+                                    Home
+                                </NavLink>
+                            </li>
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="/Destinations">
+                                    Destinations
+                                </NavLink>
+                            </li>
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="/">
+                                    Manage Tours
+                                </NavLink>
+                            </li>
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="/Work/Booking">
+                                    Booking Requests
+                                </NavLink>
+                            </li>
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="/Work/Consultants">
+                                    Manage Consultants
+                                </NavLink>
+                            </li>
+
+
+
+                        </ul>
+
+                        <ul class="navbar-nav">
+                            @if (string.IsNullOrEmpty(UserName))
+                            {
+                                <li class="nav-item">
+                                    <NavLink class="nav-link" href="/login">
+                                        Login
+                                    </NavLink>
+                                </li>
+
+                                <li class="nav-item">
+                                    <NavLink class="nav-link" href="/register">
+                                        Register
+                                    </NavLink>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item d-flex align-items-center gap-2">
+                                    <div class="user-badge">
+                                        @UserName.Substring(0, 1).ToUpper()
+                                    </div>
+                                    <span class="nav-link">
+                                        Hello, @UserName
+                                    </span>
+                                </li>
+
+                                <li class="nav-item">
+                                    <button class="btn btn-link nav-link"
+                                            @onclick="Logout">
+                                            Logout
+                                    </button>
+                                </li>
+                            }
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mt-4">
+        @Body
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-3 d-flex align-items-center">
+                    <!-- larger footer logo -->
+                    <img src="images/logo.png" alt="TravelsDb logo" class="footer-brand-img" />
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Quick Links</h6>
+
+                    <NavLink href="/">Home</NavLink>
+                    <NavLink href="/Destinations">Destinations</NavLink>
+                    <NavLink href="/TourManage">Tours</NavLink>
+                    <NavLink href="/Bookings">Booking</NavLink>
+
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Support</h6>
+
+                    <NavLink href="/privacy">Privacy Policy</NavLink>
+                    <NavLink href="#">FAQs</NavLink>
+                    <NavLink href="#">Contact</NavLink>
+
+                </div>
+
+                <div class="col-md-3">
+                    <h6>Subscribe</h6>
+
+                    <div class="input-group">
+                        <input type="email"
+                               class="form-control subscribe-input"
+                               placeholder="Enter your email" />
+
+                        <button class="btn btn-primary join-btn">
+                            Join
+                        </button>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <hr class="mt-4" style="background-color:#334155;" />
+
+            <div class="text-center">
+                © 2026 - TravelsDb. All rights reserved.
+            </div>
+
+        </div>
+    </footer>
+
+</div>
+
+@code {
+
+    private string? UserName;
+
+    // Try to read server session during prerender (OnInitialized) so initial render can show logged-in state.
+    protected override void OnInitialized()
+    {
+        // This read uses server HttpContext.Session and is safe during prerendering.
+        UserName = HttpContextAccessor.HttpContext?.Session.GetString("UserName");
+    }
+
+    // After render (client connected), try to read ProtectedSessionStorage (uses JS interop).
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+            return;
+
+        try
+        {
+            var stored = await ProtectedSessionStore.GetAsync<string>("UserName");
+            if (stored.Success && !string.IsNullOrEmpty(stored.Value))
+            {
+                UserName = stored.Value;
+                StateHasChanged();
+            }
+            else
+            {
+                // if ProtectedSessionStorage empty, leave server session value already read in OnInitialized
+            }
+        }
+        catch (InvalidOperationException)
+        {
+            // JS interop not available while prerendering — we've already read server session in OnInitialized.
+            // Swallow and proceed.
+        }
+    }
+
+    private async Task Logout()
+    {
+        // Clear server session if available
+        HttpContextAccessor.HttpContext?.Session.Clear();
+
+        // Clear protected session storage (client-side)
+        try
+        {
+            await ProtectedSessionStore.SetAsync("UserId", 0);
+            await ProtectedSessionStore.SetAsync("UserName", string.Empty);
+            await ProtectedSessionStore.SetAsync("UserRole", string.Empty);
+        }
+        catch (InvalidOperationException)
+        {
+            // ignore when JS not available
+        }
+
+        UserName = null;
+        Nav.NavigateTo("/login", true);
+    }
+
+}

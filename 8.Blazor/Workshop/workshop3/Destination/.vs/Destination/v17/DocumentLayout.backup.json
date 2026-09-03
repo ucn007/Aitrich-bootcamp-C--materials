@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\tourview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\tourview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428073236_bbbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Destination\\Migrations\\20260428073236_bbbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428071301_addedtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Destination\\Migrations\\20260428071301_addedtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Pages\\DestinationAdd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Repository\\DestiRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Service\\DestiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260219012031_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Model\\Destinationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Dto\\DestinationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260218071842_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\tour_materials\\blazor\\workshop\\workshop3\\destination\\destination\\migrations\\20260427133210_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\migrations\\20260427133210_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourView.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\TourView.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\TourView.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\TourView.razor*",
+              "RelativeToolTip": "Destination\\Pages\\TourView.razor*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:16:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "Destination\\Dto\\TourDto.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\TourDto.cs*",
+              "RelativeToolTip": "Destination\\Dto\\TourDto.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:56:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Repository\\TourRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "Destination\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:38:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\ITourService.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\ITourService.cs",
+              "RelativeToolTip": "Destination\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:37:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\ITourRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "Destination\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:36:16.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Tour.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\Tour.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Tour.cs",
+              "RelativeToolTip": "Destination\\Model\\Tour.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:08:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Home.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Home.razor",
+              "RelativeToolTip": "Destination\\Pages\\Home.razor",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T06:44:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Destination\\Helper\\MappingProfile.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Destination\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:14:53.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "Destination\\Service\\TourService.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\TourService.cs",
+              "RelativeToolTip": "Destination\\Service\\TourService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:38:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260428073236_bbbb.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428073236_bbbb.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260428073236_bbbb.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428073236_bbbb.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260428073236_bbbb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:32:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\appsettings.json",
+              "RelativeDocumentMoniker": "Destination\\appsettings.json",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\appsettings.json",
+              "RelativeToolTip": "Destination\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T06:28:55.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:14:25.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Repository\\AuthRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Destination\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:40:17.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDestiService.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiService.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:38:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DestiService.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Service\\DestiService.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Service\\DestiService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:39:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Login.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeToolTip": "Destination\\Pages\\Login.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T07:10:59.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260427133210_dd.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260427133210_dd.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260427133210_dd.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260427133210_dd.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260427133210_dd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:32:11.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\AppDbContext.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Destination\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:23:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260428071301_addedtour.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428071301_addedtour.cs",
+              "RelativeDocumentMoniker": "Destination\\Migrations\\20260428071301_addedtour.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Migrations\\20260428071301_addedtour.cs",
+              "RelativeToolTip": "Destination\\Migrations\\20260428071301_addedtour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:13:02.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DestinationAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Pages\\DestinationAdd.razor",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Pages\\DestinationAdd.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T07:15:23.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Index.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeToolTip": "Destination\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T13:40:40.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\_Imports.razor",
+              "RelativeDocumentMoniker": "Destination\\_Imports.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\_Imports.razor",
+              "RelativeToolTip": "Destination\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T13:40:00.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260219012031_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260219012031_initial.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260219012031_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:20:31.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DestiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Repository\\DestiRepository.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Repository\\DestiRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:39:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Destinationn.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Model\\Destinationn.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Model\\Destinationn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:19:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDestiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiRepository.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Interface\\IDestiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:38:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthService.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:32:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:34:07.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Dto\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:34:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Register.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeToolTip": "Destination\\Pages\\Register.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T07:10:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260218071842_added.cs",
+              "DocumentMoniker": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260218071842_added.cs",
+              "ToolTip": "C:\\Users\\Asrithadevi\\source\\repos\\chapter8\\Destination\\Destination\\Migrations\\20260218071842_added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:18:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Destination\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Destination\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T07:21:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeToolTip": "Destination\\Service\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:39:48.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Program.cs",
+              "RelativeDocumentMoniker": "Destination\\Program.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Program.cs",
+              "RelativeToolTip": "Destination\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:29:40.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Destination\\Dto\\RegisterDto.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Destination\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:21:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\Register.cs",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeToolTip": "Destination\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:19:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Destination.csproj",
+              "DocumentMoniker": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Destination.csproj",
+              "RelativeDocumentMoniker": "Destination\\Destination.csproj",
+              "ToolTip": "D:\\Tour_materials\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Destination.csproj",
+              "RelativeToolTip": "Destination\\Destination.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T06:40:55.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

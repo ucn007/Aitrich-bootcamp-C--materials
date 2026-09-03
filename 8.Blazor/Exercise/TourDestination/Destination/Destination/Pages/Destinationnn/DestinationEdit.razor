@@ -1,0 +1,96 @@
+﻿@page "/DestinationEdit/{Id:int}"
+@using Destination.Interface
+@using Destination.Model
+@inject IDestiRepository Repository
+@inject NavigationManager Navigation
+[Inject] private IWebHostEnvironment env { get; set; } = default!;
+[Inject] private IWebHostEnvironment env { get; set; }
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h3 class="text-center mb-4 text-warning">Edit Destination</h3>
+
+        @if (model == null)
+        {
+            <p>Loading...</p>
+        }
+        else
+        {
+            <EditForm Model="model" OnValidSubmit="Update">
+                <DataAnnotationsValidator />
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Destination Name</label>
+                    <InputText class="form-control"
+                               @bind-Value="model.DestinationName" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <InputTextArea class="form-control"
+                                   @bind-Value="model.Description" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Upload Image</label>
+                    <InputFile OnChange="UploadImage" class="form-control" />
+                </div>
+
+                @if (!string.IsNullOrEmpty(model?.Image))
+                {
+                    <img src="@model.Image" class="img-thumbnail mt-2" style="max-height:150px;" />
+                }
+
+                <button class="btn btn-warning w-100">Update Destination</button>
+            </EditForm>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+
+    private Destinationn? model;
+    private IBrowserFile? uploadedFile;
+
+    [Inject]
+    private IWebHostEnvironment Env { get; set; } = default!;   // ✅ correct
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await Repository.GetByIdAsync(Id);
+    }
+
+    private void UploadImage(InputFileChangeEventArgs e)
+    {
+        uploadedFile = e.File;
+    }
+
+    private async Task Update()
+    {
+        if (uploadedFile != null)
+        {
+            var fileName = Guid.NewGuid().ToString()
+                           + Path.GetExtension(uploadedFile.Name);
+
+            var folderPath = Path.Combine(Env.WebRootPath, "images"); // ✅ use Env
+
+            if (!Directory.Exists(folderPath))
+            {
+                Directory.CreateDirectory(folderPath);
+            }
+
+            var filePath = Path.Combine(folderPath, fileName);
+
+            using var stream = new FileStream(filePath, FileMode.Create);
+            await uploadedFile.OpenReadStream(10 * 1024 * 1024)
+                              .CopyToAsync(stream);
+
+            model!.Image = "/images/" + fileName;
+        }
+
+        await Repository.UpdateAsync(model!);
+
+        Navigation.NavigateTo("/DestinationIndex");
+    }
+}

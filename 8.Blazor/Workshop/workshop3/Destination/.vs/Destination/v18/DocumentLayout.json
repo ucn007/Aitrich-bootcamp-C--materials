@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|d:\\materials\\penguin\\training material\\blazor\\workshop\\workshop3\\destination\\destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD94F8BD-EE6E-4B7D-98E6-93274423622D}|Destination\\Destination.csproj|solutionrelative:destination\\destination.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Destination\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Destination\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Destination\\Helper\\MappingProfile.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Destination\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Destination\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\appsettings.json",
+              "RelativeDocumentMoniker": "Destination\\appsettings.json",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\appsettings.json",
+              "RelativeToolTip": "Destination\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T09:22:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\AppDbContext.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Destination\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Destination\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Destination\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:36:00.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Index.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Index.razor",
+              "RelativeToolTip": "Destination\\Pages\\Index.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:36:12.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Destination\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Destination\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T10:04:34.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Destination\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Destination\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:08:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Program.cs",
+              "RelativeDocumentMoniker": "Destination\\Program.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Program.cs",
+              "RelativeToolTip": "Destination\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\App.razor",
+              "RelativeDocumentMoniker": "Destination\\App.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\App.razor",
+              "RelativeToolTip": "Destination\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:15:12.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Login.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Login.razor",
+              "RelativeToolTip": "Destination\\Pages\\Login.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Destination\\Repository\\AuthRepository.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Destination\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "Destination\\Model\\Register.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Model\\Register.cs",
+              "RelativeToolTip": "Destination\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Register.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Register.razor",
+              "RelativeToolTip": "Destination\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T09:22:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Destination\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Pages\\Counter.razor",
+              "RelativeToolTip": "Destination\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T10:17:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Interface\\IAuthService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Destination\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Destination\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Service\\AuthService.cs",
+              "RelativeToolTip": "Destination\\Service\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Destination\\Dto\\RegisterDto.cs",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Destination\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:22:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Destination.csproj",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Destination.csproj",
+              "RelativeDocumentMoniker": "Destination\\Destination.csproj",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Workshop\\workshop3\\Destination\\Destination\\Destination.csproj",
+              "RelativeToolTip": "Destination\\Destination.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T09:22:46.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

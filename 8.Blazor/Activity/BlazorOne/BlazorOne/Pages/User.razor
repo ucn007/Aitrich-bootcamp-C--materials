@@ -1,0 +1,32 @@
+﻿@page "/User"
+<h3>Hello @Getname()</h3>
+<p>Sum: @(2+2)</p>
+<button @onclick="@(()=>Name="Soumya")"> changeName</button>
+@if(testnum==1)
+{
+    <p>number is 1</p>
+
+}
+else
+{
+        <p>number is not 1</p>
+
+}
+@code {
+    private string Name="Archa";
+    private int testnum = 1;
+
+    private string Getname()
+    {
+        return Name + "Hari";
+    }   
+
+    private void changeName()
+    {
+        Name = "Soumya";
+    }
+    private int Sum()
+    {
+        return 2 + 2;
+    }
+}

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|d:\\materials\\penguin\\training material\\blazor\\irshad\\tourmanagedb\\tourmanagedb\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|solutionrelative:tourmanagedb\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|d:\\materials\\penguin\\training material\\blazor\\irshad\\tourmanagedb\\tourmanagedb\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|solutionrelative:tourmanagedb\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|d:\\materials\\penguin\\training material\\blazor\\irshad\\tourmanagedb\\tourmanagedb\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0111F1-E071-B566-AB75-598D757B20C5}|TourManageDb\\TourManageDb.csproj|solutionrelative:tourmanagedb\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "TourManageDb\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "TourManageDb\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:59:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TourManageDb\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "TourManageDb\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAHUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:54:51.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TourManageDb\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Blazor\\Irshad\\TourManageDb\\TourManageDb\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "TourManageDb\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:54:40.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

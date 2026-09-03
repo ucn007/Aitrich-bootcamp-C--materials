@@ -1,0 +1,65 @@
+﻿@page "/login"
+@inject IAuthService AuthService
+@inject NavigationManager Navigation
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@using Destination.Interface
+@using global::Destination.Interface
+@inject ProtectedSessionStorage SessionStorage
+
+<div class="auth-bg">
+    <div class="auth-card">
+
+        <h2 class="text-center mb-4 text-primary fw-bold">Welcome Back</h2>
+
+        <EditForm Model="loginModel" OnValidSubmit="Loginn">
+            <DataAnnotationsValidator />
+
+            <div class="form-floating mb-3">
+                <InputText class="form-control" @bind-Value="loginModel.Email" placeholder="Email" />
+                <label>Email address</label>
+            </div>
+
+            <div class="form-floating mb-3">
+                <InputText type="password" class="form-control" @bind-Value="loginModel.Password" placeholder="Password" />
+                <label>Password</label>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 rounded-pill py-2">
+                Login
+            </button>
+        </EditForm>
+
+        @if (!string.IsNullOrEmpty(message))
+        {
+            <div class="alert alert-danger mt-3 text-center">@message</div>
+        }
+
+        <div class="text-center mt-3">
+            <small>
+                Don’t have an account?
+                <a href="/register" class="fw-bold text-decoration-none">Register</a>
+            </small>
+        </div>
+
+    </div>
+</div>
+
+@code {
+    private LoginModel loginModel = new();
+    private string message = "";
+
+    private async Task Loginn()
+    {
+        var success = await AuthService.Login(loginModel.Email, loginModel.Password);
+        if (success)
+            Navigation.NavigateTo("/Home");
+        else
+            message = "Invalid login credentials.";
+    }
+
+    private class LoginModel
+    {
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
+    }
+}

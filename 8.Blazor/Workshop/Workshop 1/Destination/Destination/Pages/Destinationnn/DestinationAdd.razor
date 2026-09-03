@@ -1,0 +1,97 @@
+﻿@page "/DestinationAdd"
+@using Destination.Interface
+@using Destination.Model
+@inject NavigationManager Navigation
+@inject IDestiRepository Repository
+@inject IWebHostEnvironment Environment
+
+<div class="container d-flex justify-content-center mt-5">
+    <div class="card shadow-lg border-0 rounded-4 p-4" style="width: 600px;">
+
+        <div class="text-center mb-4">
+            <h3 class="fw-bold text-primary">Add New Destination</h3>
+            <p class="text-muted">Fill the details below</p>
+        </div>
+
+        <EditForm Model="destination" OnValidSubmit="HandleSubmit">
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+
+            <!-- Destination Name -->
+            <div class="mb-3">
+                <label class="form-label fw-semibold">Destination Name</label>
+                <InputText class="form-control form-control-lg rounded-3"
+                           @bind-Value="destination.DestinationName" />
+            </div>
+
+            <!-- Description -->
+            <div class="mb-3">
+                <label class="form-label fw-semibold">Description</label>
+                <InputText class="form-control form-control-lg rounded-3"
+                           @bind-Value="destination.Description" />
+            </div>
+
+            <!-- Image Upload -->
+            <div class="mb-4">
+                <label class="form-label fw-semibold">Upload Image</label>
+                <InputFile class="form-control rounded-3"
+                           OnChange="UploadImage" />
+            </div>
+
+            <!-- Buttons -->
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-primary px-4 rounded-3">
+                    <i class="bi bi-save"></i> Save
+                </button>
+
+                <button type="button"
+                        class="btn btn-outline-secondary px-4 rounded-3"
+                        @onclick="GoBack">
+                    Cancel
+                </button>
+            </div>
+
+        </EditForm>
+    </div>
+</div>
+
+
+@code {
+    private Destinationn destination = new();
+    private IBrowserFile? uploadedFile;
+
+    private async Task UploadImage(InputFileChangeEventArgs e)
+    {
+        uploadedFile = e.File;
+    }
+
+    private async Task HandleSubmit()
+    {
+        if (uploadedFile != null)
+        {
+            var fileName = Guid.NewGuid().ToString()
+                           + Path.GetExtension(uploadedFile.Name);
+
+            var folderPath = Path.Combine(Environment.WebRootPath, "images");
+
+            Directory.CreateDirectory(folderPath);
+
+            var filePath = Path.Combine(folderPath, fileName);
+
+            using var stream = new FileStream(filePath, FileMode.Create);
+            await uploadedFile.OpenReadStream(10 * 1024 * 1024)
+                              .CopyToAsync(stream);
+
+            destination.Image = "/images/" + fileName;
+        }
+
+        await Repository.AddAsync(destination);
+
+        Navigation.NavigateTo("/DestinationIndex", true);
+    }
+
+    private void GoBack()
+    {
+        Navigation.NavigateTo("/DestinationIndex");
+    }
+    }

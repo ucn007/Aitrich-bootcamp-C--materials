@@ -1,0 +1,13 @@
+﻿@page "/parent"
+
+<h3>Parent Component</h3>
+
+<p>Enter a value to send to the child:</p>
+<input @bind="parentValue" placeholder="Type something..." />
+
+<!-- Passing parameter into child -->
+<LifecycleDemo ParameterValue="@parentValue" />
+
+@code {
+    private string parentValue = "Initial Value";
+}

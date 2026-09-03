@@ -1,0 +1,323 @@
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.runtime.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.endpoints.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.exe
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.deps.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.runtimeconfig.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.pdb
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Humanizer.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.AssemblyReference.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfoInputs.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfo.cs
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.CoreCompileInputs.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cs
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\bundle\TourManagement.styles.css
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\projectbundle\TourManagement.bundle.scp.css
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourMana.B8157365.Up2Date
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\refint\TourManagement.dll
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.pdb
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.genruntimeconfig.cache
+D:\JOB PORTAL\DRISHYA\BLAZOR\TourManagement\TourManagement\obj\Debug\net7.0\ref\TourManagement.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.runtime.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.endpoints.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.exe
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.deps.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.runtimeconfig.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.pdb
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.AssemblyReference.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfoInputs.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfo.cs
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cs
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\bundle\TourManagement.styles.css
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\projectbundle\TourManagement.bundle.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourMana.B8157365.Up2Date
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\refint\TourManagement.dll
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.pdb
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.genruntimeconfig.cache
+C:\Users\Asrithadevi\source\repos\chapter8\TourManagement\TourManagement\obj\Debug\net7.0\ref\TourManagement.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.runtime.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.endpoints.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.exe
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.deps.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.runtimeconfig.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.pdb
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Humanizer.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.AssemblyReference.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfoInputs.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfo.cs
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.CoreCompileInputs.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cs
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.sourcelink.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\bundle\TourManagement.styles.css
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\projectbundle\TourManagement.bundle.scp.css
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\swae.build.ex.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourMana.B8157365.Up2Date
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\refint\TourManagement.dll
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.pdb
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.genruntimeconfig.cache
+D:\Batch\Asp.net-core-Batch-32\Web\STUDENT\Asritha\chapter8\activity\TourManagement\TourManagement\obj\Debug\net7.0\ref\TourManagement.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\appsettings.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.endpoints.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.staticwebassets.runtime.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.exe
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.deps.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.runtimeconfig.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\TourManagement.pdb
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Humanizer.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.AssemblyReference.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfoInputs.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.AssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.csproj.CoreCompileInputs.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.RazorAssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\bundle\TourManagement.styles.css
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\scopedcss\projectbundle\TourManagement.bundle.scp.css
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\swae.build.ex.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourMana.B8157365.Up2Date
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\refint\TourManagement.dll
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.pdb
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\TourManagement.genruntimeconfig.cache
+D:\Materials\penguin\training material\Blazor\TourManagement\TourManagement\obj\Debug\net7.0\ref\TourManagement.dll

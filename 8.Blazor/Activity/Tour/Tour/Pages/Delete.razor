@@ -1,0 +1,33 @@
+﻿@page "/delete/{id:int}"
+@using Tour.Data
+@inject TourService TourService
+@inject NavigationManager NavManager 
+
+<h3>Delete Tour</h3>
+
+@if (tour != null)
+{
+    <p>Are you sure you want to delete @tour.Destination?</p>
+    <button @onclick="DeleteTour">Yes</button>
+}
+else
+{
+    <p>Tour not found.</p>
+}
+
+@code {
+    [Parameter] public int id { get; set; }
+    Tour tour;
+
+    protected override void OnInitialized()
+    {
+        tour = TourService.GetTour(id);
+    }
+
+    void DeleteTour()
+    {
+        TourService.DeleteTour(id);
+        // 👇 Redirect back to Index after deleting
+        NavManager.NavigateTo("/");
+    }
+}

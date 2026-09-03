@@ -1,0 +1,106 @@
+﻿@page "/"
+@inject NavigationManager Navigation
+
+
+
+<div class="hero-banner d-flex align-items-center justify-content-center text-center">
+    <div class="hero-content text-white">
+        <h1 class="display-3 fw-bold">Explore The World</h1>
+        <p class="lead mt-3 mb-4">
+            Discover amazing destinations and unforgettable experiences ✈️
+        </p>
+        
+    </div>
+</div>
+
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Popular Destinations</h2>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <img src="/Images/img10.jpg" height="350px" />
+               
+                <div class="card-body">
+                    <h5 class="card-title">Malaysia</h5>
+                    <p class="card-text">
+                        Experience vibrant culture and stunning islands.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <img src="/Images/img9.jpg" height="350px" />
+                    
+                <div class="card-body">
+                    <h5 class="card-title">Paris</h5>
+                    <p class="card-text">
+                        The city of love and iconic landmarks.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <img src="/Images/img7.jpg" height="350px" />
+                     
+                <div class="card-body">
+                    <h5 class="card-title">Maldives</h5>
+                    <p class="card-text">
+                        Relax in luxury over crystal clear waters.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .banner {
+        height: 60vh;
+        background: url('https://source.unsplash.com/1600x600/?travel') no-repeat center center;
+        background-size: cover;
+        position: relative;
+    }
+
+        .banner::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .banner .container {
+            position: relative;
+            z-index: 2;
+        }
+
+    .card {
+        border-radius: 15px;
+        overflow: hidden;
+        transition: 0.3s;
+    }
+
+        .card:hover {
+            transform: translateY(-8px);
+        }
+
+    .card-img-top {
+        height: 220px;
+        object-fit: cover;
+    }
+</style>
+
+@code {
+    private void GoToDestinations()
+    {
+        Navigation.NavigateTo("/DestinationIndex");
+    }
+}

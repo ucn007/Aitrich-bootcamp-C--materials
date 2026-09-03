@@ -1,0 +1,52 @@
+﻿@page "/TourView"
+
+@using Destination.Dto
+@inject Destination.Interface.ITourService TourService
+
+<h3 class="mb-3">All Tours</h3>
+
+@if (tours == null)
+{
+    <p>Loading...</p>
+}
+else if (!tours.Any())
+{
+    <p>No tours available.</p>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Destination</th>
+                <th>Nights</th>
+                <th>Price</th>
+                <th>Departure</th>
+                <th>Arrival</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in tours)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.Destination</td>
+                    <td>@item.Nights</td>
+                    <td>@item.Price</td>
+                    <td>@item.DepartureDate?.ToShortDateString()</td>
+                    <td>@item.ArrivalDate?.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<TourDto>? tours;
+
+    protected override async Task OnInitializedAsync()
+    {
+        tours = await TourService.GetAllToursAsync();
+    }
+}

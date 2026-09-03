@@ -1,0 +1,49 @@
+﻿@page "/edit/{id:int}"
+@using Tour.Data
+@inject TourService TourService
+@inject NavigationManager NavManager
+
+<h3>Edit Tour</h3>
+
+@if (tour != null)
+{
+    <form>
+        <div>
+            <label for="destination">Destination:</label>
+            <input id="destination" @bind="tour.Destination" />
+        </div>
+
+        <div>
+            <label for="price">Price:</label>
+            <input id="price" type="number" @bind="tour.Price" />
+        </div>
+
+        <div>
+            <label for="slots">Available Slots:</label>
+            <input id="slots" type="number" @bind="tour.AvailableSlots" />
+        </div>
+
+        <button type="button" @onclick="Save">Save</button>
+    </form>
+}
+else
+{
+    <p>Tour not found.</p>
+}
+
+@code {
+    [Parameter] public int id { get; set; }
+    Tour tour;
+
+    protected override void OnInitialized()
+    {
+        tour = TourService.GetTour(id);
+    }
+
+    void Save()
+    {
+        TourService.UpdateTour(tour);
+        // Redirect back to Index after saving
+        NavManager.NavigateTo("/");
+    }
+}

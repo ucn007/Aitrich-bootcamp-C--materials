@@ -1,0 +1,37 @@
+﻿@page "/LifeCycleHooks"
+
+<h3>Lifecycle Demo (Child)</h3>
+
+<p>Message: @message</p>
+<p>Parameter Value: @ParameterValue</p>
+
+@code {
+    [Parameter]
+    public string ParameterValue { get; set; } = "Default Value";
+
+    private string message = "";
+
+    protected override void OnInitialized()
+    {
+        message = "OnInitialized: Component created!";
+        Console.WriteLine("OnInitialized called");
+    }
+
+    protected override void OnParametersSet()
+    {
+        message = $"OnParametersSet: Parameter received = {ParameterValue}";
+        Console.WriteLine("OnParametersSet called");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            Console.WriteLine("OnAfterRender called for the first time!");
+        }
+        else
+        {
+            Console.WriteLine("OnAfterRender called again after re-render!");
+        }
+    }
+}

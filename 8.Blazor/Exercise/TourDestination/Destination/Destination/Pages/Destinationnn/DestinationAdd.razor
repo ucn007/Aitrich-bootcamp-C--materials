@@ -1,0 +1,76 @@
+﻿@page "/DestinationAdd"
+@using Destination.Interface
+@using Destination.Model
+@inject NavigationManager Navigation
+@inject IDestiRepository Repository
+@inject IWebHostEnvironment Environment
+
+<div class="container mt-5">
+    <h3>Add Destination</h3>
+
+    <EditForm Model="destination" OnValidSubmit="HandleSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label>Name</label>
+            <InputText class="form-control" @bind-Value="destination.DestinationName" />
+        </div>
+
+        <div class="mb-3">
+            <label>Description</label>
+            <InputText class="form-control" @bind-Value="destination.Description" />
+        </div>
+
+        <div class="mb-3">
+            <label>Upload Image</label>
+            <InputFile OnChange="UploadImage" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button type="button" class="btn btn-secondary ms-2"
+                @onclick="GoBack">
+            Cancel
+        </button>
+    </EditForm>
+</div>
+
+@code {
+    private Destinationn destination = new();
+    private IBrowserFile? uploadedFile;
+
+    private async Task UploadImage(InputFileChangeEventArgs e)
+    {
+        uploadedFile = e.File;
+    }
+
+    private async Task HandleSubmit()
+    {
+        if (uploadedFile != null)
+        {
+            var fileName = Guid.NewGuid().ToString()
+                           + Path.GetExtension(uploadedFile.Name);
+
+            var folderPath = Path.Combine(Environment.WebRootPath, "images");
+
+            Directory.CreateDirectory(folderPath);
+
+            var filePath = Path.Combine(folderPath, fileName);
+
+            using var stream = new FileStream(filePath, FileMode.Create);
+            await uploadedFile.OpenReadStream(10 * 1024 * 1024)
+                              .CopyToAsync(stream);
+
+            destination.Image = "/images/" + fileName;
+        }
+
+        await Repository.AddAsync(destination);
+
+        Navigation.NavigateTo("/DestinationIndex", true);
+    }
+
+    private void GoBack()
+    {
+        Navigation.NavigateTo("/DestinationIndex");
+    }
+    }

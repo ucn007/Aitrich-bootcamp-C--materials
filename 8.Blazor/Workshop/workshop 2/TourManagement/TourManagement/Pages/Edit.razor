@@ -1,0 +1,159 @@
+﻿@page "/edit/{Id:int}"
+@inject IDestinationService DestinationService
+@inject NavigationManager Navigation
+@inject IWebHostEnvironment Env
+
+@using TourManagement.Dto
+@using TourManagement.Interface
+@using Microsoft.AspNetCore.Components.Forms
+
+<div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.6);">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content rounded-4 shadow-lg">
+
+            <!-- Header -->
+            <div class="modal-header border-0">
+                <div>
+                    <h4 class="fw-bold">
+                        <i class="bi bi-pencil"></i> Edit Destination
+                    </h4>
+                    <small class="text-muted">Update travel destination</small>
+                </div>
+
+                <button type="button" class="btn-close"
+                        @onclick="Close"></button>
+            </div>
+
+            <!-- Body -->
+            <div class="modal-body">
+
+                <EditForm Model="destination" OnValidSubmit="UpdateDestination">
+                    <DataAnnotationsValidator />
+
+                    <!-- Name -->
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">
+                            Destination Name *
+                        </label>
+                        <InputText class="form-control form-control-lg"
+                                   @bind-Value="destination.Name" />
+                    </div>
+
+                    <!-- Description -->
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">
+                            Description *
+                        </label>
+                        <InputTextArea class="form-control"
+                                       rows="4"
+                                       @bind-Value="destination.Description" />
+                    </div>
+
+                    <!-- Current Image -->
+                    @if (!string.IsNullOrEmpty(destination.ImageUrl))
+                    {
+                        <div class="mb-3">
+                            <label class="form-label fw-bold">Current Image</label>
+                            <div>
+                                <img src="@destination.ImageUrl"
+                                     class="img-fluid rounded"
+                                     style="max-height:200px;" />
+                            </div>
+                        </div>
+                    }
+
+                    <!-- Change Image -->
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">
+                            Change Image
+                        </label>
+
+                        <InputFile OnChange="HandleFileUpload"
+                                   class="form-control" />
+                    </div>
+
+                    <!-- Buttons -->
+                    <div class="d-flex justify-content-end mt-4">
+
+                        <button type="button"
+                                class="btn btn-light me-2"
+                                @onclick="Close">
+                            Cancel
+                        </button>
+
+                        <button type="submit"
+                                class="btn btn-primary px-4">
+                            <i class="bi bi-check-circle"></i>
+                            Update
+                        </button>
+
+                    </div>
+
+                </EditForm>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+    [Parameter] public int Id { get; set; }
+
+    private DestinationDto destination = new();
+    private IBrowserFile uploadedFile;
+
+    protected override async Task OnInitializedAsync()
+    {
+        destination = await DestinationService.GetByIdAsync(Id);
+    }
+
+    private void HandleFileUpload(InputFileChangeEventArgs e)
+    {
+        uploadedFile = e.File;
+    }
+
+    private async Task<string> SaveImageAsync()
+    {
+        if (uploadedFile == null)
+            return destination.ImageUrl; // Keep old image
+
+        var folderPath = Path.Combine(Env.WebRootPath, "images");
+
+        if (!Directory.Exists(folderPath))
+            Directory.CreateDirectory(folderPath);
+
+        // Delete old image
+        if (!string.IsNullOrEmpty(destination.ImageUrl))
+        {
+            var oldPath = Path.Combine(Env.WebRootPath,
+                                       destination.ImageUrl.TrimStart('/'));
+
+            if (File.Exists(oldPath))
+                File.Delete(oldPath);
+        }
+
+        var uniqueFileName = Guid.NewGuid().ToString() +
+                             Path.GetExtension(uploadedFile.Name);
+
+        var filePath = Path.Combine(folderPath, uniqueFileName);
+
+        using var stream = new FileStream(filePath, FileMode.Create);
+        await uploadedFile.OpenReadStream(5 * 1024 * 1024)
+                          .CopyToAsync(stream);
+
+        return "/images/" + uniqueFileName;
+    }
+
+    private async Task UpdateDestination()
+    {
+        destination.ImageUrl = await SaveImageAsync();
+        await DestinationService.UpdateAsync(destination);
+        Navigation.NavigateTo("/");
+    }
+
+    private void Close()
+    {
+        Navigation.NavigateTo("");
+    }
+}

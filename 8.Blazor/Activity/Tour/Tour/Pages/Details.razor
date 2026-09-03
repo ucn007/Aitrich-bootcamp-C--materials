@@ -1,0 +1,26 @@
+﻿@page "/details/{id:int}"
+@using Tour.Data
+@inject TourService TourService
+
+<h3>Tour Details</h3>
+
+@if (tour != null)
+{
+    <p>Destination: @tour.Destination</p>
+    <p>Price: @tour.Price</p>
+    <p>Available Slots: @tour.AvailableSlots</p>
+}
+else
+{
+    <p>Tour not found.</p>
+}
+
+@code {
+    [Parameter] public int id { get; set; }
+    Tour tour;
+
+    protected override void OnInitialized()
+    {
+        tour = TourService.GetTour(id);
+    }
+}
