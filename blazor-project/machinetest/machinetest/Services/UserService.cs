@@ -6,7 +6,7 @@ using machinetest.Model;
 
 namespace machinetest.Services;
 
-public class UserService:IUserService
+public class  UserService:IUserService
 {
     private readonly IUserRepository _repo;
     private readonly IMapper _mapper;

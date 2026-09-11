@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dfBg8V1iULQ=",
+  "dgSpecHash": "CyUPoyZz6eM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\BlazorOne\\BlazorOne\\BlazorOne.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/BlazorOne/BlazorOne/BlazorOne.csproj",
+  "expectedPackageFiles": [
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/ucnmac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

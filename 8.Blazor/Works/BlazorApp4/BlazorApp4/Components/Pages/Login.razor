@@ -1,0 +1,183 @@
+@page "/Login"
+
+ 
+
+ 
+
+@using System.Security.Claims
+@using BlazorApp4.DTOs
+@using BlazorApp4.Interfaces
+@using Microsoft.AspNetCore.Authentication
+@using Microsoft.AspNetCore.Authentication.Cookies
+@using Microsoft.AspNetCore.Authorization
+
+@attribute [AllowAnonymous]
+
+@inject IUserService UserService
+@inject IHttpContextAccessor HttpContextAccessor
+@inject NavigationManager NavigationManager
+
+<PageTitle>Login</PageTitle>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card shadow">
+                <div class="card-body p-4">
+
+                    <h3 class="text-center mb-4">
+                        Login
+                    </h3>
+
+                    @if (error == "invalid")
+                    {
+                        <div class="alert alert-danger">
+                            Invalid email or password.
+                        </div>
+                    }
+
+                    <EditForm Model="@loginModel"
+                              FormName="LoginForm"
+                              OnValidSubmit="@HandleLogin">
+
+                        <DataAnnotationsValidator />
+
+                        <div class="mb-3">
+
+                            <label class="form-label">
+                                Email
+                            </label>
+
+                            <InputText
+                                @bind-Value="loginModel.Email"
+                                type="email"
+                                class="form-control"
+                                placeholder="Enter your email" />
+
+                            <ValidationMessage
+                                For="@(() => loginModel.Email)" />
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label class="form-label">
+                                Password
+                            </label>
+
+                            <InputText
+                                @bind-Value="loginModel.Password"
+                                type="password"
+                                class="form-control"
+                                placeholder="Enter your password" />
+
+                            <ValidationMessage
+                                For="@(() => loginModel.Password)" />
+
+                        </div>
+
+                        <button type="submit"
+                                class="btn btn-primary w-100">
+                            Login
+                        </button>
+
+                    </EditForm>
+
+                    <hr />
+
+                    <div class="text-center">
+
+                        <span>
+                            Don't have an account?
+                        </span>
+
+                        <a href="/Register"
+                           class="btn btn-link">
+                            Register
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code
+{
+    [SupplyParameterFromForm]
+    private LoginDto loginModel { get; set; } = new();
+
+    [SupplyParameterFromQuery]
+    private string? error { get; set; }
+
+    private async Task HandleLogin()
+    {
+        var user = await UserService.LoginAsync(loginModel);
+
+        if (user == null)
+        {
+            NavigationManager.NavigateTo(
+                "/Login?error=invalid",
+                forceLoad: true);
+
+            return;
+        }
+
+        var claims = new List<Claim>
+        {
+            new(
+                ClaimTypes.NameIdentifier,
+                user.Id.ToString()),
+
+            new(
+                ClaimTypes.Name,
+                $"{user.FirstName} {user.LastName}"),
+
+            new(
+                ClaimTypes.Email,
+                user.Email),
+
+            new(
+                ClaimTypes.Role,
+                user.Role)
+        };
+
+        var identity = new ClaimsIdentity(
+            claims,
+            CookieAuthenticationDefaults.AuthenticationScheme);
+
+        var principal = new ClaimsPrincipal(identity);
+
+        var authProperties = new AuthenticationProperties
+        {
+            IsPersistent = true,
+            ExpiresUtc = DateTimeOffset.UtcNow.AddMinutes(30),
+            AllowRefresh = true
+        };
+
+        await HttpContextAccessor
+            .HttpContext!
+            .SignInAsync(
+                CookieAuthenticationDefaults.AuthenticationScheme,
+                principal,
+                authProperties);
+
+        if (string.Equals(
+                user.Role,
+                "Admin",
+                StringComparison.OrdinalIgnoreCase))
+        {
+            NavigationManager.NavigateTo(
+                "/Admin/Index",
+                forceLoad: true);
+
+            return;
+        }
+
+        NavigationManager.NavigateTo(
+            "/",
+            forceLoad: true);
+    }
+}

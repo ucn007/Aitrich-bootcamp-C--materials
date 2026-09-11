@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Tour.csproj": {}
+    "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/Tour/Tour/Tour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Tour.csproj": {
+    "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/Tour/Tour/Tour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Tour.csproj",
+        "projectUniqueName": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/Tour/Tour/Tour.csproj",
         "projectName": "Tour",
-        "projectPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\Tour.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\Blazor\\Tour\\Tour\\obj\\",
+        "projectPath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/Tour/Tour/Tour.csproj",
+        "packagesPath": "/Users/ucnmac/.nuget/packages/",
+        "outputPath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/8.Blazor/Activity/Tour/Tour/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ucnmac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +41,8 @@
         "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -61,6 +54,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

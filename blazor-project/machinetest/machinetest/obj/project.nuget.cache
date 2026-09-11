@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2S8iXMulnK4=",
+  "dgSpecHash": "Myt59zAq7D8=",
   "success": true,
-  "projectFilePath": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
+  "projectFilePath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
   "expectedPackageFiles": [
     "/Users/ucnmac/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ucnmac/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -89,9 +89,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
+      "projectPath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
+      "filePath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

@@ -1,0 +1,434 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+@using BlazorApp2.DTOs
+@using BlazorApp2.Model
+@using BlazorApp2.Services.Interfaces
+
+@inject ITourService TourService
+
+<PageTitle>Tours</PageTitle>
+<style>
+    .tour-page {
+        min-height: 100vh;
+        padding: 40px;
+        background: #f6f7fb;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .page-header {
+        max-width: 1200px;
+        margin: 0 auto 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .add-tour-btn {
+        border: none;
+        border-radius: 8px;
+        padding: 12px 22px;
+        background: #2563eb;
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .add-tour-btn:hover {
+        background: #1d4ed8;
+    }
+
+    .form-container {
+        max-width: 1200px;
+        margin: 0 auto 40px;
+        padding: 28px;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .form-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-group.full {
+        grid-column: 1 / -1;
+    }
+
+    .form-group label {
+        margin-bottom: 7px;
+        font-weight: 600;
+    }
+
+    .form-control {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 12px 14px;
+        border: 1px solid #d1d5db;
+        border-radius: 7px;
+        font-size: 15px;
+    }
+
+    .form-actions {
+        display: flex;
+        justify-content: flex-end;
+        gap: 12px;
+        margin-top: 25px;
+    }
+
+    .save-btn {
+        padding: 11px 22px;
+        border: none;
+        border-radius: 7px;
+        background: #2563eb;
+        color: white;
+        cursor: pointer;
+    }
+
+    .cancel-btn {
+        padding: 11px 20px;
+        border: 1px solid #d1d5db;
+        border-radius: 7px;
+        background: white;
+        cursor: pointer;
+    }
+
+    .tour-grid {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 22px;
+    }
+
+    .tour-card {
+        background: white;
+        border: 1px solid #e5e7eb;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    }
+
+    .tour-content {
+        padding: 22px;
+    }
+
+    .destination {
+        color: #2563eb;
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    .tour-content h3 {
+        margin: 10px 0;
+    }
+
+    .tour-content p {
+        color: #6b7280;
+        line-height: 1.6;
+    }
+
+    .tour-info {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 15px;
+        border-top: 1px solid #eee;
+        font-size: 13px;
+    }
+
+    .error-message {
+        max-width: 1200px;
+        margin: 0 auto 20px;
+        padding: 14px;
+        background: #fee2e2;
+        color: #b91c1c;
+        border-radius: 8px;
+    }
+
+  
+
+    
+</style>
+<div class="tour-page">
+
+    <!-- Header -->
+    <div class="page-header">
+        <div>
+            <h1>Explore Tours</h1>
+            <p>Manage your tours and destinations</p>
+        </div>
+
+        <button class="add-tour-btn" @onclick="OpenForm">
+            + Add Tour
+        </button>
+    </div>
+
+    <!-- Error Message -->
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="error-message">
+            @errorMessage
+        </div>
+    }
+
+    <!-- Add Tour Form -->
+    @if (showForm)
+    {
+        <div class="form-container">
+
+            <div class="form-header">
+                <h2>Add New Tour</h2>
+
+                <button type="button"
+                        class="close-btn"
+                        @onclick="CloseForm">
+                    ×
+                </button>
+            </div>
+
+            <EditForm Model="@tour" OnValidSubmit="AddTour">
+
+                <div class="form-grid">
+
+                    <!-- Tour Name -->
+                    <div class="form-group">
+                        <label for="tourName">Tour Name</label>
+
+                        <InputText id="tourName"
+                                   class="form-control"
+                                   @bind-Value="tour.Name"
+                                   placeholder="Enter tour name" />
+                    </div>
+
+                    <!-- Destination -->
+                    <div class="form-group">
+                        <label for="destination">Destination</label>
+
+                        <InputText id="destination"
+                                   class="form-control"
+                                   @bind-Value="tour.Destination"
+                                   placeholder="Enter destination" />
+                    </div>
+
+                    <!-- Days -->
+                    <div class="form-group">
+                        <label for="days">Number of Days</label>
+
+                        <InputNumber id="days"
+                                     class="form-control"
+                                     @bind-Value="tour.Days" />
+                    </div>
+
+                    <!-- Slots -->
+                    <div class="form-group">
+                        <label for="slots">Available Slots</label>
+
+                        <InputNumber id="slots"
+                                     class="form-control"
+                                     @bind-Value="tour.slots" />
+                    </div>
+
+                    <!-- Description -->
+                    <div class="form-group full">
+                        <label for="description">Description</label>
+
+                        <InputTextArea id="description"
+                                       class="form-control textarea"
+                                       @bind-Value="tour.Description"
+                                       placeholder="Enter tour description..." />
+                    </div>
+
+                </div>
+
+                <div class="form-actions">
+
+                    <button type="button"
+                            class="cancel-btn"
+                            @onclick="CloseForm">
+                        Cancel
+                    </button>
+
+                    <button type="submit"
+                            class="save-btn"
+                            disabled="@saving">
+
+                        @if (saving)
+                        {
+                            <span>Saving...</span>
+                        }
+                        else
+                        {
+                            <span>Add Tour</span>
+                        }
+
+                    </button>
+
+                </div>
+
+            </EditForm>
+
+        </div>
+    }
+
+    <!-- Tour List -->
+    <div class="tours-section">
+
+        <div class="section-header">
+            <h2>Available Tours</h2>
+
+            <span>
+                @tours.Count @(tours.Count == 1 ? "tour" : "tours")
+            </span>
+        </div>
+
+        @if (loading)
+        {
+            <div class="loading-state">
+                <p>Loading tours...</p>
+            </div>
+        }
+        else if (tours.Count == 0)
+        {
+            <div class="empty-state">
+                <h3>No tours available</h3>
+                <p>Add your first tour to get started.</p>
+            </div>
+        }
+        else
+        {
+            <div class="tour-grid">
+
+                @foreach (var item in tours)
+                {
+                    <div class="tour-card">
+
+                        <div class="tour-content">
+
+                            <span class="destination">
+                                📍 @item.Destination
+                            </span>
+
+                            <h3>@item.Name</h3>
+
+                            <p>
+                                @item.Description
+                            </p>
+
+                            <div class="tour-info">
+
+                                <span>
+                                    🗓️ @item.Days Days
+                                </span>
+
+                                <span>
+                                    👥 @item.slots Slots
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+        }
+
+    </div>
+
+</div>
+
+@code {
+
+    private List<TourCreateDto> tours = new();
+
+    private Tours tour = new();
+
+    private bool showForm = false;
+
+    private bool loading = true;
+
+    private bool saving = false;
+
+    private string? errorMessage;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadTours();
+    }
+
+
+    private async Task LoadTours()
+    {
+        try
+        {
+            loading = true;
+            errorMessage = null;
+
+            tours = await TourService.GetAllTours();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Failed to load tours: {ex.Message}";
+            tours = new List<TourCreateDto>();
+        }
+        finally
+        {
+            loading = false;
+        }
+    }
+
+
+    private void OpenForm()
+    {
+        Console.WriteLine("BUTTON CLICKED");
+        tour = new Tours();
+        errorMessage = null;
+        showForm = true;
+    }
+
+
+    private void CloseForm()
+    {
+        showForm = false;
+        tour = new Tours();
+    }
+
+
+    private async Task AddTour()
+    {
+        if (saving)
+            return;
+
+        try
+        {
+            saving = true;
+            errorMessage = null;
+
+            await TourService.AddTour(tour);
+
+            showForm = false;
+            tour = new Tours();
+
+            await LoadTours();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Failed to add tour: {ex.Message}";
+        }
+        finally
+        {
+            saving = false;
+        }
+    }
+}
+

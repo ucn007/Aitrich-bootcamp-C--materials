@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj": {}
+    "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj": {}
   },
   "projects": {
-    "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj": {
+    "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
+        "projectUniqueName": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
         "projectName": "machinetest",
-        "projectPath": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
+        "projectPath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/machinetest.csproj",
         "packagesPath": "/Users/ucnmac/.nuget/packages/",
-        "outputPath": "/Users/ucnmac/aitrich/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/obj/",
+        "outputPath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/blazor-project/machinetest/machinetest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ucnmac/.nuget/NuGet/NuGet.Config"

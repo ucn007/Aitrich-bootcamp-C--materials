@@ -1,0 +1,9 @@
+@page "/admin/index"
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize(Roles = "admin")]
+
+<h1> Wellcome to Admin Index</h1>
+
+@code {
+    
+}

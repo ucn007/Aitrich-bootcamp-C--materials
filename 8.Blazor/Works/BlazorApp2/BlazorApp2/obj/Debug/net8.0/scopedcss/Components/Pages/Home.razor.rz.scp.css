@@ -1,0 +1,540 @@
+
+    /* ================================
+       Main Page
+    ================================ */
+
+.tour-page[b-9bu4rmrx1e] {
+    min-height: 100vh;
+    padding: 40px;
+    background: #f6f7fb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* ================================
+   Page Header
+================================ */
+
+.page-header[b-9bu4rmrx1e] {
+    max-width: 1200px;
+    margin: 0 auto 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header h1[b-9bu4rmrx1e] {
+    margin: 0;
+    font-size: 32px;
+    color: #222;
+}
+
+.page-header p[b-9bu4rmrx1e] {
+    margin: 8px 0 0;
+    color: #777;
+    font-size: 15px;
+}
+
+
+/* ================================
+   Add Tour Button
+================================ */
+
+.add-tour-btn[b-9bu4rmrx1e] {
+    border: none;
+    border-radius: 8px;
+    padding: 12px 22px;
+
+    background: #2563eb;
+    color: white;
+
+    font-size: 15px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.add-tour-btn:hover[b-9bu4rmrx1e] {
+    background: #1d4ed8;
+    transform: translateY(-1px);
+}
+
+.add-tour-btn:active[b-9bu4rmrx1e] {
+    transform: translateY(0);
+}
+
+
+/* ================================
+   Error Message
+================================ */
+
+.error-message[b-9bu4rmrx1e] {
+    max-width: 1200px;
+    margin: 0 auto 20px;
+
+    padding: 14px 18px;
+
+    background: #fee2e2;
+    color: #b91c1c;
+
+    border: 1px solid #fecaca;
+    border-radius: 8px;
+
+    font-size: 14px;
+}
+
+
+/* ================================
+   Add Tour Form
+================================ */
+
+.form-container[b-9bu4rmrx1e] {
+    max-width: 1200px;
+    margin: 0 auto 40px;
+
+    padding: 28px;
+
+    background: white;
+
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+}
+
+
+/* Form Header */
+
+.form-header[b-9bu4rmrx1e] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 25px;
+}
+
+.form-header h2[b-9bu4rmrx1e] {
+    margin: 0;
+    font-size: 22px;
+    color: #222;
+}
+
+
+/* Close Button */
+
+.close-btn[b-9bu4rmrx1e] {
+    width: 36px;
+    height: 36px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: #f3f4f6;
+    color: #555;
+
+    font-size: 24px;
+    line-height: 1;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.close-btn:hover[b-9bu4rmrx1e] {
+    background: #e5e7eb;
+    color: #111;
+}
+
+
+/* ================================
+   Form Grid
+================================ */
+
+.form-grid[b-9bu4rmrx1e] {
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 20px;
+}
+
+
+/* Form Group */
+
+.form-group[b-9bu4rmrx1e] {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group.full[b-9bu4rmrx1e] {
+    grid-column: 1 / -1;
+}
+
+.form-group label[b-9bu4rmrx1e] {
+    margin-bottom: 7px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    color: #374151;
+}
+
+
+/* ================================
+   Inputs
+================================ */
+
+.form-control[b-9bu4rmrx1e] {
+    width: 100%;
+    box-sizing: border-box;
+
+    padding: 12px 14px;
+
+    border: 1px solid #d1d5db;
+    border-radius: 7px;
+
+    background: white;
+
+    font-size: 15px;
+    color: #222;
+
+    outline: none;
+
+    transition: 0.2s ease;
+}
+
+.form-control:focus[b-9bu4rmrx1e] {
+    border-color: #2563eb;
+
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+.form-control[b-9bu4rmrx1e]::placeholder {
+    color: #9ca3af;
+}
+
+
+/* Description */
+
+.textarea[b-9bu4rmrx1e] {
+    min-height: 120px;
+    resize: vertical;
+}
+
+
+/* ================================
+   Form Actions
+================================ */
+
+.form-actions[b-9bu4rmrx1e] {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+
+    margin-top: 25px;
+}
+
+
+/* Cancel */
+
+.cancel-btn[b-9bu4rmrx1e] {
+    padding: 11px 20px;
+
+    border: 1px solid #d1d5db;
+    border-radius: 7px;
+
+    background: white;
+    color: #374151;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.cancel-btn:hover[b-9bu4rmrx1e] {
+    background: #f3f4f6;
+}
+
+
+/* Save */
+
+.save-btn[b-9bu4rmrx1e] {
+    padding: 11px 22px;
+
+    border: none;
+    border-radius: 7px;
+
+    background: #2563eb;
+    color: white;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.save-btn:hover[b-9bu4rmrx1e] {
+    background: #1d4ed8;
+}
+
+.save-btn:disabled[b-9bu4rmrx1e] {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+
+/* ================================
+   Tours Section
+================================ */
+
+.tours-section[b-9bu4rmrx1e] {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+/* Section Header */
+
+.section-header[b-9bu4rmrx1e] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 20px;
+}
+
+.section-header h2[b-9bu4rmrx1e] {
+    margin: 0;
+
+    font-size: 24px;
+    color: #222;
+}
+
+.section-header span[b-9bu4rmrx1e] {
+    padding: 6px 12px;
+
+    border-radius: 20px;
+
+    background: #e0e7ff;
+    color: #3730a3;
+
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+/* ================================
+   Tour Grid
+================================ */
+
+.tour-grid[b-9bu4rmrx1e] {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 22px;
+}
+
+
+/* ================================
+   Tour Card
+================================ */
+
+.tour-card[b-9bu4rmrx1e] {
+    background: white;
+
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+
+    transition: 0.2s ease;
+}
+
+.tour-card:hover[b-9bu4rmrx1e] {
+    transform: translateY(-4px);
+
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Card Content */
+
+.tour-content[b-9bu4rmrx1e] {
+    padding: 22px;
+}
+
+
+/* Destination */
+
+.destination[b-9bu4rmrx1e] {
+    display: inline-block;
+
+    margin-bottom: 10px;
+
+    font-size: 13px;
+    font-weight: 600;
+
+    color: #2563eb;
+}
+
+
+/* Tour Name */
+
+.tour-content h3[b-9bu4rmrx1e] {
+    margin: 0 0 10px;
+
+    font-size: 20px;
+    color: #222;
+}
+
+
+/* Description */
+
+.tour-content p[b-9bu4rmrx1e] {
+    margin: 0 0 20px;
+
+    color: #6b7280;
+
+    font-size: 14px;
+    line-height: 1.6;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+
+/* ================================
+   Tour Information
+================================ */
+
+.tour-info[b-9bu4rmrx1e] {
+    display: flex;
+    justify-content: space-between;
+
+    padding-top: 15px;
+
+    border-top: 1px solid #eeeeee;
+
+    color: #555;
+
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+/* ================================
+   Loading
+================================ */
+
+.loading-state[b-9bu4rmrx1e] {
+    padding: 50px 20px;
+
+    text-align: center;
+
+    color: #777;
+}
+
+
+/* ================================
+   Empty State
+================================ */
+
+.empty-state[b-9bu4rmrx1e] {
+    padding: 60px 20px;
+
+    text-align: center;
+
+    background: white;
+
+    border: 1px dashed #d1d5db;
+    border-radius: 12px;
+}
+
+.empty-state h3[b-9bu4rmrx1e] {
+    margin: 0 0 8px;
+
+    font-size: 20px;
+    color: #333;
+}
+
+.empty-state p[b-9bu4rmrx1e] {
+    margin: 0;
+
+    color: #777;
+}
+
+
+/* ================================
+   Responsive
+================================ */
+
+@media (max-width: 900px) {
+
+    .tour-page[b-9bu4rmrx1e] {
+        padding: 25px;
+    }
+
+    .tour-grid[b-9bu4rmrx1e] {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 650px) {
+
+    .tour-page[b-9bu4rmrx1e] {
+        padding: 18px;
+    }
+
+    .page-header[b-9bu4rmrx1e] {
+        flex-direction: column;
+        align-items: flex-start;
+
+        gap: 20px;
+    }
+
+    .add-tour-btn[b-9bu4rmrx1e] {
+        width: 100%;
+    }
+
+    .form-container[b-9bu4rmrx1e] {
+        padding: 20px;
+    }
+
+    .form-grid[b-9bu4rmrx1e] {
+        grid-template-columns: 1fr;
+    }
+
+    .form-group.full[b-9bu4rmrx1e] {
+        grid-column: auto;
+    }
+
+    .form-actions[b-9bu4rmrx1e] {
+        flex-direction: column;
+    }
+
+    .cancel-btn[b-9bu4rmrx1e],
+    .save-btn[b-9bu4rmrx1e] {
+        width: 100%;
+    }
+
+    .tour-grid[b-9bu4rmrx1e] {
+        grid-template-columns: 1fr;
+    }
+
+}
+
