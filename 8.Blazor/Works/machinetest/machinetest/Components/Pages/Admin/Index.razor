@@ -1,0 +1,487 @@
+@page "/admin/index"
+@rendermode InteractiveServer
+
+@using machinetest.DTOs
+@using machinetest.Interface
+
+@inject IDoctorService DoctorService
+
+<PageTitle>Doctor Management</PageTitle>
+
+<div class="container-fluid py-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h2 class="mb-1">Doctors</h2>
+            <p class="text-muted mb-0">
+                Manage doctors and their availability
+            </p>
+        </div>
+
+        <button class="btn btn-primary"
+                @onclick="ShowAddForm">
+            + Add Doctor
+        </button>
+    </div>
+
+    <!-- Error -->
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger">
+            @errorMessage
+        </div>
+    }
+
+    <!-- Add / Edit Form -->
+    @if (showForm)
+    {
+        <div class="card shadow-sm mb-4">
+
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">
+                    @(editingId.HasValue
+                        ? "Edit Doctor"
+                        : "Add Doctor")
+                </h5>
+
+                <button type="button"
+                        class="btn-close"
+                        @onclick="CancelForm">
+                </button>
+            </div>
+
+            <div class="card-body">
+
+                <EditForm Model="@doctorDto"
+                          OnValidSubmit="SaveDoctor">
+
+                    <DataAnnotationsValidator />
+
+                    <div class="row">
+
+                        <!-- Name -->
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">
+                                Doctor Name
+                            </label>
+
+                            <InputText class="form-control"
+                                       @bind-Value="doctorDto.Name"
+                                       placeholder="Enter doctor name" />
+
+                            <ValidationMessage For="@(() => doctorDto.Name)" />
+                        </div>
+
+                        <!-- Specialization -->
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">
+                                Specialization
+                            </label>
+
+                            <InputText class="form-control"
+                                       @bind-Value="doctorDto.Specialization"
+                                       placeholder="e.g. Cardiologist" />
+
+                            <ValidationMessage For="@(() => doctorDto.Specialization)" />
+                        </div>
+
+                        <!-- Department -->
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">
+                                Department
+                            </label>
+
+                            <InputText class="form-control"
+                                       @bind-Value="doctorDto.Department"
+                                       placeholder="e.g. Cardiology" />
+
+                            <ValidationMessage For="@(() => doctorDto.Department)" />
+                        </div>
+
+                        <!-- Consultation Fee -->
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">
+                                Consultation Fee
+                            </label>
+
+                            <InputNumber class="form-control"
+                                         @bind-Value="doctorDto.ConsultationFee" />
+                        </div>
+
+                        <!-- Availability -->
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">
+                                Availability
+                            </label>
+
+                            <InputSelect class="form-select"
+                                         @bind-Value="doctorDto.Available">
+
+                                <option value="">
+                                    Select availability
+                                </option>
+
+                                <option value="Available">
+                                    Available
+                                </option>
+
+                                <option value="Unavailable">
+                                    Unavailable
+                                </option>
+
+                            </InputSelect>
+                        </div>
+
+                    </div>
+
+                    <!-- Form buttons -->
+                    <div class="d-flex justify-content-end gap-2">
+
+                        <button type="button"
+                                class="btn btn-secondary"
+                                @onclick="CancelForm">
+                            Cancel
+                        </button>
+
+                        <button type="submit"
+                                class="btn btn-primary"
+                                disabled="@isSaving">
+
+                            @(isSaving
+                                ? "Saving..."
+                                : editingId.HasValue
+                                    ? "Update Doctor"
+                                    : "Add Doctor")
+
+                        </button>
+
+                    </div>
+
+                </EditForm>
+
+            </div>
+        </div>
+    }
+
+    <!-- Doctors -->
+    @if (isLoading)
+    {
+        <div class="text-center py-5">
+            <div class="spinner-border text-primary"></div>
+
+            <p class="mt-2 text-muted">
+                Loading doctors...
+            </p>
+        </div>
+    }
+    else if (doctors.Count == 0)
+    {
+        <div class="card shadow-sm">
+            <div class="card-body text-center py-5">
+
+                <h4>No doctors found</h4>
+
+                <p class="text-muted">
+                    Add your first doctor to get started.
+                </p>
+
+                <button class="btn btn-primary"
+                        @onclick="ShowAddForm">
+                    Add Doctor
+                </button>
+
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row g-4">
+
+            @foreach (var doctor in doctors)
+            {
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+
+                    <div class="card doctor-card h-100 shadow-sm">
+
+                        <div class="card-body">
+
+                            <!-- Doctor Header -->
+                            <div class="d-flex align-items-center mb-3">
+
+                                <div class="doctor-avatar me-3">
+                                    @GetInitials(doctor.Name)
+                                </div>
+
+                                <div class="flex-grow-1">
+
+                                    <h5 class="mb-1">
+                                        @doctor.Name
+                                    </h5>
+
+                                    <small class="text-muted">
+                                        @doctor.Specialization
+                                    </small>
+
+                                </div>
+
+                            </div>
+
+                            <hr />
+
+                            <!-- Department -->
+                            <div class="mb-3">
+
+                                <small class="text-muted">
+                                    Department
+                                </small>
+
+                                <div class="fw-semibold">
+                                    @doctor.Department
+                                </div>
+
+                            </div>
+
+                            <!-- Fee -->
+                            <div class="mb-3">
+
+                                <small class="text-muted">
+                                    Consultation Fee
+                                </small>
+
+                                <div class="fw-semibold">
+                                    @(doctor.ConsultationFee.HasValue
+                                        ? $"₹{doctor.ConsultationFee:N0}"
+                                        : "Not specified")
+                                </div>
+
+                            </div>
+
+                            <!-- Availability -->
+                            <div class="mb-3">
+
+                                <small class="text-muted">
+                                    Availability
+                                </small>
+
+                                <div class="mt-1">
+
+                                    @if (doctor.Available == "Available")
+                                    {
+                                        <span class="badge bg-success">
+                                            Available
+                                        </span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-secondary">
+                                            @doctor.Available
+                                        </span>
+                                    }
+
+                                </div>
+
+                            </div>
+
+                            <!-- Actions -->
+                            <div class="d-flex gap-2 mt-auto">
+
+                                <button class="btn btn-outline-primary flex-fill"
+                                        @onclick="() => EditDoctor(doctor.Id)">
+                                    Edit
+                                </button>
+
+                                <button class="btn btn-outline-danger flex-fill"
+                                        @onclick="() => DeleteDoctor(doctor.Id)">
+                                    Delete
+                                </button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    }
+
+</div>
+
+@code {
+
+    private List<DoctorDto> doctors = new();
+
+    private DoctorDto doctorDto = new();
+
+    private bool showForm;
+    private bool isLoading;
+    private bool isSaving;
+
+    private int? editingId;
+
+    private string? errorMessage;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadDoctors();
+    }
+
+
+    private async Task LoadDoctors()
+    {
+        isLoading = true;
+        errorMessage = null;
+
+        try
+        {
+            doctors = await DoctorService.GetAllAsync();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+
+    private void ShowAddForm()
+    {
+        doctorDto = new DoctorDto();
+
+        editingId = null;
+
+        errorMessage = null;
+
+        showForm = true;
+    }
+
+
+    private async Task SaveDoctor()
+    {
+        isSaving = true;
+        errorMessage = null;
+
+        try
+        {
+            if (editingId.HasValue)
+            {
+                await DoctorService.UpdateAsync(
+                    editingId.Value,
+                    doctorDto);
+            }
+            else
+            {
+                await DoctorService.CreateAsync(
+                    doctorDto);
+            }
+
+            doctorDto = new DoctorDto();
+
+            editingId = null;
+
+            showForm = false;
+
+            await LoadDoctors();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isSaving = false;
+        }
+    }
+
+
+    private async Task EditDoctor(int id)
+    {
+        errorMessage = null;
+
+        try
+        {
+            var doctor =
+                await DoctorService.GetByIdAsync(id);
+
+            if (doctor == null)
+            {
+                errorMessage = "Doctor not found.";
+                return;
+            }
+
+            doctorDto = doctor;
+
+            editingId = id;
+
+            showForm = true;
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+
+    private async Task DeleteDoctor(int id)
+    {
+        errorMessage = null;
+
+        try
+        {
+            var deleted =
+                await DoctorService.DeleteAsync(id);
+
+            if (!deleted)
+            {
+                errorMessage = "Doctor not found.";
+                return;
+            }
+
+            await LoadDoctors();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+
+    private void CancelForm()
+    {
+        doctorDto = new DoctorDto();
+
+        editingId = null;
+
+        showForm = false;
+
+        errorMessage = null;
+    }
+
+
+    private static string GetInitials(string? name)
+    {
+        if (string.IsNullOrWhiteSpace(name))
+            return "DR";
+
+        var parts = name
+            .Trim()
+            .Split(
+                ' ',
+                StringSplitOptions.RemoveEmptyEntries);
+
+        if (parts.Length == 1)
+            return parts[0][0]
+                .ToString()
+                .ToUpper();
+
+        return $"{parts[0][0]}{parts[^1][0]}"
+            .ToUpper();
+    }
+}

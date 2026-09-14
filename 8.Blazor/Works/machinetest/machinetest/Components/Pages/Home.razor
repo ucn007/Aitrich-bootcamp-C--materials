@@ -1,0 +1,364 @@
+﻿
+@page "/"
+
+@using machinetest.DTOs
+@using machinetest.Interface
+@inject IPatientService PatientService
+
+<PageTitle>Patients</PageTitle>
+
+<div class="container py-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h2>Patients</h2>
+            <p class="text-muted mb-0">
+                Add and manage patients
+            </p>
+        </div>
+    </div>
+
+    @if (!string.IsNullOrEmpty(successMessage))
+    {
+        <div class="alert alert-success">
+            @successMessage
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger">
+            @errorMessage
+        </div>
+    }
+
+    <!-- Add Patient -->
+    <div class="card mb-4">
+        <div class="card-header">
+            <h5 class="mb-0">
+                @(isEditMode ? "Edit Patient" : "Add Patient")
+            </h5>
+        </div>
+
+        <div class="card-body">
+
+            <EditForm Model="@patientDto" OnValidSubmit="@SavePatient">
+                <DataAnnotationsValidator />
+
+                <div class="row">
+
+                    <!-- Patient Name -->
+                    <div class="col-md-6 mb-3">
+                        <label class="form-label">
+                            Patient Name
+                        </label>
+
+                        <InputText class="form-control"
+                                   @bind-Value="patientDto.PatientName"
+                                   placeholder="Enter patient name" />
+
+                        <ValidationMessage For="@(() => patientDto.PatientName)" />
+                    </div>
+
+                    <!-- Phone -->
+                    <div class="col-md-6 mb-3">
+                        <label class="form-label">
+                            Phone
+                        </label>
+
+                        <InputNumber class="form-control"
+                                     @bind-Value="patientDto.Phone" />
+
+                        <ValidationMessage For="@(() => patientDto.Phone)" />
+                    </div>
+
+                    <!-- Email -->
+                    <div class="col-md-6 mb-3">
+                        <label class="form-label">
+                            Email
+                        </label>
+
+                        <InputText class="form-control"
+                                   type="email"
+                                   @bind-Value="patientDto.Email"
+                                   placeholder="Enter email" />
+
+                        <ValidationMessage For="@(() => patientDto.Email)" />
+                    </div>
+
+                    <!-- Gender -->
+                    <div class="col-md-3 mb-3">
+                        <label class="form-label">
+                            Gender
+                        </label>
+
+                        <InputSelect class="form-select"
+                                     @bind-Value="patientDto.Gender">
+
+                            <option value="">Select Gender</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                            <option value="Other">Other</option>
+
+                        </InputSelect>
+                    </div>
+
+                    <!-- DOB -->
+                    <div class="col-md-3 mb-3">
+                        <label class="form-label">
+                            Date of Birth
+                        </label>
+
+                        <InputDate class="form-control"
+                                   @bind-Value="patientDto.Dob" />
+                    </div>
+
+                </div>
+
+                <div class="d-flex gap-2">
+
+                    <button type="submit"
+                            class="btn btn-primary"
+                            disabled="@isLoading">
+
+                        @if (isLoading)
+                        {
+                            <span>Saving...</span>
+                        }
+                        else
+                        {
+                            <span>
+                                @(isEditMode ? "Update Patient" : "Add Patient")
+                            </span>
+                        }
+
+                    </button>
+
+                    @if (isEditMode)
+                    {
+                        <button type="button"
+                                class="btn btn-secondary"
+                                @onclick="CancelEdit">
+
+                            Cancel
+
+                        </button>
+                    }
+
+                </div>
+
+            </EditForm>
+
+        </div>
+    </div>
+
+
+    <!-- Patient Table -->
+    <div class="card">
+
+        <div class="card-header d-flex justify-content-between align-items-center">
+
+            <h5 class="mb-0">
+                Patient List
+            </h5>
+
+            <span class="badge bg-primary">
+                @patients.Count Patients
+            </span>
+
+        </div>
+
+        <div class="card-body p-0">
+
+            @if (isLoadingPatients)
+            {
+                <div class="p-4 text-center">
+                    Loading patients...
+                </div>
+            }
+            else if (patients.Count == 0)
+            {
+                <div class="p-4 text-center text-muted">
+                    No patients found.
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+
+                    <table class="table table-hover mb-0">
+
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Patient Name</th>
+                                <th>Phone</th>
+                                <th>Email</th>
+                                <th>Gender</th>
+                                <th>Date of Birth</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var patient in patients)
+                            {
+                                <tr>
+
+                                    <td>
+                                        @(patients.IndexOf(patient) + 1)
+                                    </td>
+
+                                    <td>
+                                        <strong>
+                                            @patient.PatientName
+                                        </strong>
+                                    </td>
+
+                                    <td>
+                                        @patient.Phone
+                                    </td>
+
+                                    <td>
+                                        @patient.Email
+                                    </td>
+
+                                    <td>
+                                        @patient.Gender
+                                    </td>
+
+                                    <td>
+                                        @(patient.Dob?.ToString("dd/MM/yyyy") ?? "-")
+                                    </td>
+
+                                    <td>
+
+                                        <button class="btn btn-sm btn-outline-primary me-2"
+                                                @onclick="() => EditPatient(patient)">
+                                            Edit
+                                        </button>
+
+                                        <button class="btn btn-sm btn-outline-danger"
+                                                @onclick="() => DeletePatient(patient)">
+                                            Delete
+                                        </button>
+
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>
+
+
+@code {
+
+    private List<PatientDto> patients = new();
+
+    private PatientDto patientDto = new();
+
+    private bool isLoading;
+    private bool isLoadingPatients;
+    private bool isEditMode;
+
+    private string? successMessage;
+    private string? errorMessage;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadPatients();
+    }
+
+
+    private async Task LoadPatients()
+    {
+        try
+        {
+            isLoadingPatients = true;
+            errorMessage = null;
+
+            patients = await PatientService.GetAllAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex);
+            errorMessage = "Unable to load patients.";
+        }
+        finally
+        {
+            isLoadingPatients = false;
+        }
+    }
+
+
+    private async Task SavePatient()
+    {
+        try
+        {
+            isLoading = true;
+            errorMessage = null;
+            successMessage = null;
+
+            if (isEditMode)
+            {
+                // We need the patient ID here.
+                // See note below.
+            }
+            else
+            {
+                await PatientService.CreateAsync(patientDto);
+
+                successMessage = "Patient added successfully.";
+            }
+
+            patientDto = new PatientDto();
+
+            await LoadPatients();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex);
+            errorMessage = "Unable to save patient.";
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+
+    private void EditPatient(PatientDto patient)
+    {
+        // This requires Id in PatientDto.
+    }
+
+
+    private async Task DeletePatient(PatientDto patient)
+    {
+        // This requires Id in PatientDto.
+    }
+
+
+    private void CancelEdit()
+    {
+        isEditMode = false;
+        patientDto = new PatientDto();
+
+        errorMessage = null;
+        successMessage = null;
+    }
+}
+

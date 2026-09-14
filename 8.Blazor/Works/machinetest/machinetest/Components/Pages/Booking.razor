@@ -1,0 +1,481 @@
+﻿@page "/booking"
+@rendermode InteractiveServer
+
+@using machinetest.DTOs
+@using machinetest.Interface
+
+@inject IAppointmentService AppointmentService
+@inject IPatientService PatientService
+@inject IDoctorService DoctorService
+
+<PageTitle>Bookings</PageTitle>
+
+<div class="container-fluid py-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+
+        <div>
+            <h1 class="mb-1">Bookings</h1>
+
+            <p class="text-muted mb-0">
+                Create and manage appointments
+            </p>
+        </div>
+
+        <button class="btn btn-primary"
+                @onclick="ShowBookingForm">
+            + New Booking
+        </button>
+
+    </div>
+
+
+    <!-- Error -->
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger">
+            @errorMessage
+        </div>
+    }
+
+
+    <!-- Booking Form -->
+    @if (showForm)
+    {
+        <div class="card shadow-sm mb-4">
+
+            <div class="card-header d-flex justify-content-between align-items-center">
+
+                <h5 class="mb-0">
+                    Create Booking
+                </h5>
+
+                <button type="button"
+                        class="btn-close"
+                        @onclick="CancelForm">
+                </button>
+
+            </div>
+
+
+            <div class="card-body">
+
+                <EditForm Model="@bookingDto"
+                          OnValidSubmit="CreateBooking">
+
+                    <DataAnnotationsValidator />
+
+                    <div class="row">
+
+                        <!-- Patient -->
+                        <div class="col-md-6 mb-3">
+
+                            <label class="form-label">
+                                Patient
+                            </label>
+
+                            <InputSelect class="form-select"
+                                         @bind-Value="bookingDto.PatientId">
+
+                                <option value="0">
+                                    Select patient
+                                </option>
+
+                                @foreach (var patient in patients)
+                                {
+                                    <option value="@patient.Id">
+                                        @patient.PatientName
+                                    </option>
+                                }
+
+                            </InputSelect>
+
+                        </div>
+
+
+                        <!-- Doctor -->
+                        <div class="col-md-6 mb-3">
+
+                            <label class="form-label">
+                                Doctor
+                            </label>
+
+                            <InputSelect class="form-select"
+                                         @bind-Value="bookingDto.DoctorId">
+
+                                <option value="0">
+                                    Select doctor
+                                </option>
+
+                                @foreach (var doctor in doctors)
+                                {
+                                    <option value="@doctor.Id">
+                                        @doctor.Name
+                                        -
+                                        @doctor.Specialization
+                                    </option>
+                                }
+
+                            </InputSelect>
+
+                        </div>
+
+
+                        <!-- Date -->
+                        <div class="col-md-6 mb-3">
+
+                            <label class="form-label">
+                                Appointment Date
+                            </label>
+
+                            <InputDate class="form-control"
+                                       @bind-Value="bookingDto.AppointmentDate" />
+
+                        </div>
+
+
+                        <!-- Time -->
+                        <div class="col-md-6 mb-3">
+
+                            <label class="form-label">
+                                Appointment Time
+                            </label>
+
+                            <InputText type="time"
+                                       class="form-control"
+                                       @bind-Value="appointmentTime" />
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="d-flex justify-content-end gap-2">
+
+                        <button type="button"
+                                class="btn btn-secondary"
+                                @onclick="CancelForm">
+                            Cancel
+                        </button>
+
+                        <button type="submit"
+                                class="btn btn-primary"
+                                disabled="@isSaving">
+
+                            @(isSaving
+                                ? "Creating..."
+                                : "Create Booking")
+
+                        </button>
+
+                    </div>
+
+                </EditForm>
+
+            </div>
+
+        </div>
+    }
+
+
+    <!-- Bookings -->
+    <div class="card shadow-sm">
+
+        <div class="card-header">
+
+            <h5 class="mb-0">
+                All Bookings
+            </h5>
+
+        </div>
+
+
+        <div class="card-body">
+
+            @if (isLoading)
+            {
+                <div class="text-center py-5">
+
+                    <div class="spinner-border text-primary">
+                    </div>
+
+                    <p class="text-muted mt-2">
+                        Loading bookings...
+                    </p>
+
+                </div>
+            }
+            else if (bookings.Count == 0)
+            {
+                <div class="text-center py-5">
+
+                    <h5>No bookings found</h5>
+
+                    <p class="text-muted">
+                        Create your first appointment.
+                    </p>
+
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+
+                    <table class="table table-hover align-middle">
+
+                        <thead>
+
+                            <tr>
+
+                                <th>#</th>
+
+                                <th>Patient</th>
+
+                                <th>Doctor</th>
+
+                                <th>Specialization</th>
+
+                                <th>Date</th>
+
+                                <th>Time</th>
+
+                                <th>Action</th>
+
+                            </tr>
+
+                        </thead>
+
+
+                        <tbody>
+
+                        @foreach (var booking in bookings)
+                        {
+                            <tr>
+
+                                <td>
+                                    #@booking.Id
+                                </td>
+
+                                <td>
+                                    <strong>
+                                        @booking.PatientName
+                                    </strong>
+                                </td>
+
+                                <td>
+                                    @booking.DoctorName
+                                </td>
+
+                                <td>
+                                    @{
+                                        var doctor = doctors
+                                            .FirstOrDefault(x =>
+                                                x.Id == booking.DoctorId);
+                                    }
+
+                                    @(doctor?.Specialization ?? "-")
+                                </td>
+
+                                <td>
+                                    @(booking.AppointmentDate?.ToString("dd MMM yyyy")
+                                      ?? "-")
+                                </td>
+
+                                <td>
+                                    @(booking.AppoinmentTime?.ToString("hh:mm tt")
+                                      ?? "-")
+                                </td>
+
+                                <td>
+
+                                    <button class="btn btn-sm btn-outline-danger"
+                                            @onclick="() => DeleteBooking(booking.Id)">
+                                        Delete
+                                    </button>
+
+                                </td>
+
+                            </tr>
+                        }
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>
+
+
+@code {
+
+    private List<AppointmentDto> bookings = new();
+
+    private List<PatientDto> patients = new();
+
+    private List<DoctorDto> doctors = new();
+
+    private AppointmentDto bookingDto = new();
+
+    private string appointmentTime = "";
+
+    private bool showForm;
+
+    private bool isLoading;
+
+    private bool isSaving;
+
+    private string? errorMessage;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+
+    private async Task LoadData()
+    {
+        isLoading = true;
+
+        errorMessage = null;
+
+        try
+        {
+            patients =
+                await PatientService.GetAllAsync();
+
+            doctors =
+                await DoctorService.GetAllAsync();
+
+            bookings =
+                await AppointmentService.GetAllAsync();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+
+    private void ShowBookingForm()
+    {
+        bookingDto = new AppointmentDto();
+
+        appointmentTime = "";
+
+        errorMessage = null;
+
+        showForm = true;
+    }
+
+
+    private async Task CreateBooking()
+    {
+        errorMessage = null;
+
+        if (bookingDto.PatientId == 0)
+        {
+            errorMessage = "Please select a patient.";
+            return;
+        }
+
+        if (bookingDto.DoctorId == 0)
+        {
+            errorMessage = "Please select a doctor.";
+            return;
+        }
+
+        if (!bookingDto.AppointmentDate.HasValue)
+        {
+            errorMessage = "Please select an appointment date.";
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(appointmentTime))
+        {
+            errorMessage = "Please select an appointment time.";
+            return;
+        }
+
+        if (!TimeOnly.TryParse(
+                appointmentTime,
+                out var time))
+        {
+            errorMessage = "Invalid appointment time.";
+            return;
+        }
+
+        isSaving = true;
+
+        try
+        {
+            bookingDto.AppoinmentTime = time;
+
+            await AppointmentService.CreateAsync(
+                bookingDto);
+
+            bookingDto = new AppointmentDto();
+
+            appointmentTime = "";
+
+            showForm = false;
+
+            await LoadData();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isSaving = false;
+        }
+    }
+
+
+    private async Task DeleteBooking(int id)
+    {
+        errorMessage = null;
+
+        try
+        {
+            var deleted =
+                await AppointmentService.DeleteAsync(id);
+
+            if (!deleted)
+            {
+                errorMessage = "Booking not found.";
+                return;
+            }
+
+            await LoadData();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+
+    private void CancelForm()
+    {
+        bookingDto = new AppointmentDto();
+
+        appointmentTime = "";
+
+        showForm = false;
+
+        errorMessage = null;
+    }
+}

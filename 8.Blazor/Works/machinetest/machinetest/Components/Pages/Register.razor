@@ -1,0 +1,141 @@
+
+@page "/Register"
+@using machinetest.Components.Layout
+@using machinetest.DTOs
+@using machinetest.Interface
+@inject IUserService UserService
+@layout AuthLayout
+
+<PageTitle>Register</PageTitle>
+
+<div class="register-page">
+
+    <div class="register-card">
+
+        <div class="register-header">
+            <h2>Create Account</h2>
+            <p>Register to get started</p>
+        </div>
+
+        <EditForm Model="@registerDto"
+                  FormName="registerForm"
+                  OnValidSubmit="@HandleRegister">
+
+            <DataAnnotationsValidator />
+
+            <ValidationSummary />
+
+            @if (!string.IsNullOrEmpty(errorMessage))
+            {
+                <div class="alert alert-danger">
+                    @errorMessage
+                </div>
+            }
+
+            @if (!string.IsNullOrEmpty(successMessage))
+            {
+                <div class="alert alert-success">
+                    @successMessage
+                </div>
+            }
+
+            <div class="form-group">
+                <label for="name">Name</label>
+
+                <InputText id="name"
+                           class="form-control"
+                           @bind-Value="registerDto.Name"
+                           placeholder="Enter your name" />
+
+                <ValidationMessage For="@(() => registerDto.Name)" />
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+
+                <InputText id="email"
+                           type="email"
+                           class="form-control"
+                           @bind-Value="registerDto.Email"
+                           placeholder="Enter your email" />
+
+                <ValidationMessage For="@(() => registerDto.Email)" />
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+
+                <InputText id="password"
+                           type="password"
+                           class="form-control"
+                           @bind-Value="registerDto.Password"
+                           placeholder="Enter your password" />
+
+                <ValidationMessage For="@(() => registerDto.Password)" />
+            </div>
+
+           
+
+            <button type="submit"
+                    class="btn btn-primary register-button"
+                    disabled="@isLoading">
+
+                @if (isLoading)
+                {
+                    <span>Creating account...</span>
+                }
+                else
+                {
+                    <span>Register</span>
+                }
+
+            </button>
+
+        </EditForm>
+
+        <div class="login-link">
+            <span>Already have an account?</span>
+            <a href="/Login">Login</a>
+        </div>
+
+    </div>
+
+</div>
+
+@code {
+
+   
+
+    private string? errorMessage;
+    private string? successMessage;
+    private bool isLoading;
+
+    private UserCreateDto registerDto = new();
+
+    private async Task HandleRegister()
+    {
+        errorMessage = null;
+        successMessage = null;
+        isLoading = true;
+
+        try
+        {
+            var response = await UserService.CreateAsync(registerDto);
+
+            successMessage = "Account created successfully.";
+
+            registerDto = new UserCreateDto();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex);
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }     
+     
+
+}
