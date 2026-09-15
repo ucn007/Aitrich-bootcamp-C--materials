@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\partial view\\librarymanagement\\librarymanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\partial view\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\partial view\\librarymanagement\\librarymanagement\\views\\books\\_bookformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\_bookformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T09:31:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T09:05:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_BookFormPartial.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Books\\_BookFormPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\_BookFormPartial.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\partial view\\LibraryManagement\\LibraryManagement\\Views\\Books\\_BookFormPartial.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\_BookFormPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T09:03:08.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

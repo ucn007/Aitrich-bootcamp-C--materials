@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\activity\\librarymanagement\\librarymanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T08:54:29.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T08:41:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T08:41:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T08:34:53.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T07:54:01.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:53:55.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:53:50.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\9.mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20260610072209_huff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20260610072209_huff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:21:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Program.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Program.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Program.cs",
+              "RelativeToolTip": "HireMeNow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:20:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:20:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HireMeNow\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HireMeNow\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-14T09:16:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Controllers\\JobProviderController.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\JobProviderController.cs",
+              "RelativeToolTip": "HireMeNow\\Controllers\\JobProviderController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:17:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "HireMeNow\\Controllers\\PublicController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:16:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:38:32.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobProviderRegistration.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:51:59.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:52:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:57:49.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublicService.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\PublicService.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\PublicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:22:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\User.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\User.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:54:31.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:52:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Experience.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Experience.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Experience.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:53:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllJobs.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:00:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Repository\\JobRepository.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:38:23.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260610072209_huff.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20260610072209_huff.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20260610072209_huff.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20260610072209_huff.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20260610072209_huff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:22:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeDocumentMoniker": "HireMeNow\\appsettings.json",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeToolTip": "HireMeNow\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T07:19:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Application.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Application.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Application.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:19:04.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Company.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Company.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Company.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:58:18.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Skill.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Skill.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Skill.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:54:24.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Qualification.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Qualification.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:54:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Job.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Job.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Job.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:54:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Interview.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Interview.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Interview.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:54:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Enums\\Roles.cs",
+              "RelativeToolTip": "HireMeNow\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:27:27.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\UserDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:16:06.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\JobDto.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\JobDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:15:54.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompanyMemberDto.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:15:47.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

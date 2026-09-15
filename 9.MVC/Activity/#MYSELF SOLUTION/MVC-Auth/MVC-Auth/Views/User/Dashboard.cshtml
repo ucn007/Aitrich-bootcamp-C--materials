@@ -1,0 +1,171 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Dashboard";
+    var userEmail = Context.Session.GetString("UserEmail") ?? "User";
+}
+
+<div class="dashboard-container">
+    <!-- Top Welcome Banner -->
+    <div class="dashboard-card header-card">
+        <div class="user-info">
+            <div class="avatar">
+                @userEmail.Substring(0, 1).ToUpper()
+            </div>
+            <div>
+                <h2>Welcome Back!</h2>
+                <p class="user-email">Logged in as <strong>@userEmail</strong></p>
+            </div>
+        </div>
+        <a href="@Url.Action("Logout", "User")" class="btn-logout">
+            Logout
+        </a>
+    </div>
+
+    <!-- Main Grid Content -->
+    <div class="dashboard-grid">
+        <div class="dashboard-card stat-card">
+            <div class="card-icon">👤</div>
+            <h3>Account Status</h3>
+            <p class="status-active">Active</p>
+        </div>
+
+        <div class="dashboard-card stat-card">
+            <div class="card-icon">🔒</div>
+            <h3>Security</h3>
+            <p>Session Authenticated</p>
+        </div>
+
+        <div class="dashboard-card stat-card">
+            <div class="card-icon">⚡</div>
+            <h3>Quick Actions</h3>
+            <div class="action-links">
+                <a href="#">Edit Profile</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .dashboard-container {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 0 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .dashboard-card {
+        background: #ffffff;
+        border-radius: 12px;
+        border: 1px solid #eef2f6;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+        padding: 24px;
+    }
+
+    /* Header Banner Styling */
+    .header-card {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 24px;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .user-info {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+
+    .avatar {
+        width: 52px;
+        height: 52px;
+        background-color: #4f46e5;
+        color: #ffffff;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+    .user-info h2 {
+        margin: 0 0 4px 0;
+        font-size: 22px;
+        color: #1e293b;
+    }
+
+    .user-email {
+        margin: 0;
+        font-size: 14px;
+        color: #64748b;
+    }
+
+    /* Logout Button Styling */
+    .btn-logout {
+        padding: 10px 20px;
+        background-color: #ef4444;
+        color: #ffffff;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 600;
+        transition: background-color 0.2s ease;
+    }
+
+        .btn-logout:hover {
+            background-color: #dc2626;
+            color: #ffffff;
+        }
+
+    /* Grid Layout for Cards */
+    .dashboard-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+    }
+
+    .stat-card {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .card-icon {
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+
+    .stat-card h3 {
+        margin: 0 0 6px 0;
+        font-size: 16px;
+        color: #1e293b;
+    }
+
+    .stat-card p {
+        margin: 0;
+        font-size: 14px;
+        color: #64748b;
+    }
+
+    .status-active {
+        color: #10b981 !important;
+        font-weight: 600;
+    }
+
+    .action-links a {
+        color: #4f46e5;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+        .action-links a:hover {
+            text-decoration: underline;
+        }
+</style>
