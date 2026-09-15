@@ -1,0 +1,40 @@
+.doctor-card {
+    border: 0;
+    border-radius: 14px;
+    transition: all 0.2s ease;
+}
+
+.doctor-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+}
+
+.doctor-avatar {
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #0d6efd;
+    color: white;
+
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.doctor-card h5 {
+    font-weight: 600;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.card {
+    border-color: #e9ecef;
+}
