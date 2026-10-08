@@ -1,0 +1,749 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\webapiworkshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186444F7-EB88-B198-D1C3-4DFDC642DCEF}|WebApiWorkshop\\WebApiWorkshop.csproj|solutionrelative:webapiworkshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\services\\destinations\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\migrations\\20260630080343_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260630080343_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\migrations\\20260630075120_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260630075120_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\webapiworkshop\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T06:58:51.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DestinationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAGUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:17:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\appsettings.json",
+              "RelativeToolTip": "WebApiWorkshop\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-30T07:32:51.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\Destination.cs",
+              "RelativeToolTip": "Domain\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T06:59:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Domain\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:47:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:59:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T07:12:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:12:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\UserController.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\UserController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:20:36.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\Program.cs",
+              "RelativeToolTip": "WebApiWorkshop\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T07:33:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Domain\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Domain\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T07:27:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:37:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "WebApiWorkshop\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T05:55:12.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerifyCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:16:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:15:45.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:15:24.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatchUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:14:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:11:54.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:10:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\DestinationController.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\Destinations\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\DestinationController.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\Destinations\\DestinationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:53:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatchDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:51:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:51:30.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "RelativeDocumentMoniker": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\WebApiWorkshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "RelativeToolTip": "WebApiWorkshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:50:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:43:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\UserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:43:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:41:43.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T06:58:20.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:41:19.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:37:45.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:38:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VerifyCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:38:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PatchUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:37:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:36:43.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:36:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:17:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Domain\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T07:20:57.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:16:33.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:15:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:14:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:13:47.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T09:12:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260630080343_second.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Migrations\\20260630080343_second.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260630080343_second.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Migrations\\20260630080343_second.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260630080343_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T08:03:43.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260630075120_first.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Migrations\\20260630075120_first.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260630075120_first.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Migrations\\20260630075120_first.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260630075120_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T07:51:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\WebApiWorkshop\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T06:24:54.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

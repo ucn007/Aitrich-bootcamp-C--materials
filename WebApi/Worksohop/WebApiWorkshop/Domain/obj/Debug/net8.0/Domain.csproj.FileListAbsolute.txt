@@ -1,0 +1,44 @@
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Archa Hari\Desktop\Projects\WebApiWorkshop\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\ARCHA\WebApiWorkshop\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\WebApiWorkshop\Domain\obj\Debug\net8.0\ref\Domain.dll

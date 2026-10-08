@@ -1,0 +1,29 @@
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.exe
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.deps.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.runtimeconfig.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\refint\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\EntityFramework\UnitTestSample\UnitTestSample\obj\Debug\net9.0\ref\UnitTestSample.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.exe
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.deps.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.runtimeconfig.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.pdb
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfo.cs
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.sourcelink.json
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\refint\UnitTestSample.dll
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.pdb
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.genruntimeconfig.cache
+C:\Aitrich project\DRP-1\Asp.net-core-DRP-Batch-2\ASP.NETCore\Chapter10-API\TTD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\ref\UnitTestSample.dll

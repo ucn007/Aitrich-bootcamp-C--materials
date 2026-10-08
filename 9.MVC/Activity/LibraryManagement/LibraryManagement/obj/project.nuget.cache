@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TpmIt9bKVaU=",
   "success": true,
   "projectFilePath": "/Users/ucnmac/aitrich/study/Aitrich-bootcamp-C--materials/9.MVC/Activity/LibraryManagement/LibraryManagement/LibraryManagement.csproj",
+=======
+  "dgSpecHash": "JpqZqebpxdM=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrich Bootcamp\\Aitrich-bootcamp-C--materials\\9.MVC\\Activity\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+>>>>>>> 45b52af57337746a54b3b969c80f5150de643c63
   "expectedPackageFiles": [
     "/Users/ucnmac/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/ucnmac/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
