@@ -1,0 +1,174 @@
+@model mvc_e_com.Model.Product
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container mt-5 mb-5">
+
+    <div class="row">
+
+        <!-- Product Image -->
+        <div class="col-md-6">
+
+            <div class="card shadow-sm">
+
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="@Model.ImageUrl"
+                         class="card-img-top img-fluid"
+                         alt="@Model.Name"
+                         style="height: 500px; object-fit: contain;" />
+                }
+                else
+                {
+                    <div class="d-flex align-items-center justify-content-center bg-light"
+                         style="height: 500px;">
+                        <span class="text-muted">
+                            No Image Available
+                        </span>
+                    </div>
+                }
+
+            </div>
+
+        </div>
+
+
+        <!-- Product Information -->
+        <div class="col-md-6">
+
+            <div class="card shadow-sm h-100">
+
+                <div class="card-body p-4">
+
+                    <!-- Product Name -->
+                    <h1 class="display-5 fw-bold">
+                        @Model.Name
+                    </h1>
+
+
+                    <!-- Category -->
+                    <div class="mb-3">
+                        <span class="badge bg-secondary">
+                            @(Model.Category?.Name ?? "No Category")
+                        </span>
+                    </div>
+
+
+                    <!-- SKU -->
+                    <p class="text-muted">
+                        SKU:
+                        <strong>@Model.Sku</strong>
+                    </p>
+
+
+                    <hr />
+
+
+                    <!-- Price -->
+                    <div class="mb-3">
+
+                        @if (Model.DiscountPrice.HasValue)
+                        {
+                            <span class="text-muted text-decoration-line-through fs-5">
+                                @Model.Price.ToString("C")
+                            </span>
+
+                            <span class="text-success fw-bold fs-2 ms-2">
+                                @Model.DiscountPrice.Value.ToString("C")
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="text-success fw-bold fs-2">
+                                @Model.Price.ToString("C")
+                            </span>
+                        }
+
+                    </div>
+
+
+                    <!-- Stock -->
+                    <div class="mb-3">
+
+                        @if (Model.StockQuantity > 0)
+                        {
+                            <span class="badge bg-success">
+                                In Stock
+                            </span>
+
+                            <span class="ms-2">
+                                @Model.StockQuantity available
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">
+                                Out of Stock
+                            </span>
+                        }
+
+                    </div>
+
+
+                    <!-- Description -->
+                    <div class="mt-4">
+
+                        <h4>Description</h4>
+
+                        @if (!string.IsNullOrWhiteSpace(Model.Description))
+                        {
+                            <p class="text-muted">
+                                @Model.Description
+                            </p>
+                        }
+                        else
+                        {
+                            <p class="text-muted">
+                                No description available.
+                            </p>
+                        }
+
+                    </div>
+
+
+                    <hr />
+
+
+                    <!-- Buttons -->
+                    <div class="d-flex gap-2 mt-4">
+
+                        @if (Model.StockQuantity > 0)
+                        {
+                            <button type="button"
+                                    class="btn btn-primary btn-lg">
+                                Add to Cart
+                            </button>
+                        }
+                        else
+                        {
+                            <button type="button"
+                                    class="btn btn-secondary btn-lg"
+                                    disabled>
+                                Out of Stock
+                            </button>
+                        }
+
+                        <a asp-controller="Product"
+                           asp-action="Index"
+                           class="btn btn-outline-secondary btn-lg">
+                            Back to Products
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

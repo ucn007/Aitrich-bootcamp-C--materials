@@ -1,0 +1,66 @@
+ 
+<div class="sidebar">
+
+    <!-- Logo -->
+    <div class="sidebar-logo">
+        <div class="logo-icon">
+            <i class="bi bi-grid-1x2-fill"></i>
+        </div>
+
+        <div>
+            <h5>EMS</h5>
+            <span>Management System</span>
+        </div>
+    </div>
+
+    <!-- Menu -->
+    <div class="sidebar-section">
+        <span class="menu-title">MENU</span>
+
+        <ul class="sidebar-menu">
+
+            <li>
+                <a asp-controller="Employee"
+                   asp-action="Index"
+                   class="sidebar-link">
+                    <span class="menu-icon">
+                        <i class="bi bi-people-fill"></i>
+                    </span>
+
+                    <span>Employees</span>
+                </a>
+            </li>
+
+            <li>
+                <a asp-controller="Department"
+                   asp-action="Index"
+                   class="sidebar-link">
+                    <span class="menu-icon">
+                        <i class="bi bi-building-fill"></i>
+                    </span>
+
+                    <span>Departments</span>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+
+    <!-- User Profile -->
+    <div class="sidebar-profile">
+
+        <div class="profile-avatar">
+            U
+        </div>
+
+        <div class="profile-info">
+            <strong>Admin</strong>
+            <span>Administrator</span>
+        </div>
+
+        <i class="bi bi-three-dots-vertical profile-menu"></i>
+
+    </div>
+
+</div>
+ 

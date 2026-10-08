@@ -1,0 +1,141 @@
+@model mvc_machinetest.DTOs.Employe.CreateEmployeDto
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<div class="container-fluid">
+
+    <!-- Page Header -->
+    <div class="mb-4">
+        <h2 class="fw-bold mb-1">Create Employee</h2>
+        <p class="text-muted mb-0">
+            Add a new employee to the system.
+        </p>
+    </div>
+
+    <!-- Form Card -->
+    <div class="card border-0 shadow-sm">
+
+        <div class="card-body p-4">
+
+            <form asp-controller="Employee"
+                  asp-action="Create"
+                  method="post">
+
+                @Html.AntiForgeryToken()
+
+                <!-- Validation Summary -->
+                <div asp-validation-summary="All"
+                     class="text-danger mb-3">
+                </div>
+
+                <div class="row g-4">
+
+                    <!-- Name -->
+                    <div class="col-md-6">
+
+                        <label asp-for="Name"
+                               class="form-label fw-semibold">
+                            Name
+                        </label>
+
+                        <input asp-for="Name"
+                               class="form-control"
+                               placeholder="Enter employee name" />
+
+                        <span asp-validation-for="Name"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- Email -->
+                    <div class="col-md-6">
+
+                        <label asp-for="Email"
+                               class="form-label fw-semibold">
+                            Email
+                        </label>
+
+                        <input asp-for="Email"
+                               type="email"
+                               class="form-control"
+                               placeholder="Enter email address" />
+
+                        <span asp-validation-for="Email"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- Phone -->
+                    <div class="col-md-6">
+
+                        <label asp-for="Phone"
+                               class="form-label fw-semibold">
+                            Phone
+                        </label>
+
+                        <input asp-for="Phone"
+                               type="tel"
+                               class="form-control"
+                               placeholder="Enter phone number" />
+
+                        <span asp-validation-for="Phone"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                    <!-- Department -->
+                    <div class="col-md-6">
+
+                        <label asp-for="DepartmentId"
+                               class="form-label fw-semibold">
+                            Department
+                        </label>
+
+                        <select asp-for="DepartmentId"
+                                asp-items="ViewBag.Departments"
+                                class="form-select">
+                            <option value="">Select a department</option>
+                        </select>
+
+                        <span asp-validation-for="DepartmentId"
+                              class="text-danger">
+                        </span>
+
+                    </div>
+
+                </div>
+
+                <!-- Buttons -->
+                <div class="d-flex justify-content-end gap-2 mt-4">
+
+                    <a asp-controller="Employee"
+                       asp-action="Index"
+                       class="btn btn-outline-secondary">
+                        Cancel
+                    </a>
+
+                    <button type="submit"
+                            class="btn btn-primary px-4">
+                        Create Employee
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,622 @@
+
+
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Company Dashboard</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f7fb;
+            color: #1f2937;
+        }
+
+        .dashboard {
+            min-height: 100vh;
+        }
+
+        /* =========================
+           HEADER
+        ========================= */
+
+        .header {
+            height: 72px;
+            background: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            padding: 0 50px;
+        }
+
+        .brand {
+            font-size: 22px;
+            font-weight: 700;
+            color: #111827;
+        }
+
+        .brand span {
+            color: #2563eb;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .company-name {
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .logout-btn {
+            border: none;
+            background: transparent;
+            color: #6b7280;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .logout-btn:hover {
+            color: #111827;
+        }
+
+        /* =========================
+           MAIN
+        ========================= */
+
+        .main {
+            max-width: 1200px;
+            margin: auto;
+            padding: 50px 30px;
+        }
+
+        .welcome {
+            margin-bottom: 35px;
+        }
+
+        .welcome h1 {
+            font-size: 32px;
+            margin-bottom: 8px;
+            color: #111827;
+        }
+
+        .welcome p {
+            color: #6b7280;
+            font-size: 15px;
+        }
+
+        /* =========================
+           ACTION CARDS
+        ========================= */
+
+        .actions {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+            margin-bottom: 45px;
+        }
+
+        .action-card {
+            background: #ffffff;
+            border: 1px solid #e5e7eb;
+            border-radius: 16px;
+            padding: 30px;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            transition: 0.2s ease;
+        }
+
+        .action-card:hover {
+            border-color: #cbd5e1;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+        }
+
+        .action-content {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .icon {
+            width: 55px;
+            height: 55px;
+            border-radius: 12px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            background: #eff6ff;
+            color: #2563eb;
+            font-size: 25px;
+        }
+
+        .action-content h2 {
+            font-size: 19px;
+            margin-bottom: 6px;
+            color: #111827;
+        }
+
+        .action-content p {
+            font-size: 14px;
+            color: #6b7280;
+            max-width: 320px;
+            line-height: 1.5;
+        }
+
+        .action-btn {
+            text-decoration: none;
+            background: #2563eb;
+            color: #ffffff;
+
+            padding: 11px 18px;
+            border-radius: 8px;
+
+            font-size: 14px;
+            font-weight: 600;
+
+            white-space: nowrap;
+        }
+
+        .action-btn:hover {
+            background: #1d4ed8;
+        }
+
+        /* =========================
+           SECTION
+        ========================= */
+
+        .section {
+            margin-bottom: 35px;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            margin-bottom: 16px;
+        }
+
+        .section-header h2 {
+            font-size: 20px;
+            color: #111827;
+        }
+
+        .section-header a {
+            text-decoration: none;
+            color: #2563eb;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        /* =========================
+           EMPTY STATE
+        ========================= */
+
+        .empty-state {
+            background: #ffffff;
+            border: 1px dashed #d1d5db;
+            border-radius: 16px;
+
+            min-height: 220px;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            text-align: center;
+            padding: 30px;
+        }
+
+        .empty-icon {
+            width: 52px;
+            height: 52px;
+
+            border-radius: 50%;
+            background: #f3f4f6;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+
+        .empty-state h3 {
+            font-size: 17px;
+            margin-bottom: 7px;
+            color: #111827;
+        }
+
+        .empty-state p {
+            font-size: 14px;
+            color: #6b7280;
+            max-width: 420px;
+            line-height: 1.5;
+            margin-bottom: 18px;
+        }
+
+        .empty-btn {
+            text-decoration: none;
+            border: 1px solid #2563eb;
+            color: #2563eb;
+
+            padding: 9px 16px;
+            border-radius: 8px;
+
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .empty-btn:hover {
+            background: #eff6ff;
+        }
+
+        /* =========================
+           RESPONSIVE
+        ========================= */
+
+        @@media (max-width: 800px) {
+
+            .header {
+                padding: 0 20px;
+            }
+
+            .main {
+                padding: 35px 20px;
+            }
+
+            .actions {
+                grid-template-columns: 1fr;
+            }
+
+            .action-card {
+                align-items: flex-start;
+                gap: 20px;
+                flex-direction: column;
+            }
+
+            .action-btn {
+                width: 100%;
+                text-align: center;
+            }
+
+            .company-name {
+                display: none;
+            }
+        }
+
+        @@media (max-width: 500px) {
+
+            .welcome h1 {
+                font-size: 26px;
+            }
+
+            .action-content {
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="dashboard">
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header class="header">
+
+        <div class="brand">
+            Job<span>Application</span>
+        </div>
+
+        <div class="header-right">
+
+            <span class="company-name">
+                Company Dashboard
+            </span>
+
+            <form asp-controller="Company"
+                  asp-action="Logout"
+                  method="post">
+
+                <button type="submit"
+                        class="logout-btn">
+                    Logout
+                </button>
+
+            </form>
+
+        </div>
+
+    </header>
+
+
+    <!-- =========================
+         MAIN
+    ========================== -->
+
+    <main class="main">
+
+        <div class="welcome">
+
+            <h1>Company Dashboard</h1>
+
+            <p>
+                Manage your job postings and review applications
+                from one place.
+            </p>
+
+        </div>
+
+
+        <!-- =========================
+             MAIN ACTIONS
+        ========================== -->
+
+        <section class="actions">
+
+            <!-- POST JOB -->
+
+            <div class="action-card">
+
+                <div class="action-content">
+
+                    <div class="icon">
+                        +
+                    </div>
+
+                    <div>
+
+                        <h2>Post a Job</h2>
+
+                        <p>
+                            Create a new job posting and start
+                            receiving applications from candidates.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <a asp-controller="Job"
+                   asp-action="Create"
+                   class="action-btn">
+                    Post Job
+                </a>
+
+            </div>
+
+
+            <!-- VIEW APPLICATIONS -->
+
+            <div class="action-card">
+
+                <div class="action-content">
+
+                    <div class="icon">
+                        ✓
+                    </div>
+
+                    <div>
+
+                        <h2>View Applications</h2>
+
+                        <p>
+                            Review candidates who have applied
+                            to your job postings.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <a asp-controller="Application"
+                   asp-action="Index"
+                   class="action-btn">
+                    View Applications
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             JOB POSTINGS
+        ========================== -->
+
+   
+<section class="section">
+
+    <div class="section-header">
+
+        <h2>Your Job Postings</h2>
+
+        <a asp-controller="Job"
+           asp-action="MyJobs">
+            View all
+        </a>
+
+    </div>
+
+
+    @if (Model.Jobs != null && Model.Jobs.Any())
+    {
+        <div class="job-grid">
+
+            @foreach (var job in Model.Jobs)
+            {
+                <div class="job-card">
+
+                    <div class="job-card-header">
+
+                        <h3>@job.JobTitle</h3>
+
+                        <span class="job-type">
+                            @job.JobType
+                        </span>
+
+                    </div>
+
+
+                    <p class="job-description">
+                        @job.Description
+                    </p>
+
+
+                    <div class="job-details">
+
+                        <span>
+                            📍 @job.Location
+                        </span>
+
+                        <span>
+                            💼 @job.Experience years experience
+                        </span>
+
+                    </div>
+
+
+                    <div class="job-date">
+                        Posted
+                        @job.CreatedAt.ToLocalTime().ToString("dd MMM yyyy")
+                    </div>
+
+
+                    <div class="job-actions">
+
+                        <a asp-controller="Job"
+                           asp-action="Details"
+                           asp-route-id="@job.JobId"
+                           class="btn btn-view">
+                            View
+                        </a>
+
+                        <a asp-controller="Job"
+                           asp-action="Edit"
+                           asp-route-id="@job.JobId"
+                           class="btn btn-edit">
+                            Edit
+                        </a>
+
+                        <a asp-controller="Job"
+                           asp-action="Delete"
+                           asp-route-id="@job.JobId"
+                           class="btn btn-delete">
+                            Delete
+                        </a>
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    }
+    else
+    {
+        <!-- EMPTY STATE -->
+
+        <div class="empty-state">
+
+            <div class="empty-icon">
+                +
+            </div>
+
+            <h3>No job postings yet</h3>
+
+            <p>
+                You haven't posted any jobs yet.
+                Create your first job posting to start
+                receiving applications.
+            </p>
+
+            <a asp-controller="Job"
+               asp-action="Create"
+               class="empty-btn">
+                Create your first job
+            </a>
+
+        </div>
+    }
+
+</section>
+ 
+
+
+
+        <!-- =========================
+             APPLICATIONS
+        ========================== -->
+
+        <section class="section">
+
+            <div class="section-header">
+
+                <h2>Applications</h2>
+
+                <a asp-controller="Application"
+                   asp-action="Index">
+                    View all
+                </a>
+
+            </div>
+
+
+            <!-- EMPTY STATE -->
+
+            <div class="empty-state">
+
+                <div class="empty-icon">
+                    ✓
+                </div>
+
+                <h3>No applications yet</h3>
+
+                <p>
+                    Applications from candidates will appear
+                    here once someone applies to one of your
+                    job postings.
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</div>
+
+</body>
+</html>
