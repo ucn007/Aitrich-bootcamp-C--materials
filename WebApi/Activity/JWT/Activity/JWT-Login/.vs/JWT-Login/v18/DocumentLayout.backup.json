@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich project\\.net core material\\asp.netcore_material\\chapter 10\\jwt\\activity\\jwt-login\\jwt-login\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JWT-Login\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:37:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:39:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\UserDbContext.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:39:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT-Login\\appsettings.json",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\appsettings.json",
+              "RelativeToolTip": "JWT-Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T04:53:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeToolTip": "JWT-Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:40:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:39:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\User.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:40:15.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Aitrich project\\.net core material\\Asp.NetCore_Material\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeToolTip": "JWT-Login\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:47:54.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

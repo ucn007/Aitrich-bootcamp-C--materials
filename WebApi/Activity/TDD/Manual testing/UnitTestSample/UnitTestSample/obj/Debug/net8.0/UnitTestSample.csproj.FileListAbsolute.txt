@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Training\ASP.NET.Core\API\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
