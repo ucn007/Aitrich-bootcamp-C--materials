@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\controllers\\customcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\controllers\\customcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-40\\asp .net core\\web api\\activity\\sendmail\\sendmail\\sendmail.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2AE5D924-2C23-4D47-955B-A63E5E2B4E34}|SendMail\\SendMail.csproj|solutionrelative:sendmail\\sendmail.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "SendMail\\Service\\IEmailService.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Service\\IEmailService.cs",
+              "RelativeToolTip": "SendMail\\Service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:34.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "SendMail\\Helper\\EmailSettings.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "SendMail\\Helper\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:34.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "SendMail\\Service\\EmailService.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Service\\EmailService.cs",
+              "RelativeToolTip": "SendMail\\Service\\EmailService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:33.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\appsettings.json",
+              "RelativeDocumentMoniker": "SendMail\\appsettings.json",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\appsettings.json",
+              "RelativeToolTip": "SendMail\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-07T09:44:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Program.cs",
+              "RelativeDocumentMoniker": "SendMail\\Program.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Program.cs",
+              "RelativeToolTip": "SendMail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomController.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Controllers\\CustomController.cs",
+              "RelativeDocumentMoniker": "SendMail\\Controllers\\CustomController.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Controllers\\CustomController.cs*",
+              "RelativeToolTip": "SendMail\\Controllers\\CustomController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Helper\\MailRequest.cs",
+              "RelativeDocumentMoniker": "SendMail\\Helper\\MailRequest.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\Helper\\MailRequest.cs",
+              "RelativeToolTip": "SendMail\\Helper\\MailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T09:44:34.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SendMail.http",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\SendMail.http",
+              "RelativeDocumentMoniker": "SendMail\\SendMail.http",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.net-core-Batch-40\\Asp .Net Core\\WEB API\\Activity\\SendMail\\SendMail\\SendMail.http",
+              "RelativeToolTip": "SendMail\\SendMail.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-07T09:46:11.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

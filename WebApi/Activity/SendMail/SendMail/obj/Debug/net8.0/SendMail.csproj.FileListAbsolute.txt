@@ -1,0 +1,182 @@
+D:\SendMail\SendMail\bin\Debug\net8.0\appsettings.Development.json
+D:\SendMail\SendMail\bin\Debug\net8.0\appsettings.json
+D:\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+D:\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+D:\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+D:\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+D:\SendMail\SendMail\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\MailKit.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\MimeKit.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.AssemblyReference.cache
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cs
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cache
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.development.json
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.SendMail.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.build.SendMail.props
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SendMail.props
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SendMail.props
+D:\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SendMail\SendMail\obj\Debug\net8.0\scopedcss\bundle\SendMail.styles.css
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.Up2Date
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+D:\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+D:\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+D:\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\appsettings.Development.json
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\appsettings.json
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\MailKit.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\MimeKit.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebApi\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.AssemblyReference.cache
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.development.json
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.SendMail.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.build.SendMail.props
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SendMail.props
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SendMail.props
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\scopedcss\bundle\SendMail.styles.css
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.Up2Date
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+D:\WebApi\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\MailKit.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\MimeKit.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.SendMail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.build.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\scopedcss\bundle\SendMail.styles.css
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.Up2Date
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\MailKit.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\MimeKit.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.SendMail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.build.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SendMail.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\scopedcss\bundle\SendMail.styles.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.Up2Date
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\Activity\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.Development.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\appsettings.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.staticwebassets.endpoints.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\MailKit.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\MimeKit.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.AssemblyReference.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cs
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.MvcApplicationPartsAssemblyInfo.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.sourcelink.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\scopedcss\bundle\SendMail.styles.css
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.development.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\swae.build.ex.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.Up2Date
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+D:\Aitrich Bootcamp\Asp.net-core-Batch-40\Asp .Net Core\WEB API\Activity\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll
