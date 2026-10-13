@@ -1,0 +1,61 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Home Page";
+    var username = Context.Session.GetString("Username");
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+
+        @if (!string.IsNullOrEmpty(username))
+        {
+            <h1 class="display-4">
+                Welcome, @username!
+            </h1>
+
+            <p class="lead">
+                You are successfully logged in.
+            </p>
+        }
+        else
+        {
+            <h1 class="display-4">
+                Welcome
+            </h1>
+
+            <p>
+                Please <a asp-controller="Account" asp-action="Login">login</a>
+                to continue.
+            </p>
+        }
+        
+        
+        @if (!string.IsNullOrEmpty(username))
+        {
+            <h1>Welcome, @username!</h1>
+
+            <form asp-controller="Account"
+                  asp-action="Logout"
+                  method="post">
+                @Html.AntiForgeryToken()
+
+                <button type="submit" class="btn btn-danger">
+                    Logout
+                </button>
+            </form>
+        }
+        
+   
+        }
+
+    </div>
+</div>
+
+@if (TempData["DebugMessage"] != null)
+{
+    <script>
+        alert('@TempData["DebugMessage"]');
+    </script>
+
+}

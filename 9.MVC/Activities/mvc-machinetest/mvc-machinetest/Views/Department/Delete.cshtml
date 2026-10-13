@@ -1,0 +1,35 @@
+ 
+@model mvc_machinetest.Models.Department
+
+@{
+    ViewData["Title"] = "Delete Department";
+}
+
+<div class="mb-4">
+    <h2 class="fw-bold mb-1">Delete Department</h2>
+    <p class="text-muted mb-0">Review the department before deleting it.</p>
+</div>
+
+<div class="card border-0 shadow-sm">
+    <div class="card-body p-4">
+        <div asp-validation-summary="All" class="alert alert-danger"></div>
+        <dl class="row mb-4">
+            <dt class="col-sm-3">Department</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+            <dt class="col-sm-3">Assigned employees</dt>
+            <dd class="col-sm-9">@Model.Employees.Count</dd>
+        </dl>
+        @if (Model.Employees.Count > 0)
+        {
+            <p class="text-danger">Move these employees to another department before deleting this department.</p>
+        }
+        <form asp-action="Delete" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="id" value="@Model.Id" />
+            <div class="d-flex justify-content-end gap-2">
+                <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+                <button type="submit" class="btn btn-danger" disabled="@(Model.Employees.Count > 0)">Delete Department</button>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<title>@ViewData["Title"] - mvc_machinetest</title>
+
+<link rel="stylesheet"
+      href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<link rel="stylesheet"
+      href="~/css/site.css"
+      asp-append-version="true" />
+
+<link rel="stylesheet"
+      href="~/mvc_machinetest.styles.css" />
+
+
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow">
+
+
+    <div class="container-fluid">
+
+        <!-- Brand -->
+        <a class="navbar-brand"
+           asp-controller="Home"
+           asp-action="Index">
+            mvc_machinetest
+        </a>
+
+        <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target=".navbar-collapse"
+                aria-controls="navbarSupportedContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+
+        <div class="navbar-collapse collapse">
+
+            <!-- Left menu -->
+            <ul class="navbar-nav me-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link text-dark"
+                       asp-controller="Home"
+                       asp-action="Index">
+                        Home
+                    </a>
+                </li>
+
+            </ul>
+
+
+            <!-- Logged User -->
+            @if (User.Identity != null && User.Identity.IsAuthenticated)
+            {
+                <div class="d-flex align-items-center">
+
+                    <div class="text-end me-3">
+
+                        <div class="fw-semibold">
+                            @User.Identity.Name
+                        </div>
+
+                        <small class="text-muted">
+                            @User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value
+                        </small>
+
+                    </div>
+
+                    <a asp-controller="Auth"
+                       asp-action="Logout"
+                       class="btn btn-outline-danger btn-sm">
+                        Logout
+                    </a>
+
+                </div>
+            }
+            else
+            {
+                <div>
+
+                    <a asp-controller="Auth"
+                       asp-action="Login"
+                       class="btn btn-outline-primary btn-sm me-2">
+                        Login
+                    </a>
+
+                    <a asp-controller="Auth"
+                       asp-action="Register"
+                       class="btn btn-primary btn-sm">
+                        Register
+                    </a>
+
+                </div>
+            }
+
+        </div>
+    </div>
+
+</nav>
+
+
+</header>
+
+<div class="d-flex">
+
+
+<!-- Sidebar -->
+<aside class="border-end bg-light"
+       style="width: 240px; min-height: calc(100vh - 57px);">
+
+    @await Html.PartialAsync("_Sidebar")
+
+</aside>
+
+
+<!-- Main Content -->
+<div class="flex-grow-1">
+
+    <main role="main" class="p-4">
+
+        @RenderBody()
+
+    </main>
+
+</div>
+
+
+</div>
+
+<footer class="border-top footer text-muted">
+
+
+<div class="container">
+
+    &copy; 2026 - mvc_machinetest -
+
+    <a asp-controller="Home"
+       asp-action="Privacy">
+        Privacy
+    </a>
+
+</div>
+
+
+</footer>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="~/js/site.js"
+        asp-append-version="true"></script>
+
+@await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

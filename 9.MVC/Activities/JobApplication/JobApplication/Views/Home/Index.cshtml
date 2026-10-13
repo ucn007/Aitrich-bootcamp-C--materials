@@ -1,0 +1,85 @@
+﻿ 
+@model IEnumerable<JobApplication.DTOs.Job.JobResponseDto>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container mt-5">
+
+    <div class="text-center mb-5">
+        <h1 class="display-4">Find Your Next Job</h1>
+
+        <p class="lead">
+            Explore the latest job opportunities.
+        </p>
+    </div>
+
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row">
+
+            @foreach (var job in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+
+                    <div class="card h-100 shadow-sm">
+
+                        <div class="card-body">
+
+                            <h4 class="card-title">
+                                @job.JobTitle
+                            </h4>
+
+                            <p class="text-muted">
+                                @job.JobType
+                            </p>
+
+                            <p class="card-text">
+                                @job.Description
+                            </p>
+
+                           
+
+                            <div class="mb-2">
+                                <strong>Experience:</strong>
+                                @job.Experience years
+                            </div>
+
+                            <div class="text-muted">
+                                Posted:
+                                @job.CreatedAt
+                                    .ToLocalTime()
+                                    .ToString("dd MMM yyyy")
+                            </div>
+
+                        </div>
+
+                        <div class="card-footer bg-white">
+
+                            <a asp-controller="Job"
+                               asp-action="Details"
+                               asp-route-id="@job.JobId"
+                               class="btn btn-primary">
+                                View Details
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            No jobs are currently available.
+        </div>
+    }
+
+</div>
+ 

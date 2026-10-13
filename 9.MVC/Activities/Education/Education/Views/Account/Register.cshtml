@@ -1,0 +1,447 @@
+@model Education.DTOs.User.RegisterDto
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Create Account</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            padding: 30px 20px;
+        }
+
+        .register-container {
+            width: 100%;
+            max-width: 850px;
+        }
+
+        .register-card {
+            background: #ffffff;
+            border-radius: 18px;
+            overflow: hidden;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+
+            display: grid;
+            grid-template-columns: 0.9fr 1.5fr;
+        }
+
+        /* LEFT SIDE */
+
+        .register-info {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 45px 35px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .register-info h1 {
+            font-size: 34px;
+            margin-bottom: 15px;
+        }
+
+        .register-info p {
+            font-size: 15px;
+            line-height: 1.7;
+            opacity: 0.9;
+        }
+
+        .info-list {
+            margin-top: 30px;
+            list-style: none;
+        }
+
+        .info-list li {
+            margin-bottom: 15px;
+            font-size: 14px;
+        }
+
+        .info-list span {
+            margin-right: 8px;
+        }
+
+        /* RIGHT SIDE */
+
+        .register-form {
+            padding: 40px;
+        }
+
+        .register-form h2 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            color: #777;
+            font-size: 14px;
+            margin-bottom: 25px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        .form-group {
+            margin-bottom: 18px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 7px;
+            color: #333;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+            background: white;
+            transition: 0.3s;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .validation-error {
+            color: #dc3545;
+            font-size: 12px;
+            margin-top: 5px;
+            display: block;
+        }
+
+        .register-button {
+            width: 100%;
+            padding: 13px;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-top: 5px;
+        }
+
+        .register-button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .login-text {
+            text-align: center;
+            margin-top: 20px;
+            color: #777;
+            font-size: 14px;
+        }
+
+        .login-text a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .login-text a:hover {
+            text-decoration: underline;
+        }
+
+        /* MOBILE */
+
+        @@media (max-width: 700px) {
+
+            .register-card {
+                grid-template-columns: 1fr;
+            }
+
+            .register-info {
+                padding: 30px;
+            }
+
+            .register-info h1 {
+                font-size: 28px;
+            }
+
+            .info-list {
+                display: none;
+            }
+
+            .register-form {
+                padding: 30px 25px;
+            }
+        }
+
+        @@media (max-width: 480px) {
+
+            .form-row {
+                grid-template-columns: 1fr;
+                gap: 0;
+            }
+
+            .register-info {
+                display: none;
+            }
+
+            .register-form {
+                padding: 30px 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="register-container">
+
+        <div class="register-card">
+
+            <!-- LEFT INFORMATION -->
+
+            <div class="register-info">
+
+                <h1>Welcome!</h1>
+
+                <p>
+                    Create your account and start your learning journey
+                    with our education platform.
+                </p>
+
+                <ul class="info-list">
+                    <li>
+                        <span>✓</span>
+                        Easy account registration
+                    </li>
+
+                    <li>
+                        <span>✓</span>
+                        Access your student dashboard
+                    </li>
+
+                    <li>
+                        <span>✓</span>
+                        Manage your courses
+                    </li>
+
+                    <li>
+                        <span>✓</span>
+                        Track your learning progress
+                    </li>
+                </ul>
+
+            </div>
+
+
+            <!-- REGISTRATION FORM -->
+
+            <div class="register-form">
+
+                <h2>Create Account</h2>
+
+                <p class="subtitle">
+                    Enter your details to create your account
+                </p>
+
+                <form asp-controller="Account"
+                      asp-action="Register"
+                      method="post">
+
+                    <!-- NAME + PHONE -->
+
+                    <div class="form-row">
+
+                        <div class="form-group">
+
+                            <label asp-for="Name">
+                                Full Name
+                            </label>
+
+                            <input asp-for="Name"
+                                   placeholder="Enter your full name" />
+
+                            <span asp-validation-for="Name"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label asp-for="Phone">
+                                Phone Number
+                            </label>
+
+                            <input asp-for="Phone"
+                                   type="tel"
+                                   placeholder="Enter phone number" />
+
+                            <span asp-validation-for="Phone"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- EMAIL + GENDER -->
+
+                    <div class="form-row">
+
+                        <div class="form-group">
+
+                            <label asp-for="Email">
+                                Email Address
+                            </label>
+
+                            <input asp-for="Email"
+                                   type="email"
+                                   placeholder="Enter your email" />
+
+                            <span asp-validation-for="Email"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label asp-for="Gender">
+                                Gender
+                            </label>
+
+                            <select asp-for="Gender">
+
+                                <option value="">
+                                    Select Gender
+                                </option>
+
+                                <option value="Male">
+                                    Male
+                                </option>
+
+                                <option value="Female">
+                                    Female
+                                </option>
+
+                                <option value="Other">
+                                    Other
+                                </option>
+
+                            </select>
+
+                            <span asp-validation-for="Gender"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- PASSWORD -->
+
+                    <div class="form-row">
+
+                        <div class="form-group">
+
+                            <label asp-for="Password">
+                                Password
+                            </label>
+
+                            <input asp-for="Password"
+                                   type="password"
+                                   placeholder="Create a password" />
+
+                            <span asp-validation-for="Password"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label asp-for="ConfirmPassword">
+                                Confirm Password
+                            </label>
+
+                            <input asp-for="ConfirmPassword"
+                                   type="password"
+                                   placeholder="Confirm password" />
+
+                            <span asp-validation-for="ConfirmPassword"
+                                  class="validation-error">
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- SUBMIT -->
+
+                    <button type="submit"
+                            class="register-button">
+
+                        Create Account
+
+                    </button>
+
+                </form>
+
+
+                <!-- LOGIN -->
+
+                <p class="login-text">
+
+                    Already have an account?
+
+                    <a asp-controller="Account"
+                       asp-action="Login">
+                        Login
+                    </a>
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,567 @@
+@model School_app.DTOs.User.RegisterDto
+
+@{
+Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Create Account | School App</title>
+
+<!-- Bootstrap -->
+<link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    rel="stylesheet">
+
+<!-- Bootstrap Icons -->
+<link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+<style>
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        min-height: 100vh;
+
+        font-family: Arial, sans-serif;
+
+        background:
+            radial-gradient(
+                circle at top left,
+                #6366f1 0%,
+                transparent 35%
+            ),
+            radial-gradient(
+                circle at bottom right,
+                #06b6d4 0%,
+                transparent 35%
+            ),
+            #0f172a;
+
+        color: white;
+    }
+
+    .register-wrapper {
+        min-height: 100vh;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        padding: 30px 20px;
+    }
+
+    .register-card {
+        width: 100%;
+        max-width: 470px;
+
+        padding: 40px;
+
+        border-radius: 24px;
+
+        background: rgba(255, 255, 255, 0.10);
+
+        border: 1px solid rgba(255, 255, 255, 0.18);
+
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+
+        box-shadow:
+            0 25px 60px rgba(0, 0, 0, 0.35);
+    }
+
+    .logo {
+        width: 64px;
+        height: 64px;
+
+        margin: 0 auto 20px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        border-radius: 18px;
+
+        background:
+            linear-gradient(
+                135deg,
+                #6366f1,
+                #8b5cf6
+            );
+
+        box-shadow:
+            0 10px 30px rgba(99, 102, 241, 0.4);
+
+        font-size: 28px;
+    }
+
+    .register-title {
+        text-align: center;
+
+        font-size: 30px;
+        font-weight: 700;
+
+        margin-bottom: 8px;
+    }
+
+    .register-subtitle {
+        text-align: center;
+
+        color: rgba(255, 255, 255, 0.6);
+
+        font-size: 14px;
+
+        margin-bottom: 30px;
+    }
+
+    .form-label {
+        color: rgba(255, 255, 255, 0.9);
+
+        font-size: 14px;
+
+        font-weight: 500;
+
+        margin-bottom: 8px;
+    }
+
+    .input-wrapper {
+        position: relative;
+    }
+
+    .input-icon {
+        position: absolute;
+
+        left: 15px;
+        top: 50%;
+
+        transform: translateY(-50%);
+
+        color: rgba(255, 255, 255, 0.45);
+
+        z-index: 2;
+    }
+
+    .form-control {
+        height: 52px;
+
+        border-radius: 12px;
+
+        padding-left: 45px;
+
+        background: rgba(255, 255, 255, 0.08);
+
+        border: 1px solid rgba(255, 255, 255, 0.15);
+
+        color: white;
+
+        transition: 0.25s ease;
+    }
+
+    .form-control::placeholder {
+        color: rgba(255, 255, 255, 0.38);
+    }
+
+    .form-control:focus {
+        color: white;
+
+        background: rgba(255, 255, 255, 0.12);
+
+        border-color: #818cf8;
+
+        box-shadow:
+            0 0 0 4px rgba(99, 102, 241, 0.15);
+    }
+
+    .password-toggle {
+        position: absolute;
+
+        right: 15px;
+        top: 50%;
+
+        transform: translateY(-50%);
+
+        border: none;
+
+        background: transparent;
+
+        color: rgba(255, 255, 255, 0.45);
+
+        cursor: pointer;
+    }
+
+    .password-toggle:hover {
+        color: white;
+    }
+
+    .register-btn {
+        width: 100%;
+
+        height: 52px;
+
+        border: none;
+
+        border-radius: 12px;
+
+        background:
+            linear-gradient(
+                135deg,
+                #6366f1,
+                #8b5cf6
+            );
+
+        color: white;
+
+        font-size: 16px;
+
+        font-weight: 600;
+
+        box-shadow:
+            0 10px 25px rgba(99, 102, 241, 0.3);
+
+        transition: 0.25s ease;
+    }
+
+    .register-btn:hover {
+        transform: translateY(-2px);
+
+        box-shadow:
+            0 15px 30px rgba(99, 102, 241, 0.4);
+    }
+
+    .login-text {
+        margin-top: 25px;
+
+        text-align: center;
+
+        color: rgba(255, 255, 255, 0.55);
+
+        font-size: 14px;
+    }
+
+    .login-link {
+        color: #a5b4fc;
+
+        text-decoration: none;
+
+        font-weight: 600;
+    }
+
+    .login-link:hover {
+        color: #c7d2fe;
+    }
+
+    .security-text {
+        text-align: center;
+
+        color: rgba(255, 255, 255, 0.35);
+
+        font-size: 12px;
+
+        margin-top: 22px;
+    }
+
+    .text-danger {
+        font-size: 12px;
+    }
+
+    @@media (max-width: 480px) {
+
+        .register-card {
+            padding: 30px 22px;
+
+            border-radius: 20px;
+        }
+
+        .register-title {
+            font-size: 26px;
+        }
+
+    }
+
+</style>
+
+
+</head>
+
+<body>
+
+<div class="register-wrapper">
+
+
+<div class="register-card">
+
+    <!-- Logo -->
+
+    <div class="logo">
+
+        <i class="bi bi-mortarboard-fill"></i>
+
+    </div>
+
+
+    <!-- Header -->
+
+    <h1 class="register-title">
+        Create Account
+    </h1>
+
+    <p class="register-subtitle">
+        Join the School App and get started
+    </p>
+
+
+    <!-- Register Form -->
+
+    <form
+        asp-controller="Auth"
+        asp-action="Register"
+        method="post">
+
+        @Html.AntiForgeryToken()
+
+        <div
+            asp-validation-summary="ModelOnly"
+            class="text-danger mb-3">
+        </div>
+
+
+        <!-- Name -->
+
+        <div class="mb-3">
+
+            <label
+                asp-for="Name"
+                class="form-label">
+
+                Full Name
+
+            </label>
+
+            <div class="input-wrapper">
+
+                <i class="bi bi-person input-icon"></i>
+
+                <input
+                    asp-for="Name"
+                    class="form-control"
+                    placeholder="Enter your full name"
+                    autocomplete="name">
+
+            </div>
+
+            <span
+                asp-validation-for="Name"
+                class="text-danger">
+            </span>
+
+        </div>
+
+
+        <!-- Email -->
+
+        <div class="mb-3">
+
+            <label
+                asp-for="Email"
+                class="form-label">
+
+                Email Address
+
+            </label>
+
+            <div class="input-wrapper">
+
+                <i class="bi bi-envelope input-icon"></i>
+
+                <input
+                    asp-for="Email"
+                    type="email"
+                    class="form-control"
+                    placeholder="Enter your email"
+                    autocomplete="email">
+
+            </div>
+
+            <span
+                asp-validation-for="Email"
+                class="text-danger">
+            </span>
+
+        </div>
+
+
+        <!-- Phone -->
+
+        <div class="mb-3">
+
+            <label
+                asp-for="Phone"
+                class="form-label">
+
+                Phone Number
+
+            </label>
+
+            <div class="input-wrapper">
+
+                <i class="bi bi-telephone input-icon"></i>
+
+                <input
+                    asp-for="Phone"
+                    type="tel"
+                    class="form-control"
+                    placeholder="Enter your phone number"
+                    autocomplete="tel">
+
+            </div>
+
+            <span
+                asp-validation-for="Phone"
+                class="text-danger">
+            </span>
+
+        </div>
+
+
+        <!-- Password -->
+
+        <div class="mb-4">
+
+            <label
+                asp-for="Password"
+                class="form-label">
+
+                Password
+
+            </label>
+
+            <div class="input-wrapper">
+
+                <i class="bi bi-lock input-icon"></i>
+
+                <input
+                    asp-for="Password"
+                    type="password"
+                    id="password"
+                    class="form-control"
+                    placeholder="Create a password"
+                    autocomplete="new-password">
+
+                <button
+                    type="button"
+                    class="password-toggle"
+                    onclick="togglePassword()">
+
+                    <i
+                        id="passwordIcon"
+                        class="bi bi-eye">
+                    </i>
+
+                </button>
+
+            </div>
+
+            <span
+                asp-validation-for="Password"
+                class="text-danger">
+            </span>
+
+        </div>
+
+
+        <!-- Register -->
+
+        <button
+            type="submit"
+            class="register-btn">
+
+            <i class="bi bi-person-plus me-2"></i>
+
+            Create Account
+
+        </button>
+
+    </form>
+
+
+    <!-- Login -->
+
+    <div class="login-text">
+
+        Already have an account?
+
+        <a
+            href="/Auth/Login"
+            class="login-link">
+
+            Sign In
+
+        </a>
+
+    </div>
+
+
+    <!-- Security -->
+
+    <div class="security-text">
+
+        <i class="bi bi-shield-check me-1"></i>
+
+        Your information is securely protected
+
+    </div>
+
+</div>
+
+
+</div>
+
+<script>
+
+    function togglePassword() {
+
+        const password =
+            document.getElementById("password");
+
+        const icon =
+            document.getElementById("passwordIcon");
+
+
+        if (password.type === "password") {
+
+            password.type = "text";
+
+            icon.classList.remove("bi-eye");
+
+            icon.classList.add("bi-eye-slash");
+
+        } else {
+
+            password.type = "password";
+
+            icon.classList.remove("bi-eye-slash");
+
+            icon.classList.add("bi-eye");
+
+        }
+
+    }
+
+</script>
+
+</body>
+
+</html>

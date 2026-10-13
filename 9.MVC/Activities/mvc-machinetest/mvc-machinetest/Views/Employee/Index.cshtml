@@ -1,0 +1,159 @@
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+
+    <div>
+        <h2 class="fw-bold mb-1">Employees</h2>
+        <p class="text-muted">
+            Manage your employees
+        </p>
+    </div>
+
+    <a asp-controller="Employee"
+       asp-action="Create"
+       class="btn btn-primary">
+        + Add Employee
+    </a>
+
+</div>
+
+ @model List<mvc_machinetest.Models.Employee>
+
+@if (Model != null && Model.Any())
+{
+    <!-- Employee Cards -->
+    <div class="row g-4">
+
+        @foreach (var employee in Model)
+        {
+            <div class="col-12 col-md-6 col-xl-4">
+
+                <div class="card border-0 shadow-sm h-100">
+
+                    <div class="card-body">
+
+                        <!-- Employee Header -->
+                        <div class="d-flex align-items-center mb-4">
+
+                            <div class="rounded-circle bg-primary text-white
+                                        d-flex align-items-center justify-content-center"
+                                 style="width:55px; height:55px; font-size:20px;">
+
+                                @(employee.Name?.Substring(0, 1).ToUpper())
+
+                            </div>
+
+                            <div class="ms-3">
+                                <h5 class="mb-1 fw-bold">
+                                    @employee.Name
+                                </h5>
+
+                                <span class="badge bg-primary-subtle text-primary">
+                                    Employee
+                                </span>
+                            </div>
+
+                        </div>
+
+
+                        <!-- Employee Details -->
+
+                        <div class="mb-3">
+                            <small class="text-muted d-block">
+                                Email
+                            </small>
+
+                            <span>
+                                @employee.Email
+                            </span>
+                        </div>
+
+                        <div class="mb-3">
+                            <small class="text-muted d-block">
+                                Phone
+                            </small>
+
+                            <span>
+                                @employee.Phone
+                            </span>
+                        </div>
+
+                        <div class="mb-3">
+                            <small class="text-muted d-block">Department</small>
+                            <span>@employee.Department?.Name</span>
+                        </div>
+
+
+                        <!-- Actions -->
+
+                        <div class="d-flex gap-2 mt-4">
+
+                            <a asp-controller="Employee"
+                               asp-action="Details"
+                               asp-route-id="@employee.Id"
+                               class="btn btn-outline-secondary btn-sm flex-fill">
+                                View
+                            </a>
+
+                            <a asp-controller="Employee"
+                               asp-action="Edit"
+                               asp-route-id="@employee.Id"
+                               class="btn btn-outline-primary btn-sm flex-fill">
+                                Edit
+                            </a>
+
+                            <a asp-controller="Employee"
+                               asp-action="Delete"
+                               asp-route-id="@employee.Id"
+                               class="btn btn-outline-danger btn-sm flex-fill">
+                                Delete
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+}
+else
+{
+    <!-- Empty State -->
+
+    <div class="card border-0 shadow-sm">
+
+        <div class="card-body">
+
+            <div class="text-center py-5">
+
+                <div class="mb-3" style="font-size: 60px;">
+                    👥
+                </div>
+
+                <h4 class="fw-bold">
+                    No Employees Found
+                </h4>
+
+                <p class="text-muted mb-4">
+                    There are currently no employees available.
+                </p>
+
+                <a asp-controller="Employee"
+                   asp-action="Create"
+                   class="btn btn-primary">
+                    + Add Employee
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+}
+ 

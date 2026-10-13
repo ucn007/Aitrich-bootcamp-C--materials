@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="dashboard">
+
+    <div class="mb-4">
+        <h2 class="fw-bold">Dashboard</h2>
+        <p class="text-muted">
+            Welcome to the Employee Management System.
+        </p>
+    </div>
+
+    <div class="row g-4">
+
+        <!-- Employees -->
+        <div class="col-md-6 col-lg-4">
+            <div class="dashboard-card">
+                <div class="card-icon employee-icon">
+                    <i class="bi bi-people-fill"></i>
+                </div>
+
+                <div>
+                    <h5>Employees</h5>
+                    <p>Manage employee information</p>
+
+                    <a asp-controller="Employee"
+                       asp-action="Index"
+                       class="btn btn-sm btn-primary">
+                        View Employees
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Departments -->
+        <div class="col-md-6 col-lg-4">
+            <div class="dashboard-card">
+                <div class="card-icon department-icon">
+                    <i class="bi bi-building-fill"></i>
+                </div>
+
+                <div>
+                    <h5>Departments</h5>
+                    <p>Manage departments</p>
+
+                    <a asp-controller="Department"
+                       asp-action="Index"
+                       class="btn btn-sm btn-primary">
+                        View Departments
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
